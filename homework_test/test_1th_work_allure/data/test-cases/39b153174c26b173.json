@@ -1,0 +1,104 @@
+{
+  "uid" : "39b153174c26b173",
+  "name" : "test_add_equal[add-a-b-ab]",
+  "fullName" : "homework_test.test_1th_work.TestCalculator#test_add_equal",
+  "historyId" : "35849cfe273aacf9094f6f7034181f97",
+  "time" : {
+    "start" : 1617987121618,
+    "stop" : 1617987121618,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCalculator",
+    "time" : {
+      "start" : 1617987121550,
+      "stop" : 1617987121551,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCalculator::0",
+    "time" : {
+      "start" : 1617987121805,
+      "stop" : 1617987121806,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "计算器加法正向用例"
+  }, {
+    "name" : "feature",
+    "value" : "计算器模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "homework_test"
+  }, {
+    "name" : "suite",
+    "value" : "test_1th_work"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculator"
+  }, {
+    "name" : "host",
+    "value" : "ShimmerShiningHoon"
+  }, {
+    "name" : "thread",
+    "value" : "12736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "homework_test.test_1th_work"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "'a'"
+  }, {
+    "name" : "b",
+    "value" : "'b'"
+  }, {
+    "name" : "expected_value",
+    "value" : "'ab'"
+  }, {
+    "name" : "func",
+    "value" : "<bound method Calculator.add of <homework_test.test_1th_work.Calculator object at 0x0000016622C37448>>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39b153174c26b173.json",
+  "parameterValues" : [ "'a'", "'b'", "'ab'", "<bound method Calculator.add of <homework_test.test_1th_work.Calculator object at 0x0000016622C37448>>" ]
+}

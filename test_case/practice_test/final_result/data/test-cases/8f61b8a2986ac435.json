@@ -1,0 +1,148 @@
+{
+  "uid" : "8f61b8a2986ac435",
+  "name" : "test_baidu_search_content[allure]",
+  "fullName" : "test_case.practice_test.test_baidu_search.TestBaiduSearch#test_baidu_search_content",
+  "historyId" : "fecceb702f8b8036653f68828453b350",
+  "time" : {
+    "start" : 1617969320015,
+    "stop" : 1617969335437,
+    "duration" : 15422
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1: 打开浏览器输入百度网址",
+      "time" : {
+        "start" : 1617969320015,
+        "stop" : 1617969325076,
+        "duration" : 5061
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "步骤2:在搜索栏输入allure,并点击百度一下",
+      "time" : {
+        "start" : 1617969325076,
+        "stop" : 1617969332544,
+        "duration" : 7468
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "步骤3: 截图保存在项目中",
+      "time" : {
+        "start" : 1617969332544,
+        "stop" : 1617969332999,
+        "duration" : 455
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a6f68c4fe7871cc5",
+        "name" : "ab30f8d7-f5c0-4161-9827-73889ac53105-attachment.png",
+        "source" : "a6f68c4fe7871cc5.png",
+        "type" : "image/png",
+        "size" : 307491
+      }, {
+        "uid" : "586b7432d98d6e4a",
+        "name" : "Attach Html Type",
+        "source" : "586b7432d98d6e4a.html",
+        "type" : "text/html",
+        "size" : 44
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "步骤4: 关闭浏览器,结束测试",
+      "time" : {
+        "start" : 1617969332999,
+        "stop" : 1617969335437,
+        "duration" : 2438
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "百度搜索模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.practice_test"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBaiduSearch"
+  }, {
+    "name" : "host",
+    "value" : "ShimmerShiningHoon"
+  }, {
+    "name" : "thread",
+    "value" : "2604-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.practice_test.test_baidu_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "search_text",
+    "value" : "'allure'"
+  } ],
+  "links" : [ {
+    "name" : "https://www.github.com",
+    "url" : "https://www.github.com",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f61b8a2986ac435.json",
+  "parameterValues" : [ "'allure'" ]
+}

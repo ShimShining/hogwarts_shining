@@ -1,0 +1,107 @@
+{
+  "uid" : "aeff9e7d43b8f492",
+  "name" : "test_add_exception[add-1-a-TypeError-unsupported operand type(s) for +]",
+  "fullName" : "homework_test.test_1th_work.TestCalculator#test_add_exception",
+  "historyId" : "067a3c52e6bb50979c981b79e68419b1",
+  "time" : {
+    "start" : 1617987121686,
+    "stop" : 1617987121686,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCalculator",
+    "time" : {
+      "start" : 1617987121550,
+      "stop" : 1617987121551,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestCalculator::0",
+    "time" : {
+      "start" : 1617987121805,
+      "stop" : 1617987121806,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "计算器加法异常场景用例"
+  }, {
+    "name" : "feature",
+    "value" : "计算器模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "homework_test"
+  }, {
+    "name" : "suite",
+    "value" : "test_1th_work"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculator"
+  }, {
+    "name" : "host",
+    "value" : "ShimmerShiningHoon"
+  }, {
+    "name" : "thread",
+    "value" : "12736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "homework_test.test_1th_work"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "1"
+  }, {
+    "name" : "b",
+    "value" : "'a'"
+  }, {
+    "name" : "ex_pattern",
+    "value" : "'unsupported operand type(s) for +'"
+  }, {
+    "name" : "exception",
+    "value" : "'TypeError'"
+  }, {
+    "name" : "func",
+    "value" : "<bound method Calculator.add of <homework_test.test_1th_work.Calculator object at 0x0000016622C37448>>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aeff9e7d43b8f492.json",
+  "parameterValues" : [ "1", "'a'", "'unsupported operand type(s) for +'", "'TypeError'", "<bound method Calculator.add of <homework_test.test_1th_work.Calculator object at 0x0000016622C37448>>" ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "百度搜索模块",
+    "children" : [ {
+      "name" : "test_baidu_search_content[pytest]",
+      "uid" : "f228c080bdabc045",
+      "parentUid" : "16e7ef3d38ef5fa8887f66b5d75b7460",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617969298688,
+        "stop" : 1617969319997,
+        "duration" : 21309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'pytest'" ]
+    }, {
+      "name" : "test_baidu_search_content[allure]",
+      "uid" : "8f61b8a2986ac435",
+      "parentUid" : "16e7ef3d38ef5fa8887f66b5d75b7460",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617969320015,
+        "stop" : 1617969335437,
+        "duration" : 15422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'allure'" ]
+    }, {
+      "name" : "test_baidu_search_content[unittest]",
+      "uid" : "ba11f37d297b87ed",
+      "parentUid" : "16e7ef3d38ef5fa8887f66b5d75b7460",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617969335445,
+        "stop" : 1617969352241,
+        "duration" : 16796
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'unittest'" ]
+    } ],
+    "uid" : "16e7ef3d38ef5fa8887f66b5d75b7460"
+  } ]
+}
