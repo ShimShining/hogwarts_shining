@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "825bd06bad7a1b4883face951b328779",
+    "name" : "homework_test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 32,
+      "unknown" : 0,
+      "total" : 32
+    }
+  } ]
+}
