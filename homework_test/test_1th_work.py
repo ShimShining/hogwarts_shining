@@ -16,6 +16,7 @@ import allure
 global data
 data = yaml.safe_load(open("./test_1th_work.yml"))
 
+
 # 计算器
 class Calculator:
     # 相加
@@ -47,6 +48,7 @@ class TestCalculator:
 
         print("---- class setup ----")
         self.calc = Calculator()
+        self.accuracy = 0.000001
         # add = self.calc.add
         # self.insert_func(data["add_equal"], add)
         # self.insert_func(data["add_unequal"], add)
@@ -68,7 +70,10 @@ class TestCalculator:
     @pytest.mark.parametrize("func,a,b,expected_value", data["add_equal"])
     def test_add_equal(self, func, a, b, expected_value):
 
-        assert func(a, b) == expected_value
+        if type(a) == float and type(b) == float:
+            assert abs(func(a, b) - expected_value) < self.accuracy
+        else:
+            assert func(a, b) == expected_value
 
     @allure.story("计算器加法正向用例")
     @pytest.mark.parametrize("func,a,b,expected_value", data["add_unequal"])
