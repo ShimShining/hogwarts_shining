@@ -14,7 +14,7 @@ import allure
 
 
 global data
-data = yaml.safe_load(open("./test_1th_work.yml"))
+data = yaml.safe_load(open("../datas/test_1th_work.yml"))
 
 
 # 计算器
@@ -48,7 +48,7 @@ class TestCalculator:
 
         print("---- class setup ----")
         self.calc = Calculator()
-        self.accuracy = 0.000001
+        self.accuracy = 0.000001   # 浮点数精度误差
         # add = self.calc.add
         # self.insert_func(data["add_equal"], add)
         # self.insert_func(data["add_unequal"], add)

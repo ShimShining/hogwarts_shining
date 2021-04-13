@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Apr 09 19:55:35 CST 2021","Fri Apr 09 19:55:52 CST 2021","16796","test_case.practice_test","test_baidu_search","TestBaiduSearch","","","test_baidu_search_content[unittest]",""
-"passed","Fri Apr 09 19:54:58 CST 2021","Fri Apr 09 19:55:19 CST 2021","21309","test_case.practice_test","test_baidu_search","TestBaiduSearch","","","test_baidu_search_content[pytest]",""
-"passed","Fri Apr 09 19:55:20 CST 2021","Fri Apr 09 19:55:35 CST 2021","15422","test_case.practice_test","test_baidu_search","TestBaiduSearch","","","test_baidu_search_content[allure]",""

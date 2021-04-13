@@ -1,7 +1,5 @@
-#!/usr/bin/env python37
-# _*_ coding:utf-8 _*_
+# -*- coding: utf-8 -*-
 """
 Author : 'Shining'
-Date:
-Describe:
 """
+from test_case.Calculator import Calculator

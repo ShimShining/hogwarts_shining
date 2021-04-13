@@ -2,222 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/homework_test/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_2th_work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_case/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_case/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_case/practice_test/test_login_fucntion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_case/test_div.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_case/test_fix_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hogwarts_shining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hogwarts_shining.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_1th_work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work.yml" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_1th_work.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/00a5932a-891d-40f0-964d-5fc7e01b93c0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/01eb62e8-f2ae-492d-8dee-8895c480fb30-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/05fcaaa9-57c1-4956-ab5c-7ab05e669541-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/09417cc5-9ca1-4924-9688-bb2fc6136355-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/094ca1f9-21f6-4dcd-96db-9c269d1a7f11-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/0aa09220-9dad-4a6a-8bbc-ea783a95e638-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/0b2e680f-8d8e-4921-ae1e-627b27fbefdf-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/0f4f9b87-427e-4f9a-9419-2e1ac231cb2f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/10c96a3e-bf29-4ee3-9c07-68eac14ac990-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/11ef6beb-2965-44fa-a270-6d3c4da0edb8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/13694784-06b1-449c-94c5-ed67a9766531-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/13fff6ae-8440-43cc-8bbe-bdf124cf8e2c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/14c35f3b-93e0-4e23-8daa-ce8956433648-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/1521c534-4439-4d7c-bedf-78b9c8561771-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/17994b2a-0c99-4500-b1f4-d6c58713f00b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/1ab96b5e-1db0-4563-a3a5-26abbf630083-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/1c5f8713-1176-4c74-8b1b-ed6de0b3cae5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/205a4f79-34ee-402c-a0c6-86d0b2aecfa7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/2077d4a2-2437-4e63-be5c-83adc42f486c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/23dbfafa-ced6-4fd6-b912-f3ffebd82bef-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/289c1e4e-75e8-4516-808d-ec4106fe0566-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/2dacc1d6-1911-40c8-95a8-66acc5c3efa2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3355c572-0a3e-40e1-ab53-c5d7590ea5ef-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3533bee3-e663-47aa-aa29-ffb5c3ac78e4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3840d863-8ce7-4d37-881a-ef94f6428df6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/390a395e-1030-44cd-b26c-c944917fe141-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/396dee38-7864-4329-b8b4-343dbab6dd78-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/39ca3d12-0d51-4bd9-8ab5-443ab9700b1f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3ae7f712-e3b6-4244-83df-651f785fdda1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3b4be450-af8f-4a9c-9086-658ca0a24e8a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3da48af5-7929-4479-93cf-9176ff4f6cd6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3e05bf84-475c-4a82-9e37-f87d536dc071-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3e2c6145-2167-4a9a-b7cf-2d74f8f6d4f8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/3efd1a0b-cd03-405b-90b2-1780e9e06151-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/425b54da-992c-4bf1-a187-136958e1f2bd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/49a88c87-fb9d-40f3-8513-e704558052c3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/4a9ffb8b-5a05-4ac8-a96e-d1772f3d4f66-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/4d936479-f8cd-4a14-aa37-258176cbbfa5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/4e652311-9102-44ff-9f62-1b29a1945bea-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/4f0ddff7-f8ef-4c77-b1d9-cfdc45a1de92-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/4f766d92-1462-4e8c-aeec-a825b9a3335d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/50077c0c-3677-45d2-8f15-b764881a0289-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/51a85b97-a236-4311-9167-3c9cd2f18909-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/523e5428-c569-46a7-8cd3-b12d15563170-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/530c42d9-45d4-45c8-a17d-6c9a26365aae-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/550ae324-0348-49ed-81f1-bba7bf556974-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/58987a99-db02-4fe5-8f7b-05fea9955be0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/5a857cf4-a13f-4645-9358-ac70f36def13-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/5e851a58-7b18-484c-9b6d-60f5000db3e5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/5fe00cd1-8a7e-4ce5-b68f-57b0aa9ec31d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/62396680-9360-4c19-8f36-20d59de1b042-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/62d4fcb9-3892-414e-81ab-e63792eb4178-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/65ebd661-60ad-4b4b-a33e-611a5aafd87a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/675768e9-bec4-4dd4-b9a6-2cd4ea4b27e2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/6a101e19-e1fa-4d4d-9b6a-41bb9e88e1c2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/6a67c729-0fca-44fb-8d46-1928522b0cee-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/6cd78fdd-b971-45d4-9189-ab6ae0ca9740-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/6d589ba9-ca22-4347-a3c3-13eab3563510-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/6f35cf7a-df02-44c0-a519-a16bec837009-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/70150cbd-86eb-4312-9c47-d3723b5a88bd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/7318d12c-e8dc-490d-b8d3-e4cda78fd33b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/73745c01-1433-41bf-8209-5c9f9929ee46-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/74a5b1a0-22bc-4647-9f7e-9e4f2bd9ef07-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/7795b8e0-ebd7-4da6-9491-a84c56eb3643-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/7980d6f4-b68a-40e8-ba83-089ef8dc06fa-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/7e98e217-062e-4c97-97e7-0706c0676a5d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/7f5cf4ef-0aae-4938-83c4-894b7f3cebf7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/80931af1-b8ca-4f6d-8ee8-47334170baf0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/8136b17b-eee2-424a-81b6-e38432eb23ef-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/83b01014-5f06-4fcb-8fac-fab6d9756efa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/8509f631-9e59-442b-8a13-652b45232168-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/878c041b-dde5-483b-9c1f-fe3e92b72c8c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/884fab88-19af-4e71-bf38-bc22cb401859-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/8b0938c9-c489-43bd-ac94-e16ca6032be4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/8b8dd5a3-5801-4b6e-a97d-f71777c9aaed-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/8e4f661a-8aab-4ae9-9e02-a91690dfb02b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/8e57d5f6-eb79-4d5f-97ce-1d46a518a09a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9038f45b-339e-4143-957d-4cc213b0eeee-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/91fb6fe8-f321-4c32-8895-acab3e34628b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9229695c-807f-4b25-9fc7-ae907c9a9ddf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/93c8b446-7447-4604-bfe6-1689d6b7ea4c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9740b0c8-b7ab-45fa-937b-3c312bbd2985-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9872dd38-8dd4-4734-8c18-7828bca486f7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/990b83a5-a83b-4e01-b58c-0a51880ecccd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/99e18317-ec4d-4ccb-b330-6a7823df6755-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9a772c1a-c1ea-4e38-8a91-1fa4cf5bd966-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9ba57bd4-f24f-43f8-b716-6094593cc8ef-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9c739563-b0d2-4092-962f-18e673fdd7dc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9c97238e-99d9-4efa-a32d-4902e61de90f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9d41be92-735f-4ba1-87f1-b2cfc6279580-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9dc73c8f-14d9-44df-815c-ba9dc22804e6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/9f76e949-7ee0-473b-a2b0-4ff3f03419f1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/a134a1cc-cd8c-4f09-8e34-51f3475862b7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/a269f353-4eba-4946-b208-46ac42701bc0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/a4a59415-1c25-48ac-a527-64cfb94cdb1d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/a58597a8-7cf0-4f8e-8034-8f1998a859b8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/a73a36a9-1efa-495e-952d-ed444bb602a0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/ab7765c5-a40b-4a5a-877a-1e40122dedc1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/ad37799d-cefe-4d7a-b77f-a601d54edbb3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b149d947-270b-4156-a674-13efbfe24457-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b1968d2b-2ad0-4e89-bc6e-dd621f428644-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b2c54e1d-cb31-48cf-9901-4248757f7405-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b3f39aa8-6f49-40f8-9f0f-77f35b7ad529-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b5335dbf-8a76-4221-8e5a-f4cfb8be2a10-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b70245e4-65b4-4f94-9087-0b6dd984d485-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/b7cc4b97-16ef-47b5-a6f8-37c1112de42c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/bcc6c26c-06fc-4f6a-864f-4e56a66c807c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/be2becd1-776d-4d45-9787-a488a1137e06-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/beb373dd-c65f-4639-9175-8e4a142c8bec-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/c10114f0-f075-4dd5-bbe8-11f203e6754f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/c281ed11-c241-418a-bb7e-f38cc1549764-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/c796815f-8d22-454d-895d-5a36ae32f028-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/ca00354e-2301-4f34-9dc7-c14cdabe3ed2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/cb0aa1b4-594c-4be9-977d-2bb4a2d8a16a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/d4775497-47c1-4ee2-9098-48f72fb9d8ef-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/d58a0f5b-9107-446b-9ce6-34dd72a580d2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/d634b1a4-55c3-4447-9734-92e7d6d80ee5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/d8461b42-0c33-4e1a-a45e-7d9113827eed-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/da5dcbb6-d451-4fee-924f-e04533e8ed27-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/e5afe425-8e2d-4343-926d-1ba818591bd3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/e6b27ddb-5eb6-4084-9150-8db863aa22c8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/e7761687-f3d4-4b7d-81b9-31ee2b3809a9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/e7d75192-03d4-40e9-95ea-e7940ec9a223-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/e8f47845-efa5-4893-98a8-07968c080aa3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/eb9e8726-1424-41d1-80ea-7ca83354860b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/ed6eaea9-0639-417c-bac9-52c8c2737133-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/ee1417c9-45ee-48a7-b387-3bb0e5fd892a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/ee2be71e-a0d2-426d-9b31-8c6fb9ac60ec-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f02e9d31-c43b-4783-b177-002496407b4c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f1a9227b-762d-43e7-8284-298e2aefff2f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f1e0b691-f718-440a-b640-5f63219d2c58-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f2ada8c6-e831-4b49-a21f-eddfacea9d61-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f2e9d0de-f554-4ac6-b0ca-d6c6564bc09f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f4315b09-47c1-4e33-8902-e48afbae9701-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f46eb960-8599-4c89-b0cd-38630f61c997-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f5db36ad-32a1-460e-8f9b-3b28e8dd1008-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f5f60562-be97-4ae0-a4e2-a7e5b4e0eed6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/f9e35bd5-f588-4550-95c5-2709f3de2a89-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fbb22eb1-b7ef-4664-99bf-01fd17f37f5d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fbe82235-d9ee-4390-9f97-0bf03991b58c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fc398895-a3f1-4498-ab8e-f9774f1f7f0f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fc710324-973f-4d2b-ad64-31b33452ce16-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fca38b74-c0cc-44c5-9887-e5f039b48fa1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fd342a09-19f5-42fa-9144-a242cf6971f1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work/fdfc5e26-5658-4e38-9244-f66d59dd54e0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/1189d5c38ab3a15f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/1878b8c98e158b84.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/219a43f3d4c3f9c7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/27fb459247cd559a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/39b153174c26b173.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/3a019cfd5bce34dc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/3c1732b9d973a247.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/50c042a35961c923.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/56700dd9ca5132ee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/60444c1866829870.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/65cb2040b409c3c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/6709903db63b0b7a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/6991ecaaec5ac541.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/7243cf882dfd639c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/7353d7e8e5d62ee1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/78fa50c9a5c2992d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/7b74d7a5a512e766.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/8282c231c01860af.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/8c909faf89badaf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/8cd2cad05eca2581.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/90d298aee1de6874.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/9591289665d22245.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/a02fe8aa4aa2f2f3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/aeff9e7d43b8f492.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/b3776278c85dbacb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/d3ef974e182e643d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/dd5de9cfa03e6a0f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/ddc3093953c38968.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/e379de7cc3e522a2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/fb3457aac8ccc09b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/test-cases/fe767e0a6d6e936f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work_allure/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work.yml" beforeDir="false" afterPath="$PROJECT_DIR$/datas/test_1th_work.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/365b3fe5b49059e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/48e62fb8678952b0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/586b7432d98d6e4a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/a6f68c4fe7871cc5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/ba7ba376aa03d85a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/ec5edc2ff73239.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/test-cases/8f61b8a2986ac435.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/test-cases/ba11f37d297b87ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/test-cases/f228c080bdabc045.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/test_1th_work/a423191f-c50d-4afc-9450-f78768a7aea9-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/test_1th_work/af6a2aea-a766-4b89-9da6-286e6e4ee1c4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/practice_test/test_1th_work/f72a8319-d702-4b73-a98c-410fd72a7e04-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report/08d7a619-7d29-410e-9cf6-392c0aa615ee-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report/1b963590-e4ed-4206-a731-9b3eff8a1537-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report/940f7ccc-50e9-4ad0-8d86-ab367df0e05d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report/9c65edf6-38a2-4122-8cff-d655cea7a52f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report/ad8f418a-7407-4cca-9d3d-058294fee8a4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report2/1f341843-e102-4742-9527-e5527c9afce3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_attach_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_attach_func.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -227,46 +82,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_data_driven_TestDemo.coverage" NAME="py.test for test_data_driven.TestDemo Coverage Results" MODIFIED="1617950666710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_setup_tear_test_add.coverage" NAME="py.test for test_setup_tear.test_add Coverage Results" MODIFIED="1617887006348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_data_driven_TestDemo_test_demo.coverage" NAME="py.test for test_data_driven.TestDemo.test_demo Coverage Results" MODIFIED="1617950222217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_excp_test_zero_division.coverage" NAME="py.test for test_excp.test_zero_division Coverage Results" MODIFIED="1617984838521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_sample_test_answer.coverage" NAME="py.test for test_sample.test_answer Coverage Results" MODIFIED="1617945640449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_sample_test_test_answer.coverage" NAME="py.test for sample_test.test_answer Coverage Results" MODIFIED="1617885864710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_data_driven_TestDemo.coverage" NAME="py.test for test_data_driven.TestDemo Coverage Results" MODIFIED="1617950666710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_div_TestDiv.coverage" NAME="py.test for test_div.TestDiv Coverage Results" MODIFIED="1618224295766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_div_py.coverage" NAME="py.test in test_div.py Coverage Results" MODIFIED="1618223280227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_data_driven_TestDemo_test_demo.coverage" NAME="py.test for test_data_driven.TestDemo.test_demo Coverage Results" MODIFIED="1617950222217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_1th_work_TestCalculator.coverage" NAME="py.test in test_1th_work.TestCalculator Coverage Results" MODIFIED="1618222398326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_1th_work_py.coverage" NAME="py.test in test_1th_work.py Coverage Results" MODIFIED="1618222422889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$demo.coverage" NAME="demo Coverage Results" MODIFIED="1617981801922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_div_TestDiv_test_div.coverage" NAME="py.test for test_div.TestDiv.test_div Coverage Results" MODIFIED="1618224341371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_2th_work_TestCalculator_test_add_equal.coverage" NAME="py.test for test_2th_work.TestCalculator.test_add_equal Coverage Results" MODIFIED="1618291634133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_param_test_inter.coverage" NAME="py.test for test_param.test_inter Coverage Results" MODIFIED="1617888026743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_fix_login_test_login.coverage" NAME="py.test for test_fix_login.test_login Coverage Results" MODIFIED="1618219288094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="test_feature_allure.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/test_feature_allure.py">
+      <file leaf-file-name="test_1th_work.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datas/test_1th_work.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-              <folding>
-                <element signature="e#91#104#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="416">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_attach_func.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/test_attach_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-              <folding>
-                <element signature="e#91#104#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_1th_work.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_1th_work.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework_test/test_1th_work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+            <state relative-caret-position="338">
+              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="31" />
               <folding>
                 <element signature="e#178#191#0" expanded="true" />
               </folding>
@@ -274,55 +121,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="python_api.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/python_api.py">
+      <file leaf-file-name="test_2th_work.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_2th_work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15652">
-              <caret line="621" column="48" selection-start-line="621" selection-start-column="31" selection-end-line="621" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_1th_work.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework_test/test_1th_work.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_baidu_search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_baidu_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="26">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
               <folding>
-                <element signature="e#114#127#0" expanded="true" />
+                <element signature="e#221#234#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_link.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/test_link.py">
+      <file leaf-file-name="hookspec.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/hookspec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="543">
+              <caret line="440" column="27" selection-start-line="440" selection-start-column="4" selection-end-line="440" selection-end-column="27" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
+              <folding>
+                <element signature="e#95#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="e#78#91#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/Calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="微信图片_20210412191202.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datas/微信图片_20210412191202.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -334,13 +203,25 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hookspec</find>
+      <find>code</find>
+      <find>encode</find>
+      <find>pytest_collection_finish</find>
+      <find>pytest_runtest_makereport</find>
+      <find>items</find>
+      <find>pytest_runtest_logfinish</find>
+      <find>pytest_runtest_logstart</find>
+      <find>pytest_runtestloop</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/test_case/sample_test.py" />
         <option value="$PROJECT_DIR$/test_case/test_setup_tear.py" />
         <option value="$PROJECT_DIR$/test_case/test_param.py" />
@@ -359,7 +240,17 @@
         <option value="$PROJECT_DIR$/homework_test/test_1th_work/test_excep.py" />
         <option value="$PROJECT_DIR$/homework_test/test_excp.py" />
         <option value="$PROJECT_DIR$/homework_test/test_1th_work.yml" />
+        <option value="$PROJECT_DIR$/test_case/practice_test/test_login_fucntion.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/test_case/test_fix_login.py" />
+        <option value="$PROJECT_DIR$/test_case/test_div.py" />
+        <option value="$PROJECT_DIR$/test_case/calculator.py" />
+        <option value="$PROJECT_DIR$/test_case/conftest.py" />
+        <option value="$PROJECT_DIR$/test_case/__init__.py" />
         <option value="$PROJECT_DIR$/homework_test/test_1th_work.py" />
+        <option value="$PROJECT_DIR$/homework_test/test_2th_work.py" />
+        <option value="$PROJECT_DIR$/datas/test_1th_work.yml" />
+        <option value="$PROJECT_DIR$/homework_test/conftest.py" />
       </list>
     </option>
   </component>
@@ -373,12 +264,14 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1452" />
-    <option name="y" value="-840" />
+    <option name="x" value="-1560" />
+    <option name="y" value="-162" />
     <option name="width" value="1464" />
     <option name="height" value="2583" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -394,17 +287,53 @@
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
               <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
+              <item name="datas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
               <item name="homework_test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
               <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
               <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hogwarts_shining) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hogwarts_shining) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hogwarts_shining) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hogwarts_shining) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="_pytest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,10 +344,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../autoTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personProc\hogwarts_shining\datas" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -432,26 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_excp.test_zero_division">
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="hogwarts_shining" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_test/demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test for test_2th_work.TestCalculator.test_add_equal">
     <configuration name="py.test for test_1th_work.TestCalculator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -467,7 +382,22 @@
       <option name="_new_target" value="&quot;test_1th_work.TestCalculator&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_1th_work.TestCalculator.test_add_exception" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_1th_work.TestCalculator.test_add_equal" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="hogwarts_shining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\personProc\hogwarts_shining\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1th_work.TestCalculator.test_add_equal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_2th_work.TestCalculator.test_add_equal" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -479,53 +409,36 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_1th_work.TestCalculator.test_add_exception&quot;" />
+      <option name="_new_target" value="&quot;test_2th_work.TestCalculator.test_add_equal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_data_driven.TestDemo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_div.TestDiv.test_div" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\personProc\hogwarts_shining\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;-vs&quot;" />
-      <option name="_new_target" value="&quot;test_data_driven.TestDemo&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_excp.test_zero_division" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="hogwarts_shining" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_excp.test_zero_division&quot;" />
+      <option name="_new_target" value="&quot;test_div.TestDiv.test_div&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_data_driven.TestDemo" />
-      <item itemvalue="Python.demo" />
+      <item itemvalue="Python tests.py.test for test_div.TestDiv.test_div" />
+      <item itemvalue="Python tests.py.test for test_1th_work.TestCalculator.test_add_equal" />
       <item itemvalue="Python tests.py.test for test_1th_work.TestCalculator" />
-      <item itemvalue="Python tests.py.test for test_1th_work.TestCalculator.test_add_exception" />
-      <item itemvalue="Python tests.py.test for test_excp.test_zero_division" />
+      <item itemvalue="Python tests.py.test for test_2th_work.TestCalculator.test_add_equal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_excp.test_zero_division" />
-        <item itemvalue="Python tests.py.test for test_1th_work.TestCalculator.test_add_exception" />
+        <item itemvalue="Python tests.py.test for test_2th_work.TestCalculator.test_add_equal" />
         <item itemvalue="Python tests.py.test for test_1th_work.TestCalculator" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python tests.py.test for test_data_driven.TestDemo" />
+        <item itemvalue="Python tests.py.test for test_1th_work.TestCalculator.test_add_equal" />
+        <item itemvalue="Python tests.py.test for test_div.TestDiv.test_div" />
       </list>
     </recent_temporary>
   </component>
@@ -543,35 +456,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_sample_test_answer - 2021.04.09 at 13h 20m 49s.xml">
-      <configuration name="py.test for test_sample.test_answer" configurationId="tests" />
+    <history-entry file="py_test_in_test_div_py - 2021.04.12 at 18h 21m 01s.xml">
+      <configuration name="py.test in test_div.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo_test_demo - 2021.04.09 at 14h 35m 14s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo.test_demo" configurationId="tests" />
+    <history-entry file="py_test_in_test_div_py - 2021.04.12 at 18h 25m 34s.xml">
+      <configuration name="py.test in test_div.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo - 2021.04.09 at 14h 36m 39s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo" configurationId="tests" />
+    <history-entry file="py_test_in_test_div_py - 2021.04.12 at 18h 26m 20s.xml">
+      <configuration name="py.test in test_div.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo_test_demo - 2021.04.09 at 14h 36m 52s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo.test_demo" configurationId="tests" />
+    <history-entry file="py_test_in_test_div_py - 2021.04.12 at 18h 28m 01s.xml">
+      <configuration name="py.test in test_div.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo_test_demo - 2021.04.09 at 14h 37m 03s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo.test_demo" configurationId="tests" />
+    <history-entry file="py_test_for_test_div_TestDiv_test_div - 2021.04.12 at 18h 42m 01s.xml">
+      <configuration name="py.test for test_div.TestDiv.test_div" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo - 2021.04.09 at 14h 37m 45s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo" configurationId="tests" />
+    <history-entry file="py_test_for_test_div_TestDiv_test_div - 2021.04.12 at 18h 43m 53s.xml">
+      <configuration name="py.test for test_div.TestDiv.test_div" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo - 2021.04.09 at 14h 40m 22s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo" configurationId="tests" />
+    <history-entry file="py_test_for_test_div_TestDiv - 2021.04.12 at 18h 44m 57s.xml">
+      <configuration name="py.test for test_div.TestDiv" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo - 2021.04.09 at 14h 43m 35s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo" configurationId="tests" />
+    <history-entry file="py_test_for_test_div_TestDiv_test_div - 2021.04.12 at 18h 45m 43s.xml">
+      <configuration name="py.test for test_div.TestDiv.test_div" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_data_driven_TestDemo - 2021.04.09 at 14h 44m 28s.xml">
-      <configuration name="py.test for test_data_driven.TestDemo" configurationId="tests" />
+    <history-entry file="py_test_for_test_2th_work_TestCalculator_test_add_equal - 2021.04.13 at 13h 26m 37s.xml">
+      <configuration name="py.test for test_2th_work.TestCalculator.test_add_equal" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_excp_test_zero_division - 2021.04.10 at 00h 14m 05s.xml">
-      <configuration name="py.test for test_excp.test_zero_division" configurationId="tests" />
+    <history-entry file="py_test_for_test_2th_work_TestCalculator_test_add_equal - 2021.04.13 at 13h 27m 16s.xml">
+      <configuration name="py.test for test_2th_work.TestCalculator.test_add_equal" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -583,10 +496,11 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32899246" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44825223" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33584648" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27821228" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34338588" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31843576" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967785" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -597,7 +511,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,93 +521,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_case/report/940f7ccc-50e9-4ad0-8d86-ab367df0e05d-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/ad8f418a-7407-4cca-9d3d-058294fee8a4-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_1th_work.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-          <folding>
-            <element signature="e#178#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_data_driven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/env.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/1b963590-e4ed-4206-a731-9b3eff8a1537-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/08d7a619-7d29-410e-9cf6-392c0aa615ee-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/9c65edf6-38a2-4122-8cff-d655cea7a52f-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/940f7ccc-50e9-4ad0-8d86-ab367df0e05d-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/ad8f418a-7407-4cca-9d3d-058294fee8a4-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_feature_allure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="56" column="17" lean-forward="true" selection-end-line="57" />
-          <folding>
-            <element signature="e#91#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_data_driven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -765,48 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_param.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_setup_tear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/sample_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_data_driven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/env.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -814,61 +602,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/1b963590-e4ed-4206-a731-9b3eff8a1537-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/08d7a619-7d29-410e-9cf6-392c0aa615ee-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/9c65edf6-38a2-4122-8cff-d655cea7a52f-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/940f7ccc-50e9-4ad0-8d86-ab367df0e05d-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/report/ad8f418a-7407-4cca-9d3d-058294fee8a4-result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/report/1b963590-e4ed-4206-a731-9b3eff8a1537-result.json" />
+    <entry file="file://$PROJECT_DIR$/test_case/report/08d7a619-7d29-410e-9cf6-392c0aa615ee-result.json" />
+    <entry file="file://$PROJECT_DIR$/test_case/report/9c65edf6-38a2-4122-8cff-d655cea7a52f-result.json" />
+    <entry file="file://$PROJECT_DIR$/test_case/report/940f7ccc-50e9-4ad0-8d86-ab367df0e05d-result.json" />
+    <entry file="file://$PROJECT_DIR$/test_case/report/ad8f418a-7407-4cca-9d3d-058294fee8a4-result.json" />
     <entry file="file://$PROJECT_DIR$/test_case/allure-report/index.html" />
-    <entry file="file://$PROJECT_DIR$/test_case/test_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_feature_allure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-          <folding>
-            <element signature="e#91#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_baidu_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#114#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homework_test/first_work_test.py" />
     <entry file="file://$PROJECT_DIR$/homework_test/1th_work_test.py" />
-    <entry file="file://$PROJECT_DIR$/test_case/test_attach_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-          <folding>
-            <element signature="e#91#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -889,19 +630,180 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework_test/test_excp.py" />
-    <entry file="file://$PROJECT_DIR$/homework_test/test_1th_work.yml">
+    <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_login_fucntion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="308">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_feature_allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_data_driven.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_attach_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/sample_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_setup_tear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md" />
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" />
+    <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_baidu_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_fix_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-start-column="1" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_1th_work.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="72" column="9" selection-start-line="72" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_div.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="e#98#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#78#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/homework_test/test_1th_work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+        <state relative-caret-position="338">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="31" />
           <folding>
             <element signature="e#178#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/test_1th_work.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_2th_work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="e#221#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/微信图片_20210412191202.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/hookspec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="440" column="27" selection-start-line="440" selection-start-column="4" selection-end-line="440" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <element signature="e#95#118#0" expanded="true" />
           </folding>
         </state>
       </provider>
