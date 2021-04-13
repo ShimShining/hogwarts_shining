@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_test/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_2th_work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/practice_test/test_login_fucntion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_fix_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hogwarts_shining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hogwarts_shining.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_1th_work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_1th_work.yml" beforeDir="false" afterPath="$PROJECT_DIR$/datas/test_1th_work.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/365b3fe5b49059e2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/48e62fb8678952b0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/586b7432d98d6e4a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/a6f68c4fe7871cc5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/ba7ba376aa03d85a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/attachments/ec5edc2ff73239.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/test-cases/8f61b8a2986ac435.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/test-cases/ba11f37d297b87ed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/test-cases/f228c080bdabc045.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/final_result/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/test_1th_work/a423191f-c50d-4afc-9450-f78768a7aea9-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/test_1th_work/af6a2aea-a766-4b89-9da6-286e6e4ee1c4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/practice_test/test_1th_work/f72a8319-d702-4b73-a98c-410fd72a7e04-attachment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/report/08d7a619-7d29-410e-9cf6-392c0aa615ee-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/report/1b963590-e4ed-4206-a731-9b3eff8a1537-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/report/940f7ccc-50e9-4ad0-8d86-ab367df0e05d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/report/9c65edf6-38a2-4122-8cff-d655cea7a52f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/report/ad8f418a-7407-4cca-9d3d-058294fee8a4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/report2/1f341843-e102-4742-9527-e5527c9afce3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/test_attach_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_attach_func.py" afterDir="false" />
-    </list>
+    <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,8 +73,8 @@
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="154" selection-start-line="154" selection-end-line="154" />
+            <state relative-caret-position="1716">
+              <caret line="132" column="17" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
               <folding>
                 <element signature="e#95#118#0" expanded="true" />
               </folding>
@@ -489,6 +417,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1447" y="-835" width="975" height="1721" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -496,8 +425,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32899246" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44825223" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34338588" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31843576" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34338588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31843576" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967785" />
@@ -800,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        <state relative-caret-position="1716">
+          <caret line="132" column="17" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
           <folding>
             <element signature="e#95#118#0" expanded="true" />
           </folding>
