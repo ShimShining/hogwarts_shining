@@ -20,7 +20,7 @@ def init_class():
     print("---- class teardown ----")
 
 
-@pytest.fixture(autouse=True)
+@pytest.fixture()
 def init_function():
     print("---- 开始计算 ----")
     yield
@@ -31,6 +31,18 @@ def get_yaml_datas():
     with open('../datas/test_1th_work.yml') as f:
         datas = yaml.safe_load(f)
         return datas
+
+# 获取企业微信添加成员信息
+def get_wework_data():
+    with open('../datas/wework_member_info.yml') as f:
+        datas = yaml.safe_load(f)
+        return datas
+
+
+# 通过fixture将参数传递给添加企业微信成员用例
+@pytest.fixture(params=get_wework_data())
+def get_member_info(request):
+    return request.param
 
 
 @pytest.fixture(params=get_yaml_datas()['add_equal'],
@@ -150,10 +162,10 @@ def case_rank(pytestconfig):
 
     return pytestconfig.getoption('--case-rank')
 
-@pytest.fixture(autouse=True)
-def get_caserank(case_rank):
-
-    print(case_rank)
+# @pytest.fixture(autouse=True)
+# def get_caserank(case_rank):
+#
+#     print(case_rank)
 
 #
 # def pytest_runtest_logstart(
