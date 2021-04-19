@@ -1,0 +1,12 @@
+```
+@startuml
+title: 企业微信
+participant 首页
+participant 通讯录页
+participant 添加成员页
+
+首页-->添加成员页: 点击添加成员按钮
+首页-->通讯录页:点击通讯录按钮
+添加成员页-->通讯录页:1.填写成员信息 \n 2.点击保存按钮
+@enduml
+```

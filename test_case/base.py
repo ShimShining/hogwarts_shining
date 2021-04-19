@@ -23,6 +23,18 @@ class Common:
         return Common.driver
 
 
+class SingleDriver:
+
+    driver = None
+
+    @classmethod
+    def get_driver(cls):
+        if cls.driver is None:
+            cls.driver = webdriver.Chrome()
+            cls.driver.implicitly_wait(10)
+            cls.driver.maximize_window()
+        return cls.driver
+
 class Base:
 
     def setup(self):

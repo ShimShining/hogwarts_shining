@@ -1,0 +1,23 @@
+@startuml
+
+class BasePage{
+    string _url
+    find()
+    finds()
+}
+
+class MainPage{
+    string _url
+    tuple element
+    goto_contact_page()
+    goto_add_member_page()
+}
+
+class TestAddmember{
+    test_add_member()
+    test_add_member_fail()
+}
+BasePage <|-- Mainpage
+BasePage <|-- AddMemberPage
+MainPage <.. TestAddMember
+@enduml
