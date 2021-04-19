@@ -12,19 +12,19 @@ import yaml
 import random
 
 
-@pytest.fixture(scope='class')
-def init_class():
-    print("---- class setup ----")
-    clac = Calculator()
-    yield clac
-    print("---- class teardown ----")
-
-
-@pytest.fixture()
-def init_function():
-    print("---- 开始计算 ----")
-    yield
-    print("---- 计算结束 ----")
+# @pytest.fixture(scope='class')
+# def init_class():
+#     print("---- class setup ----")
+#     clac = Calculator()
+#     yield clac
+#     print("---- class teardown ----")
+#
+#
+# @pytest.fixture()
+# def init_function():
+#     print("---- 开始计算 ----")
+#     yield
+#     print("---- 计算结束 ----")
 
 
 def get_yaml_datas():
@@ -175,8 +175,17 @@ def case_rank(pytestconfig):
 #     print("这是一个hook函数")
 #     print(f"CASE_RANK={rank}")
 
+# 企业微信数据获取
+def get_wework_depart():
+
+    with open('../datas/add_department.yml', encoding='utf-8') as f:
+        datas = yaml.safe_load(f)
+        return datas
 
 
+@pytest.fixture(params=get_wework_depart())
+def get_depart(request):
+    return request.param
 
 
 
