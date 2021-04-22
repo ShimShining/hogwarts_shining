@@ -1,0 +1,16 @@
+@startuml
+participant 首页 as home
+participant 通讯录页 as contact
+participant 手动添加成员页 as add_member_hand
+participant 成员信息输入页 as add_member_input
+
+home -> contact: 点击通讯录底tab
+contact -> home: 点击首页底tab
+contact -> add_member_hand: 点击手动输入添加
+contact -> contact: 获取已添加通讯录成员
+add_member_hand -> contact: 点击返回按钮
+add_member_hand -> add_member_input: 点击手动输入添加
+add_member_input -> add_member_hand: 点击保存按钮
+add_member_input -> add_member_input: 点击保存并继续新增
+
+@enduml
