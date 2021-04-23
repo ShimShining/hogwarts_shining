@@ -16,10 +16,11 @@ class MemberInfoInputPage(BaseAppPage):
     __phone_number = (MobileBy.ID, "com.tencent.wework:id/f4m")
     __save_btn = (MobileBy.ID, "com.tencent.wework:id/ac9")
 
-    def add_member_and_save(self, name, phone):
+    def add_member_and_save(self, name, phone, toast):
 
         self.wait_for_visible(self.__user_name)
         self.find(self.__user_name).send_keys(name)
         self.find(self.__phone_number).send_keys(phone)
         self.find(self.__save_btn).click()
+        self.check_toast_info(toast)
         return AddMemberPage(self.driver)

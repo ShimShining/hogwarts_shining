@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_test/test_5th_work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/add_member_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/base_app_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/contact_tab_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/home_tab_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/member_info_input_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/wework_app/通讯录手动添加成员.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_first_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_locator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_locator_pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_mico_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_params.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_record_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_touchaction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/test_appium/test_xueqiu_open_acc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hogwarts_shining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hogwarts_shining.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -535,9 +514,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMember_test_add_contact_member - 2021.04.22 at 23h 36m 53s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMember.test_add_contact_member" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_test_5th_work_TestAddContactMember_test_add_contact_member - 2021.04.22 at 23h 39m 30s.xml">
       <configuration name="py.test for test_5th_work.TestAddContactMember.test_add_contact_member" configurationId="tests" />
     </history-entry>
@@ -565,6 +541,9 @@
     <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 26m 43s.xml">
       <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 46m 54s.xml">
+      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1447" y="-835" width="975" height="1721" extended-state="6" />
@@ -576,7 +555,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.20630568" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40534836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40534836" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49944136" weight="0.54046446" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.34972066" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />

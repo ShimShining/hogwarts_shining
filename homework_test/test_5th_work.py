@@ -101,13 +101,13 @@ class TestAddContactMemberPO:
 
         self.home.kill_env()
 
-    @pytest.mark.parametrize("info,username,phone", [
-       ["添加成员", "木子李", "13444014405"]
+    @pytest.mark.parametrize("info,username,phone,toast", [
+       ["添加成员", "木子李", "13444014405", "添加成功"]
     ])
-    def test_add_contact_member(self, info, username, phone):
+    def test_add_contact_member(self, info, username, phone, toast):
 
         member_list = self.home.enter_contact_tab().goto_add_member_page(info).\
-            goto_member_info_input_page().add_member_and_save(username, phone).\
+            goto_member_info_input_page().add_member_and_save(username, phone, toast).\
             back_conctact_tab_page().get_contact_member_list()
         assert username in member_list
 
