@@ -5,6 +5,3 @@
 # 作业目录
 - ./hogwarts_shining/homework_test/
 ---
-
-# 第一次作业地址
-- [1th homework]()
