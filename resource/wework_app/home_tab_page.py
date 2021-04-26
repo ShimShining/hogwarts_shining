@@ -17,5 +17,6 @@ class HomeTabPage(BaseAppPage):
     def enter_contact_tab(self):
 
         self.find(self.__contact_tab).click()
+        self.log_info("进入通讯录底tab")
         return ContactTabPage(self.driver)
 

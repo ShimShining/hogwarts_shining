@@ -18,6 +18,7 @@ class AddMemberPage(BaseAppPage):
 
         self.wait_for_visible(self.__hand_input_add_member)
         self.find(self.__hand_input_add_member).click()
+        self.log_info("进入添加成员信息输入页")
         from resource.wework_app.member_info_input_page import MemberInfoInputPage
         return MemberInfoInputPage(self.driver)
 
@@ -25,4 +26,5 @@ class AddMemberPage(BaseAppPage):
 
         self.wait_for_visible(self.__back_contact)
         self.find(self.__back_contact).click()
+        self.log_info("添加成员页返回通讯录底tab")
         return ContactTabPage(self.driver)

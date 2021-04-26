@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="" />
+    <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/homework_test/test_6th_work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/utils/cantact_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/utils/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/wework_app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/wework_app/edit_member_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/wework_app/person_info_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/wework_app/person_info_setting_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_test/企业微信建模.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/wework_app/add_member_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/resource/wework_app/add_member_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/wework_app/base_app_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/resource/wework_app/base_app_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/wework_app/contact_tab_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/resource/wework_app/contact_tab_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/wework_app/home_tab_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/resource/wework_app/home_tab_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/wework_app/member_info_input_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/resource/wework_app/member_info_input_page.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +36,11 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_frame_TestFrame_test_frame.coverage" NAME="py.test for test_frame.TestFrame.test_frame Coverage Results" MODIFIED="1618392937447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_3th_work_TestWeWorkAddMember_test_add_member.coverage" NAME="py.test for test_3th_work.TestWeWorkAddMember.test_add_member Coverage Results" MODIFIED="1618578782363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_browser_TestBrowser_test_browser.coverage" NAME="py.test for test_browser.TestBrowser.test_browser Coverage Results" MODIFIED="1618990917560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_6th_work_TestAddMember_test_add_member_success.coverage" NAME="py.test for test_6th_work.TestAddMember.test_add_member_success Coverage Results" MODIFIED="1619425642731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wait_TestWait_test_wait.coverage" NAME="py.test for test_wait.TestWait.test_wait Coverage Results" MODIFIED="1618323160132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_wework_po_test_test_wework_case_test_wework_add_member_TestWeworkAddMember_test_add_member.coverage" NAME="py.test for wework_po_test.test_wework_case.test_wework_add_member.TestWeworkAddMember.test_add_member Coverage Results" MODIFIED="1618740370017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$log.coverage" NAME="log Coverage Results" MODIFIED="1619281256612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resource/utils" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_6th_work_TestAddMember_test_add_member_fail.coverage" NAME="py.test for test_6th_work.TestAddMember.test_add_member_fail Coverage Results" MODIFIED="1619424527916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wait_TestWait.coverage" NAME="py.test for test_wait.TestWait Coverage Results" MODIFIED="1618320764045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_div_py.coverage" NAME="py.test in test_div.py Coverage Results" MODIFIED="1618223280227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_frame_TestFrame_test_window.coverage" NAME="py.test for test_frame.TestFrame.test_window Coverage Results" MODIFIED="1618390608115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
@@ -54,7 +74,9 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_testsuite2_TestTestsuite2.coverage" NAME="py.test for test_testsuite2.TestTestsuite2 Coverage Results" MODIFIED="1618317920924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_frame_TestFrame.coverage" NAME="py.test for test_frame.TestFrame Coverage Results" MODIFIED="1618390085934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_add_member_TestAddMember.coverage" NAME="py.test for test_add_member.TestAddMember Coverage Results" MODIFIED="1618737007050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/wework_po/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_log_py.coverage" NAME="py.test in log.py Coverage Results" MODIFIED="1619279593097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resource/utils" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_get_cur_price.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_get_cur_price Coverage Results" MODIFIED="1618928043458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_6th_work_TestAddMember.coverage" NAME="py.test for test_6th_work.TestAddMember Coverage Results" MODIFIED="1619432079835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_touchaction_TestTouchaction.coverage" NAME="py.test for test_touchaction.TestTouchaction Coverage Results" MODIFIED="1618384363601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member.coverage" NAME="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member Coverage Results" MODIFIED="1619113554553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_scroll.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_scroll Coverage Results" MODIFIED="1618933479765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
@@ -69,6 +91,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_wait.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_wait Coverage Results" MODIFIED="1618977043953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_fix_login_test_login.coverage" NAME="py.test for test_fix_login.test_login Coverage Results" MODIFIED="1618219288094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_selenium_test_webdriver.coverage" NAME="py.test for test_selenium.test_webdriver Coverage Results" MODIFIED="1618317022794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_6th_work_TestAddMember_test_delete_member_success.coverage" NAME="py.test for test_6th_work.TestAddMember.test_delete_member_success Coverage Results" MODIFIED="1619430448353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_automator.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_automator Coverage Results" MODIFIED="1618931125825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_add_member_TestAddMember_test_add_member.coverage" NAME="py.test for test_add_member.TestAddMember.test_add_member Coverage Results" MODIFIED="1618737053174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/wework_po/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_sample_test_test_answer.coverage" NAME="py.test for sample_test.test_answer Coverage Results" MODIFIED="1617885864710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
@@ -86,34 +109,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="test_5th_work.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework_test/test_5th_work.py">
+      <file leaf-file-name="base_app_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/base_app_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+            <state relative-caret-position="497">
+              <caret line="108" column="69" selection-start-line="108" selection-start-column="69" selection-end-line="108" selection-end-column="69" />
               <folding>
-                <element signature="e#525#547#0" expanded="true" />
+                <element signature="e#86#97#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="通讯录手动添加成员.puml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/wework_app/通讯录手动添加成员.puml">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="364">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#83#105#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_tab_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/wework_app/home_tab_page.py">
+      <file leaf-file-name="cantact_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/utils/cantact_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="338">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="member_info_input_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/member_info_input_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="18" column="92" selection-start-line="18" selection-start-column="92" selection-end-line="18" selection-end-column="92" />
               <folding>
-                <element signature="e#86#139#0" expanded="true" />
+                <element signature="e#77#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_6th_work.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_6th_work.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1872">
+              <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+              <folding>
+                <element signature="e#137#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_tab_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/contact_tab_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <element signature="e#84#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="person_info_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/person_info_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="20" column="86" selection-start-line="20" selection-start-column="86" selection-end-line="20" selection-end-column="86" />
+              <folding>
+                <element signature="e#82#135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="person_info_setting_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/person_info_setting_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_member_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/wework_app/edit_member_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="e#82#104#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,74 +214,11 @@
       <file leaf-file-name="add_member_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource/wework_app/add_member_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="520">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="34" />
               <folding>
                 <element signature="e#85#138#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_app_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/wework_app/base_app_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-              <folding>
-                <element signature="e#86#108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="member_info_input_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/wework_app/member_info_input_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding>
-                <element signature="e#77#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webdriver.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/softinstall/Python37/Lib/site-packages/appium/webdriver/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1355">
-              <caret line="115" column="15" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_tab_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/wework_app/contact_tab_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <element signature="e#84#137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="添加部门建模.puml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework_test/添加部门建模.puml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_4th_work.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework_test/test_4th_work.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
-              <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -215,6 +244,9 @@
       <find>pytest_runtest_logstart</find>
       <find>pytest_runtestloop</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\personProc\hogwarts_shining</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -222,18 +254,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_case/wework_po/wework_uml.puml" />
-        <option value="$PROJECT_DIR$/test_case/wework_po/page/base_page.py" />
-        <option value="$PROJECT_DIR$/test_case/wework_po/page/__init__.py" />
-        <option value="$PROJECT_DIR$/test_case/wework_po/page/add_member_page.py" />
-        <option value="$PROJECT_DIR$/test_case/wework_po/page/contacts_page.py" />
-        <option value="$PROJECT_DIR$/test_case/wework_po/page/home_page.py" />
-        <option value="$PROJECT_DIR$/test_case/wework_po/test_case/test_add_member.py" />
         <option value="$PROJECT_DIR$/test_case/wework_po/test_case/__init__.py" />
         <option value="$PROJECT_DIR$/test_case/wework_po/test_wework_case.py" />
         <option value="$PROJECT_DIR$/test_case/wework_po_test/test_wework_case/test_wework_case.py" />
         <option value="$PROJECT_DIR$/test_case/conftest.py" />
-        <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/test_case/wework_po_test/page_obj/__init__.py" />
         <option value="$PROJECT_DIR$/test_case/wework_po_test/__init__.py" />
         <option value="$PROJECT_DIR$/test_case/__init__.py" />
@@ -255,7 +279,6 @@
         <option value="$PROJECT_DIR$/datas/add_department.yml" />
         <option value="$PROJECT_DIR$/resource/wework/add_department_page.py" />
         <option value="$PROJECT_DIR$/resource/wework/home_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework/BasePage.py" />
         <option value="$PROJECT_DIR$/homework_test/test_4th_work.py" />
         <option value="$PROJECT_DIR$/test_case/test_appium/test_record_case.py" />
         <option value="$PROJECT_DIR$/test_case/test_appium/test_locator.py" />
@@ -266,13 +289,22 @@
         <option value="$PROJECT_DIR$/test_case/test_appium/test_xueqiu_open_acc.py" />
         <option value="$PROJECT_DIR$/test_case/test_appium/test_mico_app.py" />
         <option value="$PROJECT_DIR$/resource/wework_app/home_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/home_tab_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/base_app_page.py" />
         <option value="$PROJECT_DIR$/resource/wework_app/通讯录手动添加成员.puml" />
-        <option value="$PROJECT_DIR$/resource/wework_app/member_info_input_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/contact_tab_page.py" />
+        <option value="$PROJECT_DIR$/resource/wework/BasePage.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/home_tab_page.py" />
         <option value="$PROJECT_DIR$/resource/wework_app/add_member_page.py" />
         <option value="$PROJECT_DIR$/homework_test/test_5th_work.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/resource/wework_app/app.py" />
+        <option value="$PROJECT_DIR$/resource/utils/log.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/contact_tab_page.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/person_info_setting_page.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/person_info_page.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/base_app_page.py" />
+        <option value="$PROJECT_DIR$/resource/utils/cantact_info.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/member_info_input_page.py" />
+        <option value="$PROJECT_DIR$/homework_test/test_6th_work.py" />
+        <option value="$PROJECT_DIR$/resource/wework_app/edit_member_page.py" />
       </list>
     </option>
   </component>
@@ -296,10 +328,10 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,7 +347,19 @@
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
               <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_6th_work.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
@@ -330,38 +374,13 @@
             </path>
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-              <item name="test_appium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-              <item name="wework_po_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-              <item name="wework_po_test" type="462c0819:PsiDirectoryNode" />
-              <item name="page_obj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-              <item name="wework_po_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_wework_case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,12 +391,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\personProc\hogwarts_shining\datas" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\personProc\hogwarts_shining\test_case\wework_po_test\test_wework_case" />
       <recent name="D:\personProc\hogwarts_shining\resource\wework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personProc\hogwarts_shining\datas" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -392,7 +411,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member">
+  <component name="RunManager" selected="Python tests.py.test for test_6th_work.TestAddMember">
+    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hogwarts_shining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/resource/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resource/utils/log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="py.test for test_3th_work.TestWeWorkAddMember.test_add_member" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,7 +446,7 @@
       <option name="_new_target" value="&quot;test_3th_work.TestWeWorkAddMember.test_add_member&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_6th_work.TestAddMember" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,10 +458,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5th_work.TestAddContactMemberPO.test_add_contact_member&quot;" />
+      <option name="_new_target" value="&quot;test_6th_work.TestAddMember&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_5th_work.TestAddContactMember.test_add_contact_member" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_6th_work.TestAddMember.test_add_member_fail" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -435,68 +473,53 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_5th_work.TestAddContactMember.test_add_contact_member&quot;" />
+      <option name="_new_target" value="&quot;test_6th_work.TestAddMember.test_add_member_fail&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_browser.TestBrowser.test_browser" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_6th_work.TestAddMember.test_add_member_success" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/test_appium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_browser.TestBrowser.test_browser&quot;" />
+      <option name="_new_target" value="&quot;test_6th_work.TestAddMember.test_add_member_success&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_6th_work.TestAddMember.test_delete_member_success" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/test_appium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu_open_acc.TestXueqiuOpenAcc&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc.test_xueqiu_open_acc" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="hogwarts_shining" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/test_appium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu_open_acc.TestXueqiuOpenAcc.test_xueqiu_open_acc&quot;" />
+      <option name="_new_target" value="&quot;test_6th_work.TestAddMember.test_delete_member_success&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_browser.TestBrowser.test_browser" />
-      <item itemvalue="Python tests.py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc.test_xueqiu_open_acc" />
-      <item itemvalue="Python tests.py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc" />
-      <item itemvalue="Python tests.py.test for test_5th_work.TestAddContactMember.test_add_contact_member" />
-      <item itemvalue="Python tests.py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" />
+      <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember.test_add_member_success" />
+      <item itemvalue="Python.log" />
+      <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember" />
+      <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember.test_add_member_fail" />
+      <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember.test_delete_member_success" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" />
-        <item itemvalue="Python tests.py.test for test_5th_work.TestAddContactMember.test_add_contact_member" />
-        <item itemvalue="Python tests.py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc" />
-        <item itemvalue="Python tests.py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc.test_xueqiu_open_acc" />
-        <item itemvalue="Python tests.py.test for test_browser.TestBrowser.test_browser" />
+        <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember" />
+        <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember.test_delete_member_success" />
+        <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember.test_add_member_success" />
+        <item itemvalue="Python tests.py.test for test_6th_work.TestAddMember.test_add_member_fail" />
+        <item itemvalue="Python.log" />
       </list>
     </recent_temporary>
   </component>
@@ -514,50 +537,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMember_test_add_contact_member - 2021.04.22 at 23h 39m 30s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMember.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 17h 19m 53s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 14m 29s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 17h 22m 53s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 16m 38s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember_test_delete_member_success - 2021.04.26 at 17h 49m 00s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember.test_delete_member_success" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 17m 12s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 17h 52m 37s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 20m 55s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 18h 04m 18s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 22m 24s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 18h 05m 58s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 24m 45s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 18h 08m 00s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 25m 47s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 18h 09m 19s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 26m 43s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 18h 12m 54s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_5th_work_TestAddContactMemberPO_test_add_contact_member - 2021.04.23 at 01h 46m 54s.xml">
-      <configuration name="py.test for test_5th_work.TestAddContactMemberPO.test_add_contact_member" configurationId="tests" />
+    <history-entry file="py_test_for_test_6th_work_TestAddMember - 2021.04.26 at 18h 16m 35s.xml">
+      <configuration name="py.test for test_6th_work.TestAddMember" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1447" y="-835" width="975" height="1721" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.65027934" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005587" side_tool="true" weight="0.35045743" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.20630568" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40534836" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49944136" weight="0.54046446" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.34972066" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.20562029" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40507197" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49944136" weight="0.540096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37430167" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32960895" />
@@ -581,233 +603,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_case/tes_singleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="25" selection-start-line="25" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/page_obj/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/class_inhreit_uml.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="7" lean-forward="true" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/test_get_cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/wework_home_page.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="1640" selection-start-line="1640" selection-end-line="1640" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="315" selection-start-line="315" selection-end-line="315" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/pluggy/callers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="207" selection-start-line="207" selection-end-line="207" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/pluggy/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/pluggy/hooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="285" selection-start-line="285" selection-end-line="285" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/softinstall/Python37/Lib/site-packages/_pytest/config/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/page_obj/add_member_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/page_obj/contacts_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/page_obj/home_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="22" column="9" selection-start-line="20" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/test_wework_case/test_wework_add_member.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_attach_func.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/wework_uml.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="234">
-            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/wework_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/page_obj/base_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/wework_contacts_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4732">
-          <caret line="186" column="14" selection-start-line="186" selection-start-column="4" selection-end-line="186" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_3th_work.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datas/add_department.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/contact_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/add_department_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="20" column="91" selection-start-line="20" selection-start-column="91" selection-end-line="20" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/BasePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework/home_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/企业微信建模.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_appium/test_touchaction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding>
-            <element signature="e#77#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/softinstall/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -819,9 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="15" selection-start-line="15" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="e#77#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="26" column="38" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <element signature="e#77#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#77#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,9 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="23" selection-start-line="23" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="e#77#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -873,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1733">
           <caret line="76" selection-end-line="116" />
-          <folding>
-            <element signature="e#77#105#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="45" />
-          <folding>
-            <element signature="e#77#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -905,28 +686,8 @@
     </entry>
     <entry file="file://D:/softinstall/Python37/Lib/site-packages/appium/webdriver/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1355">
+        <state relative-caret-position="1898">
           <caret line="115" column="15" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework_app/home_tab_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#86#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework_app/base_app_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-          <folding>
-            <element signature="e#86#108#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -937,20 +698,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/wework_app/member_info_input_page.py">
+    <entry file="file://$PROJECT_DIR$/resource/wework/contact_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/softinstall/Python37/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="1826" column="15" selection-start-line="1826" selection-start-column="4" selection-end-line="1826" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_5th_work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/wework_po_test/page_obj/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/TestLogger.log.2021-04-25_00_17" />
+    <entry file="file://$PROJECT_DIR$/log/TestLogger.log.2021-04-25_00_19" />
+    <entry file="file://$PROJECT_DIR$/resource/utils/my.log" />
+    <entry file="file://$PROJECT_DIR$/log/TestLogger.log.2021-04-25_00_20" />
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/home_tab_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="29" />
           <folding>
-            <element signature="e#77#130#0" expanded="true" />
+            <element signature="e#86#139#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/log/resource.wework_app.base_app_page2021-04-26_11_49.log" />
+    <entry file="file://$PROJECT_DIR$/log/resource.wework_app.base_app_page2021-04-26_11_50.log" />
+    <entry file="file://$PROJECT_DIR$/log/resource.wework_app.base_app_page2021-04-26_12_02.log" />
+    <entry file="file://$PROJECT_DIR$/log/homework_test.test_6th_work2021-04-26_14_08.log" />
+    <entry file="file://$PROJECT_DIR$/log/resource.utils.log2021-04-26_14_08.log" />
+    <entry file="file://$PROJECT_DIR$/log/homework_test.test_6th_work2021-04-26_14_17.log" />
+    <entry file="file://$PROJECT_DIR$/log/homework_test.test_6th_work2021-04-26_14_18.log" />
+    <entry file="file://$PROJECT_DIR$/log/2021-04-26_14_42.log" />
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember.test_add_member_success_2021-04-26_15_19.log" />
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember.test_add_member_fail_2021_04_26_16_05.log" />
+    <entry file="file://$PROJECT_DIR$/resource/utils/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding>
+            <element signature="e#81#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember.test_add_member_fail_2021_04_26_16_08.log" />
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember.test_add_member_success_2021_04_26_16_24.log" />
     <entry file="file://$PROJECT_DIR$/resource/wework_app/add_member_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="520">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="e#85#138#0" expanded="true" />
           </folding>
@@ -959,20 +788,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/wework_app/contact_tab_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="598">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="e#84#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_5th_work.py">
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/person_info_setting_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/person_info_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="20" column="86" selection-start-line="20" selection-start-column="86" selection-end-line="20" selection-end-column="86" />
           <folding>
-            <element signature="e#525#547#0" expanded="true" />
+            <element signature="e#82#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember.test_delete_member_success_2021_04_26_17_16.log" />
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember_2021_04_26_17_18.log" />
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember_2021_04_26_17_20.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test_6th_workpy_TestAddMember.test_delete_member_success_2021_04_26_17_47.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/member_info_input_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="18" column="92" selection-start-line="18" selection-start-column="92" selection-end-line="18" selection-end-column="92" />
+          <folding>
+            <element signature="e#77#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/utils/cantact_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/base_app_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="108" column="69" selection-start-line="108" selection-start-column="69" selection-end-line="108" selection-end-column="69" />
+          <folding>
+            <element signature="e#86#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#83#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/wework_app/edit_member_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#82#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_6th_work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+          <folding>
+            <element signature="e#137#146#0" expanded="true" />
           </folding>
         </state>
       </provider>

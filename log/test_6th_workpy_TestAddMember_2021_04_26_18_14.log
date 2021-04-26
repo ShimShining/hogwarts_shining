@@ -1,0 +1,26 @@
+2021-04-26 18:14:49,194 => base_app_page.py[line:77] * INFO : App 类开始初始化driver
+2021-04-26 18:15:02,195 => base_app_page.py[line:77] * INFO : 进入通讯录底tab
+2021-04-26 18:15:03,372 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[@text='手动输入添加']")可见
+2021-04-26 18:15:06,182 => base_app_page.py[line:77] * INFO : 进入添加成员信息输入页
+2021-04-26 18:15:06,206 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[contains(@text,'姓名')]/..//*[contains(@text,'必填')]")可见
+2021-04-26 18:15:13,284 => base_app_page.py[line:77] * INFO : 查找定位文本信息=[添加成功]成功.
+2021-04-26 18:15:13,293 => base_app_page.py[line:77] * INFO : 等待元素('id', 'com.tencent.wework:id/h86')可见
+2021-04-26 18:15:13,900 => base_app_page.py[line:77] * INFO : 添加成员页返回通讯录底tab
+2021-04-26 18:15:31,688 => base_app_page.py[line:77] * INFO : 复用已有driver
+2021-04-26 18:15:44,460 => base_app_page.py[line:77] * INFO : 进入通讯录底tab
+2021-04-26 18:15:49,074 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[@text='手动输入添加']")可见
+2021-04-26 18:15:50,864 => base_app_page.py[line:77] * INFO : 进入添加成员信息输入页
+2021-04-26 18:15:50,864 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[contains(@text,'姓名')]/..//*[contains(@text,'必填')]")可见
+2021-04-26 18:15:54,690 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[@text='手机已存在于通讯录，无法添加']")可见
+2021-04-26 18:15:56,381 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "// *[ @text = '添加成员'] /../../../../*[@class='android.widget.TextView']")可见
+2021-04-26 18:15:56,977 => base_app_page.py[line:77] * INFO : 返回添加成员页
+2021-04-26 18:15:56,977 => base_app_page.py[line:77] * INFO : 等待元素('id', 'com.tencent.wework:id/h86')可见
+2021-04-26 18:15:58,387 => base_app_page.py[line:77] * INFO : 添加成员页返回通讯录底tab
+2021-04-26 18:16:08,741 => base_app_page.py[line:77] * INFO : 复用已有driver
+2021-04-26 18:16:11,454 => base_app_page.py[line:77] * INFO : 进入通讯录底tab
+2021-04-26 18:16:12,541 => base_app_page.py[line:77] * INFO : 进入lao tie06的个人信息页
+2021-04-26 18:16:12,559 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[@resource-id='android:id/content']/*/*[1]/*[2]")可见
+2021-04-26 18:16:14,630 => base_app_page.py[line:77] * INFO : 进入个人信息设置页面
+2021-04-26 18:16:14,746 => base_app_page.py[line:77] * INFO : 等待元素('xpath', "//*[@text='编辑成员']")可见
+2021-04-26 18:16:16,046 => base_app_page.py[line:77] * INFO : 进入编辑成员页
+2021-04-26 18:16:18,680 => base_app_page.py[line:77] * INFO : 删除成员->点击确定按钮
