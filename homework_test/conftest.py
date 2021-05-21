@@ -28,13 +28,13 @@ import random
 
 
 def get_yaml_datas():
-    with open('../datas/test_1th_work.yml') as f:
+    with open('../datas/test_1th_work.yml', encoding="utf-8") as f:
         datas = yaml.safe_load(f)
         return datas
 
 # 获取企业微信添加成员信息
 def get_wework_data():
-    with open('../datas/wework_member_info.yml') as f:
+    with open('../datas/wework_member_info.yml', encoding="utf-8") as f:
         datas = yaml.safe_load(f)
         return datas
 

@@ -163,7 +163,7 @@ class CircleQueue:
         return value
 
 
-def test_queue():
+def test_circle_queue():
     a = CircleQueue(3)
     a.enqueue("10")
     a.enqueue("20")
