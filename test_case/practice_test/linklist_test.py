@@ -91,12 +91,15 @@ class SingleLinkedList:
     def insert_before(self, node, value):
 
         insert_node = self.Node(value)
+        # 如果链表为空,直接插入到头结点
         if self.head is None:
             self.insert_to_head(value)
             return
+        # 遍历链表找到node的前驱结点
         p = self.head
         while p is not None and p.next != node:
             p = p.next
+        # 如果链表中,没有node结点,则直接返回
         if p is None:
             return
         p.next = insert_node
