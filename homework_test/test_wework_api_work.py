@@ -15,7 +15,7 @@ from test_case.test_http_auto.weworkapi import WeworkAPI
 class TestWeworkAPIPO:
 
     def setup_class(self):
-        
+
         self.wework = WeworkAPI()
         self.wework.get_token()
         self.wework.del_all_added_tags()
