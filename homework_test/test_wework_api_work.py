@@ -15,6 +15,7 @@ from test_case.test_http_auto.weworkapi import WeworkAPI
 class TestWeworkAPIPO:
 
     def setup_class(self):
+        
         self.wework = WeworkAPI()
         self.wework.get_token()
         self.wework.del_all_added_tags()
@@ -56,7 +57,7 @@ class TestWeworkAPIPO:
 
         tag_id = self.wework.get_tag_id_by_dict(tag_name, group_name)
         tags = self.wework.get_all_added_tags()
-        print(tags)
+        assert (tag_name, group_name) not in tags
         assert tag_id is None
 
     @pytest.mark.run(order=2)
