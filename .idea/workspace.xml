@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/base_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case/practice_test/test_binary_search_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_case/practice_test/test_sigleton.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +16,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_4th_work_TestAddDepartment_test_close_add_department.coverage" NAME="py.test for test_4th_work.TestAddDepartment.test_close_add_department Coverage Results" MODIFIED="1618849577201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$test_record_case.coverage" NAME="test_record_case Coverage Results" MODIFIED="1618909554018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_wework_add_member_py.coverage" NAME="py.test in test_wework_add_member.py Coverage Results" MODIFIED="1618752598289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/wework_po_test/test_wework_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_sigleton_test_hungry_id_maker.coverage" NAME="py.test for test_sigleton.test_hungry_id_maker Coverage Results" MODIFIED="1621838660992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_array_test_py.coverage" NAME="py.test in array_test.py Coverage Results" MODIFIED="1621419263074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_form_opt_TestFormOpt.coverage" NAME="py.test for test_form_opt.TestFormOpt Coverage Results" MODIFIED="1618385363222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_browser_TestBrowser_test_browser.coverage" NAME="py.test for test_browser.TestBrowser.test_browser Coverage Results" MODIFIED="1618990917560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
@@ -84,6 +77,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_excp_test_zero_division.coverage" NAME="py.test for test_excp.test_zero_division Coverage Results" MODIFIED="1617984838521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_frame_TestFrame_test_frame.coverage" NAME="py.test for test_frame.TestFrame.test_frame Coverage Results" MODIFIED="1618392937447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_3th_work_TestWeWorkAddMember_test_add_member.coverage" NAME="py.test for test_3th_work.TestWeWorkAddMember.test_add_member Coverage Results" MODIFIED="1618578782363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_sigleton_py.coverage" NAME="py.test in test_sigleton.py Coverage Results" MODIFIED="1621839155597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_wework_po_test_test_wework_case_test_wework_add_member_TestWeworkAddMember_test_add_member.coverage" NAME="py.test for wework_po_test.test_wework_case.test_wework_add_member.TestWeworkAddMember.test_add_member Coverage Results" MODIFIED="1618740370017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_http_get_test_http_get.coverage" NAME="py.test for test_http_get.test_http_get Coverage Results" MODIFIED="1621335032391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$log.coverage" NAME="log Coverage Results" MODIFIED="1619281256612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resource/utils" />
@@ -140,6 +134,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_http_get_TestHTTPGet_test_cookies.coverage" NAME="py.test for test_http_get.TestHTTPGet.test_cookies Coverage Results" MODIFIED="1621409784188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_queue_test_test_common_queue.coverage" NAME="py.test for queue_test.test_common_queue Coverage Results" MODIFIED="1621480283155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_touchaction_TestTouchaction_test_touch_action_scroll.coverage" NAME="py.test for test_touchaction.TestTouchaction.test_touch_action_scroll Coverage Results" MODIFIED="1618384405431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_sigleton_test_lazy_id_maker.coverage" NAME="py.test for test_sigleton.test_lazy_id_maker Coverage Results" MODIFIED="1621839114807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
@@ -182,15 +177,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="832">
-              <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test_wewo_api_po.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_case/test_http_auto/test_wewo_api_po.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -212,11 +198,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_binary_search_tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_binary_search_tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_binary_search_tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1474">
               <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_sigleton.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_sigleton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -270,7 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_case/test_appium/test_locator_pytest.py" />
         <option value="$PROJECT_DIR$/test_case/test_appium/test_xueqiu_open_acc.py" />
         <option value="$PROJECT_DIR$/test_case/test_appium/test_mico_app.py" />
         <option value="$PROJECT_DIR$/resource/wework_app/home_page.py" />
@@ -321,6 +315,7 @@
         <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/contact.py" />
         <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/contact_api.py" />
         <option value="$PROJECT_DIR$/test_case/practice_test/test_binary_search_tree.py" />
+        <option value="$PROJECT_DIR$/test_case/practice_test/test_sigleton.py" />
       </list>
     </option>
   </component>
@@ -418,22 +413,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_binary_search_tree.test_binary_search_tree">
-    <configuration name="py.test for homework_test.test_wework_api_work.TestWeworkAPIPO" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="hogwarts_shining" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;homework_test.test_wework_api_work.TestWeworkAPIPO&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test_sigleton.py">
     <configuration name="py.test for linklist_test.test_link" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -479,50 +459,65 @@
       <option name="_new_target" value="&quot;test_binary_search_tree.test_binary_search_tree&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_wewo_api_po.TestWeworkAPIPO" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_sigleton.test_hungry_id_maker" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/test_http_auto" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/practice_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wewo_api_po.TestWeworkAPIPO&quot;" />
+      <option name="_new_target" value="&quot;test_sigleton.test_hungry_id_maker&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_wework_api_work.TestWeworkAPIPO" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_sigleton.test_lazy_id_maker" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/practice_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wework_api_work.TestWeworkAPIPO&quot;" />
+      <option name="_new_target" value="&quot;test_sigleton.test_lazy_id_maker&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test_sigleton.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="hogwarts_shining" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/practice_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/practice_test/test_sigleton.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_wewo_api_po.TestWeworkAPIPO" />
-      <item itemvalue="Python tests.py.test for homework_test.test_wework_api_work.TestWeworkAPIPO" />
-      <item itemvalue="Python tests.py.test for test_wework_api_work.TestWeworkAPIPO" />
       <item itemvalue="Python tests.py.test for linklist_test.test_link" />
       <item itemvalue="Python tests.py.test for test_binary_search_tree.test_binary_search_tree" />
+      <item itemvalue="Python tests.py.test for test_sigleton.test_hungry_id_maker" />
+      <item itemvalue="Python tests.py.test for test_sigleton.test_lazy_id_maker" />
+      <item itemvalue="Python tests.py.test in test_sigleton.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test in test_sigleton.py" />
+        <item itemvalue="Python tests.py.test for test_sigleton.test_lazy_id_maker" />
+        <item itemvalue="Python tests.py.test for test_sigleton.test_hungry_id_maker" />
         <item itemvalue="Python tests.py.test for test_binary_search_tree.test_binary_search_tree" />
         <item itemvalue="Python tests.py.test for linklist_test.test_link" />
-        <item itemvalue="Python tests.py.test for test_wework_api_work.TestWeworkAPIPO" />
-        <item itemvalue="Python tests.py.test for homework_test.test_wework_api_work.TestWeworkAPIPO" />
-        <item itemvalue="Python tests.py.test for test_wewo_api_po.TestWeworkAPIPO" />
       </list>
     </recent_temporary>
   </component>
@@ -540,40 +535,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_linklist_test_test_link - 2021.05.22 at 15h 12m 34s.xml">
-      <configuration name="py.test for linklist_test.test_link" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_linklist_test_test_link - 2021.05.22 at 15h 15m 54s.xml">
-      <configuration name="py.test for linklist_test.test_link" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 08m 18s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 08m 28s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 09m 32s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 11m 58s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 13m 44s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 14m 39s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 17m 15s.xml">
-      <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_test_binary_search_tree_test_binary_search_tree - 2021.05.24 at 14h 18m 26s.xml">
       <configuration name="py.test for test_binary_search_tree.test_binary_search_tree" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_hungry_id_maker - 2021.05.24 at 14h 41m 18s.xml">
+      <configuration name="py.test for test_sigleton.test_hungry_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_hungry_id_maker - 2021.05.24 at 14h 42m 43s.xml">
+      <configuration name="py.test for test_sigleton.test_hungry_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_hungry_id_maker - 2021.05.24 at 14h 44m 22s.xml">
+      <configuration name="py.test for test_sigleton.test_hungry_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_lazy_id_maker - 2021.05.24 at 14h 47m 30s.xml">
+      <configuration name="py.test for test_sigleton.test_lazy_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_lazy_id_maker - 2021.05.24 at 14h 48m 38s.xml">
+      <configuration name="py.test for test_sigleton.test_lazy_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_lazy_id_maker - 2021.05.24 at 14h 48m 51s.xml">
+      <configuration name="py.test for test_sigleton.test_lazy_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_lazy_id_maker - 2021.05.24 at 14h 50m 51s.xml">
+      <configuration name="py.test for test_sigleton.test_lazy_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_sigleton_test_lazy_id_maker - 2021.05.24 at 14h 51m 56s.xml">
+      <configuration name="py.test for test_sigleton.test_lazy_id_maker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_sigleton_py - 2021.05.24 at 14h 52m 37s.xml">
+      <configuration name="py.test in test_sigleton.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1447" y="-959" width="975" height="1721" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.65027934" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -643,13 +637,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resource/wework_app/person_info_setting_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/wework_app/person_info_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -971,6 +958,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1474">
           <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/practice_test/test_sigleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
         </state>
       </provider>
     </entry>
