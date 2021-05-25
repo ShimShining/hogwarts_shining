@@ -28,13 +28,14 @@ import random
 
 
 def get_yaml_datas():
-    with open('../datas/test_1th_work.yml', encoding="utf-8") as f:
+    with open('D:\personProc\hogwarts_shining\datas\\test_1th_work.yml', encoding="utf-8") as f:
         datas = yaml.safe_load(f)
         return datas
 
+
 # 获取企业微信添加成员信息
 def get_wework_data():
-    with open('../datas/wework_member_info.yml', encoding="utf-8") as f:
+    with open('D:\personProc\hogwarts_shining\datas\wework_member_info.yml', encoding="utf-8") as f:
         datas = yaml.safe_load(f)
         return datas
 
@@ -178,7 +179,7 @@ def case_rank(pytestconfig):
 # 企业微信数据获取
 def get_wework_depart():
 
-    with open('../datas/add_department.yml', encoding='utf-8') as f:
+    with open('D:\personProc\hogwarts_shining\datas\\add_department.yml', encoding='utf-8') as f:
         datas = yaml.safe_load(f)
         return datas
 
@@ -188,8 +189,34 @@ def get_depart(request):
     return request.param
 
 
+def get_tags_data():
+
+    with open('D:\personProc\hogwarts_shining\datas\\tags.yml', encoding='utf-8') as f:
+        datas = yaml.safe_load(f)
+        return datas
 
 
+@pytest.fixture(params=get_tags_data()["json"])
+def get_tags_json(request):
+
+    print(request.param)
+    print(f"confetest参数类型={type(request.param)}")
+    return request.param
+
+
+@pytest.fixture(params=get_tags_data()["group_tags"])
+def get_tags(request):
+
+    print(request.param)
+    print(f"confetest参数类型={type(request.param)}")
+    return request.param
+
+@pytest.fixture(params=get_tags_data()["tags_order"])
+def get_tags_order(request):
+
+    print(request.param)
+    print(f"confetest参数类型={type(request.param)}")
+    return request.param
 
 
 

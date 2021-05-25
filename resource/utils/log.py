@@ -28,8 +28,8 @@ class Logger:
         dt = time.strftime("%Y_%m_%d_%H_%M", time.localtime(time.time()),)
         # 日志的文件名
         logname = log_abs_path + str(loggername) + '_' + str(dt) + '.log'
-        # 创建一个handler，用于写入日志文件, 'a'表示追加
-        file_handler = logging.FileHandler(logname, 'a')
+        # 创建一个handler，用于写入日志文件, 'a'表示追加,encoding默认为ASCII,中文显示会乱码
+        file_handler = logging.FileHandler(logname, 'a', encoding="utf-8")
         # 为logger添加的日志处理器
         self.logger.addHandler(file_handler)
 

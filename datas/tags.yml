@@ -1,0 +1,37 @@
+# 只传递一个json的参数,第二个参数传递None
+json:
+ -
+  group_name: group1
+  tag:
+   -
+    name: g1_tag001
+ -
+   group_name: group2
+   tag:
+    -
+     name: g2_tag001
+     name: g2_tag002
+     name: g2_tag003
+ -
+   group_name: group3
+   tag:
+    -
+     name: g3_tag002
+     name: g3_tag003
+
+# 传递两个参数group_name和tag_list
+group_tags:
+ -
+  - group_tags4
+  - [name: g4_tag001,name: g4_tag001]
+#
+tags_order:
+ -
+  - g_order
+  -
+   - name: order2
+     order: 2
+   - name: order3
+     order: 3
+   - name: order1
+     order: 1
