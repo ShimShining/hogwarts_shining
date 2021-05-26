@@ -1,0 +1,4 @@
+[32mINFO    [0m testcase:base_api.py:43 {
+  "errcode": 41009,
+  "errmsg": "missing userid, hint: [1622035925_147_3ff6d84dfd3c60b15a893068f27f3468], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=41009"
+}

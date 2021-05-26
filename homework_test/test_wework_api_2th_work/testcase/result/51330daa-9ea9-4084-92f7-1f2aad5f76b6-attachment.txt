@@ -1,0 +1,4 @@
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 41009,
+  "errmsg": "missing userid, hint: [1622035860_147_6a4ec54da021425189bee18f9982f87f], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=41009"
+}

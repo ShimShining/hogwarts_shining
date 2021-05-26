@@ -1,0 +1,156 @@
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg",
+  "expires_in": 7200
+}
+INFO     test_member_apipy_TestMemberApi:base_contact.py:29 获取token成功,token=7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035852_148_ef73cee191b812588c56b3d2865c3ca8], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "delete001",
+  "name": "删除",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944024404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc933cbd351a885375",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+INFO     test_member_apipy_TestMemberApi:member_api.py:114 删除user_id=delete001成功
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035853_148_98b916bd981d4b88fe333b8e28a953d5], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035853_147_87ac434e8c8a6bbf0dd0dfafae9ec594], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "repeat001",
+  "name": "重复",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944021404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vccb49407b293d6a20",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+INFO     test_member_apipy_TestMemberApi:member_api.py:114 删除user_id=repeat001成功
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "created"
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "created"
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "created"
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0526",
+  "name": "hog_shim1",
+  "department": [
+    2,
+    1
+  ],
+  "position": "高级测试开发",
+  "mobile": "13444477704",
+  "gender": "1",
+  "email": "shim0526@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vcfbfb3bd57e51c3dc",
+  "alias": "shim01",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址001",
+  "thumb_avatar": ""
+}

@@ -4,7 +4,7 @@ Author : 'Shining'
 Date: 2021/4/13
 Describe:fixture .py file
 """
-
+import json
 from typing import List
 import pytest
 from test_case import Calculator
@@ -82,7 +82,7 @@ def pytest_collection_modifyitems(
         session: "Session", config: "Config", items: List
 ):
     # 随机打乱测试用例执行顺序
-    random.shuffle(items)
+    # random.shuffle(items)
     print(f"items的类型={type(items)}")
     for case in items:
         case.name = case.name.encode('utf-8').decode('unicode-escape')
@@ -211,6 +211,7 @@ def get_tags(request):
     print(f"confetest参数类型={type(request.param)}")
     return request.param
 
+
 @pytest.fixture(params=get_tags_data()["tags_order"])
 def get_tags_order(request):
 
@@ -218,6 +219,38 @@ def get_tags_order(request):
     print(f"confetest参数类型={type(request.param)}")
     return request.param
 
+
+def get_mustache_data(data):
+    import chevron
+    with open("D:\personProc\hogwarts_shining\homework_test" \
+              "\\test_wework_api_2th_work\\template\\add_member_template.mustache", \
+              encoding="utf-8") as f:
+        temp = f.read()
+    print("=========================")
+    datas = chevron.render(temp, data)
+    print("++++++++++++++++")
+    print(type(datas))
+    print(datas)
+    print("+++++++++++++++++++++")
+    return json.loads(datas)
+
+
+def get_member():
+
+    with open('D:\personProc\hogwarts_shining\datas\\add_member.yml', encoding='utf-8') as f:
+        datas = yaml.safe_load(f)
+        return datas
+
+
+@pytest.fixture(params=get_member())
+def get_member_data(request):
+
+    print(request.param)
+    print(f"confetest参数类型={type(request.param)}")
+    request.param = get_mustache_data(request.param)
+    print(f"confetest+mustache参数类型={type(request.param)}")
+    print(request.param)
+    return request.param
 
 
 

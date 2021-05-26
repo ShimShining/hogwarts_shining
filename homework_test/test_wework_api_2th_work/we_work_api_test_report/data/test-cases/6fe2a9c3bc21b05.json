@@ -1,0 +1,255 @@
+{
+  "uid" : "6fe2a9c3bc21b05",
+  "name" : "test_add_member_name_empty",
+  "fullName" : "homework_test.test_wework_api_2th_work.testcase.test_member_api.TestMemberApi#test_add_member_name_empty",
+  "historyId" : "68e4d3cda75c14f73c5343be96c48556",
+  "time" : {
+    "start" : 1622035926112,
+    "stop" : 1622035926185,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestMemberApi",
+    "time" : {
+      "start" : 1622035920024,
+      "stop" : 1622035923565,
+      "duration" : 3541
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "73d520e4d9fc7e1d",
+      "name" : "e701286f-566b-405e-9b0c-4031dba42e3f-attachment.txt",
+      "source" : "73d520e4d9fc7e1d.txt",
+      "type" : "text/plain",
+      "size" : 318
+    }, {
+      "uid" : "cdbfedee0b10f10b",
+      "name" : "6b489c9e-6b39-459b-82da-2e2a79bdfe34-attachment.txt",
+      "source" : "cdbfedee0b10f10b.txt",
+      "type" : "text/plain",
+      "size" : 233
+    }, {
+      "uid" : "b053c33c2635f74e",
+      "name" : "e04c740c-8f4b-46f4-b7d2-acbd25d9e887-attachment.json",
+      "source" : "b053c33c2635f74e.json",
+      "type" : "application/json",
+      "size" : 378
+    }, {
+      "uid" : "d3797daad4443ded",
+      "name" : "a8abb4d9-3749-416c-8e0e-1df00c36c2bb-attachment.json",
+      "source" : "d3797daad4443ded.json",
+      "type" : "application/json",
+      "size" : 284
+    }, {
+      "uid" : "78c5dacaf834b3d1",
+      "name" : "e76bf318-85fc-4e53-93ba-73a8c49fa1e2-attachment.json",
+      "source" : "78c5dacaf834b3d1.json",
+      "type" : "application/json",
+      "size" : 376
+    }, {
+      "uid" : "54800ab75002442",
+      "name" : "3fca5c13-5ff1-4f87-83af-2751bdf5bae8-attachment.json",
+      "source" : "54800ab75002442.json",
+      "type" : "application/json",
+      "size" : 497
+    }, {
+      "uid" : "a4a353e351ae61b",
+      "name" : "902246e6-423e-4017-966d-e59ac62e7ab3-attachment.json",
+      "source" : "a4a353e351ae61b.json",
+      "type" : "application/json",
+      "size" : 379
+    }, {
+      "uid" : "3fe311327c6ec348",
+      "name" : "5cedef93-d731-41d7-b05f-1d2db568fc8d-attachment.json",
+      "source" : "3fe311327c6ec348.json",
+      "type" : "application/json",
+      "size" : 64
+    }, {
+      "uid" : "45635530e5978593",
+      "name" : "5e7e844d-f3fb-4812-b02c-7c5c277ce5ca-attachment.json",
+      "source" : "45635530e5978593.json",
+      "type" : "application/json",
+      "size" : 375
+    }, {
+      "uid" : "7c9a685e5a7d85ce",
+      "name" : "12fd1bd1-3d0f-45f1-ac9c-b2ae325b8a06-attachment.json",
+      "source" : "7c9a685e5a7d85ce.json",
+      "type" : "application/json",
+      "size" : 284
+    }, {
+      "uid" : "5589c747f5c5279b",
+      "name" : "a48d765c-8cb5-4f94-a5a0-4b9bbd010e1a-attachment.json",
+      "source" : "5589c747f5c5279b.json",
+      "type" : "application/json",
+      "size" : 375
+    }, {
+      "uid" : "78341d7037a57586",
+      "name" : "99d396df-0ffe-4ae8-9514-0d3bbfb22757-attachment.json",
+      "source" : "78341d7037a57586.json",
+      "type" : "application/json",
+      "size" : 284
+    }, {
+      "uid" : "82cbcb99971d83c",
+      "name" : "c22e083f-09e1-440e-bc05-dd0d1f9b72a6-attachment.json",
+      "source" : "82cbcb99971d83c.json",
+      "type" : "application/json",
+      "size" : 376
+    }, {
+      "uid" : "ea2f5f56c9b40f75",
+      "name" : "e1f1cbe4-af0b-40a1-9e8e-b1b004161787-attachment.json",
+      "source" : "ea2f5f56c9b40f75.json",
+      "type" : "application/json",
+      "size" : 497
+    }, {
+      "uid" : "a2e441afa9979018",
+      "name" : "9f7284f7-d33f-4d6e-8064-98e25a4a6908-attachment.json",
+      "source" : "a2e441afa9979018.json",
+      "type" : "application/json",
+      "size" : 379
+    }, {
+      "uid" : "b579b98adf456ab8",
+      "name" : "2be57fbf-ef97-4fc7-808b-c743e29a26b2-attachment.json",
+      "source" : "b579b98adf456ab8.json",
+      "type" : "application/json",
+      "size" : 64
+    }, {
+      "uid" : "7d7560d113350e09",
+      "name" : "c0b322df-cdd4-406f-9aa3-b03901adcdc7-attachment.json",
+      "source" : "7d7560d113350e09.json",
+      "type" : "application/json",
+      "size" : 455
+    }, {
+      "uid" : "34da21d6f64dd5de",
+      "name" : "a41d08d3-c88c-4374-b721-b5d02eebb2cc-attachment.json",
+      "source" : "34da21d6f64dd5de.json",
+      "type" : "application/json",
+      "size" : 64
+    }, {
+      "uid" : "a51cd70392b9091",
+      "name" : "242d5768-e2b3-485a-a73b-763783ae044e-attachment.json",
+      "source" : "a51cd70392b9091.json",
+      "type" : "application/json",
+      "size" : 455
+    }, {
+      "uid" : "5c8a6ea214a0a533",
+      "name" : "8c4208dd-75eb-424f-a4bf-f5dbeceb1852-attachment.json",
+      "source" : "5c8a6ea214a0a533.json",
+      "type" : "application/json",
+      "size" : 64
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 20
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1622035899302,
+      "stop" : 1622035899405,
+      "duration" : 103
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "634107d0d59176e3",
+      "name" : "e997f9dc-2121-48aa-8e1a-2c330e29f710-attachment.json",
+      "source" : "634107d0d59176e3.json",
+      "type" : "application/json",
+      "size" : 447
+    }, {
+      "uid" : "3885ee0e06516b98",
+      "name" : "7be9d4d6-325f-4416-97ef-8d901d72c519-attachment.json",
+      "source" : "3885ee0e06516b98.json",
+      "type" : "application/json",
+      "size" : 266
+    }, {
+      "uid" : "485f9672ddabd4ba",
+      "name" : "log",
+      "source" : "485f9672ddabd4ba.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestMemberApi::0",
+    "time" : {
+      "start" : 1622035926774,
+      "stop" : 1622035926774,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "添加接口"
+  }, {
+    "name" : "feature",
+    "value" : "添加成员模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "homework_test.test_wework_api_2th_work.testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_member_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMemberApi"
+  }, {
+    "name" : "host",
+    "value" : "ShimmerShiningHoon"
+  }, {
+    "name" : "thread",
+    "value" : "11376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "homework_test.test_wework_api_2th_work.testcase.test_member_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fe2a9c3bc21b05.json",
+  "parameterValues" : [ ]
+}

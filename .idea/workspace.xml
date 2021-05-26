@@ -2,17 +2,494 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a6a8e4-a19b-4ed1-9ec1-70ae08070364" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/datas/tags.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/datas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/base_testcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_tag_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datas/add_member.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/base_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/00e6ba04-54b5-474f-95fc-955773f935af-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/042e7ce8-1010-4b27-8e59-598ae84995c0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/056138a9-da63-483e-b2b4-1d739350ce80-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/05c362fd-8982-4409-b93a-727995e4401c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/06d893e1-4a71-4b98-8836-96937665f6dd-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0759d849-3cf1-44f5-a62b-83e1fd445325-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/07781325-8f81-40b6-88d7-be758261bac9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/08ef9b52-0435-4225-9b10-d63d571c2a73-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0afb619e-7ba8-4334-ae2d-b80a8636f3c6-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0b828d84-1897-4ab8-b488-b46a994c8436-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0c2bec08-5f83-4560-89ec-48017298bd99-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0c6034fc-b039-42d8-ab1a-6b02a98ca50c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0cad9170-864f-406e-854d-6ecea092f4e9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0d0f77d2-e304-49c6-be22-c4b1dd30a763-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/0e4a5c15-bf9a-46df-befa-3caf2b57e82d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/10e20df5-7ce5-496b-85cb-3996ec31ea02-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/117cfb48-ea98-430c-a09d-c78c28931786-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/125c097f-ee8e-4ce5-9b4f-37c506479001-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/12fd1bd1-3d0f-45f1-ac9c-b2ae325b8a06-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1327a82c-1483-4809-8642-ea8b30ed1f88-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/13502d6f-ff2b-4aac-9a64-c7e0e5461947-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/13b865c6-bcf2-4622-a77b-2f5aef329903-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/15f10fd0-4c3c-445d-9cdc-e7ae075984cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/168d98fc-81f0-4e62-8c87-fd6abd881094-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/17cac2be-8bee-460a-bb67-015933a7828f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/18f34470-7f59-4468-9114-489802704dd2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1908280c-2105-4c24-8dd4-dabb70cd0877-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/192dbb5c-8f92-4014-a4ac-337740ade7da-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1931a7d7-eb57-4b64-8c80-531ff4b3424a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1945a3a1-68f2-4a83-a023-0d414809866c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/19b2a83e-1055-49e6-b00a-abad20bb9204-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1b4da8fd-d923-4739-9dae-8c205e59bf9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1bca7e22-4d2d-442d-b8b1-2bef9a48d887-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1c621244-9bcb-4a29-b27c-7e1e78f9476e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1c933e95-c3ee-4111-89a7-42d048f5e1ca-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1d3adae7-4371-4491-b0a7-08e3834bc80a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1ed3b68d-e816-4e5d-b169-ba79ecd38d9e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/1ee11966-29ea-4d89-8afe-0575fd7524ff-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/21482262-1d6d-4521-b8b0-4bb4823405ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2220bd87-5f49-4649-ab7b-06994480d891-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/22ebc3b8-60fb-4e3a-a948-054e0d2ad09b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/232ebc2e-cc46-4757-b267-f4c056100bb4-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2362905a-3e94-40f2-9884-81c602f3bec2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/236786f3-d833-4c3d-9cb1-b2fcf013f8a9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/242d5768-e2b3-485a-a73b-763783ae044e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/25cf5c66-23a4-4980-98cd-3c27cfdc7f48-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/25fe22e3-56d5-4efc-b4ce-50794113fdff-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/277d666b-6c10-4774-a8d9-586baddefc57-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2827673a-a402-4b15-b551-9102a483eff0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2833b8cb-20e9-4b77-a91b-73cab56e336f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/28d38420-4de0-4cd6-acf7-42cac83d75a5-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/28d6e269-cf91-4c40-bca0-fad6f8bbb6b7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/28e06600-3de9-4afc-80dc-9c36f6effacb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/29d2f878-3f47-4eef-80a0-7ae495d7a7b8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2adb6a3d-23ad-4cdb-95b5-950aa2c4b94c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2b71a8b9-e27b-4efe-acfc-1637b97dd795-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2be57fbf-ef97-4fc7-808b-c743e29a26b2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2d24cf93-c63e-4c6f-9797-f1009d3714f5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2d9ab0ac-511b-4908-94bc-9940efc3855c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2daa63c3-ed2b-4381-8c98-6587f3be3b3e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2e24c5b3-1cc1-4777-8ffa-06587f78ab12-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2e88a1f8-257f-4d63-aa60-4488cd916a09-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2f65a79c-472a-45b5-a170-1bdf197fb766-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2f901aae-0d15-4fbc-818c-197b138ec28e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/2fdbf33d-284b-4162-9ef1-8def1ad5ee58-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/308239d7-c807-457e-8f21-ad0970a5f5de-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/30ea491b-836d-4d1f-8028-02facefab965-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/32993c6e-586b-401e-b444-e38d22845837-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/32cb2ef6-4eea-4a18-8837-df4e4292f3df-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/343ac70b-143b-47dc-807a-8b649a9da051-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3548fed2-9bc3-4a82-bbbb-d5c1a5a5d48c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/356786a1-e683-466c-b234-9e04b3bd1453-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/364e0ba1-f48d-476a-b510-b617bd327de2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3658a5f6-dada-4c6e-9b6c-1a19e7a3efd5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/36c2b67c-4698-4e08-9b41-3116289a12e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/372d3b81-6729-421b-a59b-be7940df6880-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/37380314-5ddf-47eb-b69c-c7c263854c01-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/37a3acc5-fe2b-4e03-b596-186dfa92bfa6-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/38356f7d-ce2d-4441-adf7-2414320e44b2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/387cd9b6-c672-491e-8b39-0ac79476e917-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/38c30f9f-eef3-463c-a6a4-24821ce230cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/38ea2fce-52e6-4886-a0e3-bb0ba7ed21ac-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/39b44229-ec79-484d-b2a3-b0ba1b76ba66-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3ab987cf-b86f-425a-b91e-410850abc284-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3b1fefa0-c1ed-4823-95b8-01590f4f02a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3b28ca0e-0d10-42b8-9de6-1bcacae91565-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3bcfaafd-aa97-4112-938c-edfd1de69658-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3ca823cf-ef97-4d65-aeec-ed1381a33278-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3ceedc22-f4fe-472e-9bad-13c9b71428b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3d42d644-dfa8-4003-88df-eba9738ac415-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3fca5c13-5ff1-4f87-83af-2751bdf5bae8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/3fef58f5-7975-4dad-8da4-cf1670fdaa1e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4121df2d-01e9-41e9-b6d5-785a102dc60a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4162104b-e033-43c6-bb42-cba7f157dc58-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4163fa8a-b1a3-457d-8b2a-63772f1efb42-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/418016c7-4273-4faa-8161-4ce3f1673969-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/41d74b49-8bc3-452c-b001-43394e124535-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4297b76d-550e-4129-ba93-24977ed962ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/42f3ffb5-9c24-4cad-819c-386802c0daf5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/432022b4-2be5-47a2-81d4-267e4e01acc9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4436cd40-639a-4717-9059-6bb35a882df0-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/44643403-9ded-48c4-983b-8d2a5402586b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4616296c-e3c4-4bc5-831a-c28073b56ade-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4689b61e-a2cc-4e42-801a-ce80b0a449e5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/468f382f-5f86-4b52-8eb2-90baebff600b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/46b75ad3-1ad5-4a1e-b9af-60ecc00fc38e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/47c67c50-2292-4bf1-8dff-37690f134d1a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/489ebbad-8e36-4bc5-ac8b-84006126def9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/48ba58ff-c6d4-4063-b0f6-fa910a6ae46e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/49a252de-1752-4a42-9493-82d8ec2012e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/49bae889-e1c0-4956-a81a-4d648ec41172-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4b35da55-709b-4a54-970e-1a57751abe93-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4bef442e-fd30-4f79-a1b9-4533dba9f376-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4cb660af-d005-4e7b-abfa-05ca9ab6378d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4cda3960-3806-4588-a660-f289419c2318-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4db962d4-f91f-4111-bd67-ae1163eb2fb7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/4e693860-264d-4a9d-9261-11f4cab5b7b5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/515c28b1-dc73-413e-a00f-09f31907fe23-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/518d9775-ad65-4e8f-b4a1-10d4ea0c580f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/51c3fb2b-50f2-48d9-aad8-488885037042-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/51ebaba9-9b54-4f5c-b76d-719ddfe28916-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/52ee50a7-00ac-4ac3-8d2b-16dd1ca8709f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/52f67414-7258-43e0-8a0e-5a926f1cb9df-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5325895a-7147-40fd-84fe-8b5b56d9e09f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/541df485-d8df-4f4a-8110-c711d22c25ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/54bb3d8c-342d-4721-a5f9-a570fbf90156-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5687df33-4ef5-44b5-b04e-bbed8c2d1de7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/56a34a03-8d12-4a44-bc6e-32c4a0ab3acd-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/583163be-2560-4e1b-9fd1-8d28c7935233-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/58e28d76-f419-44b4-893a-5a5feab990dd-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/595f2c1d-2379-424b-b64e-de254eae39eb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5cedef93-d731-41d7-b05f-1d2db568fc8d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5e04b294-ec90-4d97-b76b-914b2216af6f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5e0aecfd-ab34-4097-80b1-e3662b5bef96-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5e502df2-2ebe-4629-a243-adca73a13bec-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/5e7e844d-f3fb-4812-b02c-7c5c277ce5ca-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/60910c2f-b2aa-4747-af2f-5d0e404f63c1-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6109a071-ed8c-4c65-b5bc-bc7de544820b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/61ae29f2-c97d-4078-95e2-b910fca9d279-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6274385c-8646-4df8-a254-26d43288cae8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/638281e9-eb20-438d-96f9-3e23008f9c3c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/64c99c03-6767-4690-8b85-bfd24c52328d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/64d1869d-fc4b-4c26-8022-a8303c23aaea-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/650f7185-4355-4470-999a-68b81c3b1438-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/662bb658-e68f-4ddb-be94-ef3e4682d28e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/665d5c4e-3006-47d4-9764-b73904f92da0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/670eed3e-36d5-424e-b6c4-b4614fe42a7b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6719deb9-e7d1-4e56-bde6-f311fda12a45-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6817ba93-aa4a-4166-8cfe-57303d36d3d9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6849e6a4-b172-4f3b-b605-1dcce9222458-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/68df8f11-aca3-420e-9cdd-17a21235d128-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/68dfda12-e129-417e-89af-3c6045530069-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6a4e8a58-4845-4ae1-8ef0-cf578828ef39-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6af178e2-835e-458a-bc81-fd9f086a5eb3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6b489c9e-6b39-459b-82da-2e2a79bdfe34-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6b8c0bce-6cb6-4beb-a6ff-66943011725b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6cb47917-7dd1-4ca0-adfb-3b93f977e478-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6d8ce692-a61e-4ff0-848e-9bd8fbcf1730-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6decb347-8fa8-4a57-a615-3beb2124a27d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6e13315e-481e-4ec7-825a-6688e1b50eaa-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6e290d28-d6dc-4fc8-aa6a-8a10ef3e49ca-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6e8780c0-72fa-45c1-bca1-a8e33c121fd7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6f057015-82be-4f21-9858-4eff218e26ab-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6f13dbb0-03c4-4a37-af38-da52198f708c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/6fbe10fe-6204-4855-983c-f13f224f91c7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/707ec2e4-ac78-4373-891f-789f7768e450-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/709fe524-2c44-472e-a92d-c43d6c717d6f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/71b31e8e-235b-4a2d-815b-c5351aba3e16-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/72b1bf8a-03f4-4cfe-9c19-99c4ae2ae42d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/73054a21-1421-4226-8896-543a70e73ed4-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/75a59966-f132-4735-90aa-783b7b20ca31-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/762f03b4-a5db-4d31-bd20-a0b3826ace28-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/76ecf97f-c929-413b-99ad-21896f2b00c7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/79f3d656-c505-45ee-8847-d3eb02c51347-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7a997169-8133-482e-8e9b-2e8775637001-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7a9fdc39-4e8f-429f-9956-92fe2f783706-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7adae5fb-8069-4144-ae9b-bad4375523b0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7be9d4d6-325f-4416-97ef-8d901d72c519-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7e888fc5-b89b-4773-ae39-c85bda49fe2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7ee695e5-f606-41bd-843b-b0957944fe88-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/7f76ab09-fcfa-48fe-8570-a8172650a06a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8184aec8-8cd1-41ed-b003-60af8f276743-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/81979844-78a5-47f7-ab22-7d0373c0efa6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8225fb47-5cab-44c9-88a9-9412f3fd0535-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8257c101-1437-4ba5-a4ec-6bd2b11a5821-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/830eb079-cc6d-43c2-a56e-82f82983bfce-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/83ea2d05-bf9d-47f0-9520-6e11b9f1888b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/849c40cf-0fd2-4a71-9df7-a5f9957eeee6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/84cf03d1-709f-4fe1-974a-b3f12a01028b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/857a2e79-432e-43d4-adcf-03e0254ea9e7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/85a49447-4bd0-49e2-bd1f-f033116d639f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/85fa6bb7-38e9-4c17-b10b-2aa901087d13-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8681bd42-a74b-4737-a576-bb8a960ff202-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/87ee75eb-82e6-44e7-b969-58611b8d0d9f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/87f99dfc-4558-44ef-ac34-5ba549333fae-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/895f4db9-c418-4480-9748-d6747553516a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/89d65ee7-1ea8-45d6-a275-f51dc244e4a7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8a03a045-df40-4519-ae60-520af0bc2011-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8b00fd68-6256-4183-8d5b-509b23445d53-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8b7d19b7-7399-4996-b644-6663abf236fa-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8c25fbab-8f14-481d-9dac-170c8aba4214-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8c304401-adaa-4bcc-aee0-ff8b9f2b2b3f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8c4208dd-75eb-424f-a4bf-f5dbeceb1852-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8cbd8fa5-0721-4b12-a377-00b1f8e38c72-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8ef95289-8c88-4e7f-833d-c9f96ab09ccb-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8f4aabe9-6ba5-4d12-8d0b-cfe34a06a49c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/8f57ca04-4b69-401b-a0fa-5ea781ab3265-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/902246e6-423e-4017-966d-e59ac62e7ab3-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/915af98b-de7b-44dc-9f66-d4a1d07d471b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/91fd7862-756a-4ab4-a609-eb9260a20a47-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/921ca14d-07c4-4e06-9baa-2f38a3373024-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9253d0f9-074e-42d3-859c-38ad86fd8d47-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/944732d4-7138-4647-83f7-bd56d16a9414-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/97ac4911-060c-40e3-83e5-ae158cba0920-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/97dd6256-2cff-4401-8603-7fa70456d977-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/99d396df-0ffe-4ae8-9514-0d3bbfb22757-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9c2fbc68-b55c-49e2-9da6-5d9d981da77c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9d7424ae-f335-4523-8baa-8b3b8d6efc53-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9f3fb9e5-5e05-439a-a124-2aefe654aeb3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9f7284f7-d33f-4d6e-8064-98e25a4a6908-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9f82247a-5c30-4f87-80e3-482c0b31142f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9fc3558d-31a5-49c5-9fcb-2d0434736b23-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/9fe9c4cf-0bde-49d0-b39c-ef00ed26c915-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a252991b-e806-4fa1-8cd1-c4e9622af5f7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a27d8f6a-b5de-4ea2-96a3-73746933946d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a33c1eaa-0b00-4f61-a96b-e83a72e58543-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a37b686c-3e79-44f5-ad08-4ae656fabbb3-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a41d08d3-c88c-4374-b721-b5d02eebb2cc-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a47ccdf6-c66d-4b03-b40c-2e9b00242e02-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a48d765c-8cb5-4f94-a5a0-4b9bbd010e1a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a4ab8211-295b-48c6-a733-a517ccdf2cb4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a58268c8-2505-4e8d-8d97-27b2b29b8a41-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a586a9ea-1aa2-4e35-a3e7-dc116ae8b088-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a5a02385-b800-4be8-aa6d-dae7c9fc1ebf-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a5b9483b-a2eb-4cf8-a3f7-c6dc26a270a8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a6817b29-ade6-49ac-8bdb-b326355a7e75-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a79db514-cd19-440b-86e7-45c56ee3b19d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/a8abb4d9-3749-416c-8e0e-1df00c36c2bb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ab4cf072-7fb9-47ac-a2c0-ac400a9f6185-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/abcd8fbb-8cf1-457c-bdec-74d2c3f81759-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ac54670d-9832-4597-ae8e-dbf8af7e9600-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ac95aaaf-adb1-41f6-a8d3-3780676731a0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ad0cf369-a7fd-48b5-855d-1b0c3435b927-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ae97df79-d78b-4a61-b012-7094067a7eec-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/af90f2aa-a376-457a-931c-e0c9732881ef-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b091fc25-1c17-447e-a48c-acdaf09903ab-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b0d8cf16-6d85-4d72-aeee-3cc26011ab6d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b12ed244-0631-4888-8845-95fd0f6185c3-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b2189c4d-97c4-4948-a2b4-ef7fd9b973df-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b2952305-ce33-4a9c-977f-85fa5fcde9e3-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b2b1b4c7-c7a5-4489-8453-c4c2de92ca09-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b2f31c4a-10e5-4f76-808c-e1c29f8d7a5a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b350b32e-00bd-40ec-a42e-0792a273ceda-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b3723066-bae0-41aa-a08e-7d580d08083b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b3906943-db5d-41a7-a801-448532979a47-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b51dcf3a-16bd-46f6-b6dd-6dfc50947774-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b5416442-15ae-4cba-9df7-9c49d4bbdbb4-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b6cfe33a-6c89-40a9-b77f-e0ab79a98e9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b8117145-58e7-4098-855c-226eea39832f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b84e69ee-693f-4839-8856-ae504e38de3b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/b89d0691-fa11-45d6-8fce-1b38f570417f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/baea3f9e-d200-41df-8598-4f25d6a036e7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bb03051b-b28a-4217-959e-73f1b0e77c94-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bb5f4e01-80de-4940-b061-3b9e67325294-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bc1fa7f4-3434-4148-a5f4-965a3cb0e936-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bcdf9411-b5bb-4e76-a7c4-523f510b69d4-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bd1e2eb5-86d7-4a24-b068-6bb6d7b4c3a4-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bd651af8-0433-47bb-89a1-e9a12a81fb63-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bdb0e3ed-c7d7-4fe7-b3f2-cc70f5e2157b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bdfe48dc-e673-48a4-b3e1-816845762676-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/be2c5289-c00c-4064-8ad9-21fba025d74b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bed4c892-5118-4aa3-815c-e8c33e7c0319-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bee73f68-34f3-497b-854d-8f0ca4bb24e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/beff6cea-bbbb-4e0d-a80e-6186aa8ceb41-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bf0263f9-ed0c-472e-a0bd-9526988986cc-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bfcc0c41-29b5-469b-977c-ed4002cd0c67-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/bff2b71a-8b2f-4a8b-90bf-5714d73fa216-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c0b322df-cdd4-406f-9aa3-b03901adcdc7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c14a1a25-1d29-43fa-8f32-ed1ab9a0a480-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c22e083f-09e1-440e-bc05-dd0d1f9b72a6-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c2c0998d-3f2a-4b2e-a176-9438e3a8ec09-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c3732aa6-94e0-4868-b92e-e7b3da7acda1-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c38819dd-75ec-4d67-a853-f1146286963d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c3b49324-e1ec-4c3f-a38d-f1d6bef2a407-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c49ae919-9873-47db-84d2-49dcec046957-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c5691a6d-43ab-4107-90a8-1146d5d16cc2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c6a2953c-4b4b-4290-8d19-387cf75a31e1-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c72c2527-c540-46aa-a524-e377e13bfee2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c8a03676-c6dd-4340-bf13-c5453a07e765-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/c9f65f4c-dda8-4fa7-aad4-2244620f3542-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/cb400477-da96-4bd4-981c-dc7f04665840-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/cb4f90fc-2039-4241-aea1-4cc58fc93030-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/cbdef00a-c40d-4115-a823-7be4c849b415-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/cdd3e849-2e1e-4667-93d9-6308298145c7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ce16ff6c-fd44-4988-ab20-73403e397dbf-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d0199f76-5bf9-4aa0-8004-6cb26c737f34-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d0dad3f6-5b46-449c-8b8c-eef6dc191ef0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d19de9ec-91c9-4767-becc-08bcbdead32e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d2257102-2492-4973-ba2e-94738ebc58d8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d3e33cf7-1f92-40b4-a5af-2560ece975e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d4096ee5-9733-47b4-8720-282c4abe037f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d40f3b96-97eb-4ec0-9833-0434f63a898b-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d4701d16-cc07-4188-8f54-68d935e2c4e5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d611755a-e70f-4bad-b625-3c69c0179f35-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d69525d9-7aee-4389-9846-d9c42c341741-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d7465aa9-4da3-4cc5-9ec9-9aad3f22cc61-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d82d30d6-09f8-4b58-9f07-f8cc56fa7492-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/d8ab930e-39aa-4e7d-8846-3ecc97218708-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/da5182ba-a3da-4a7b-8cfb-4b226888fcdd-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/dae6256f-5a50-4e4a-a15e-3c0da3323d27-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/dccf1933-f1d3-420a-b4f2-50cc607d6879-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/dd66a7b2-bf41-4dbd-bece-78cd5e1a9476-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ddce2b4b-78be-4633-bd11-cbd9a4589a01-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/de330702-e3ef-4e9d-b2ff-ede3ef2e29c3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/def46e79-0af1-4ce0-a6f0-51412ad1b903-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e04c740c-8f4b-46f4-b7d2-acbd25d9e887-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e0721215-5ece-4636-8489-e2d8579483fe-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e1201e76-52de-4627-b259-aededee5c136-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e1f1cbe4-af0b-40a1-9e8e-b1b004161787-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e2847ee9-48f3-402d-9c05-247bc020071f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e294bc5d-4cb2-4ab8-9459-72d6fb1430a8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e47029a5-b27c-47ee-ad3f-2f5203707029-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e4f2901f-97e1-47bc-892b-11d9274bbda3-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e53fef1b-5182-4258-9a30-15fe84c99100-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e57284c5-14ec-4b67-9648-3a236837ed26-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e6b83bf4-b48c-429b-b56d-38d0b44edfc2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e701286f-566b-405e-9b0c-4031dba42e3f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e76bf318-85fc-4e53-93ba-73a8c49fa1e2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e78ac30d-f54e-4e07-8c16-c2f61b321dd3-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e7de3397-62f6-4cae-ab48-69f5d58dd7b8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e8676fa1-3f4d-484c-bda4-9f2b60119f65-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e8762f86-f300-4876-bc45-92f2b186c2fc-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e920cc6c-155e-481f-b446-5a98cf26677c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e9480f63-1f30-4baf-83df-7b73bd3e9e70-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e94f51f9-0466-468a-9334-eb0965adae35-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/e997f9dc-2121-48aa-8e1a-2c330e29f710-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/eab980e0-fe1c-4cf7-9ea5-2bb4890b2608-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ead5f7e1-cc94-4099-9a83-1ace2fa0b5a4-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/eb17d198-3423-485b-b189-5bd43e8c3d1f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ebcff34a-2509-4297-bccb-50beec02d0c2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/eee42917-d3b8-4ba1-989f-86cd9784cd76-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ef643630-6364-42ea-b960-26206f00057a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f0bf0992-7203-4db5-8ec7-b1c4ca632e9f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f115870b-c052-4af2-bd96-5bae21616268-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f1ae8dad-0a1c-4ea5-8bf1-bd2bc684c753-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f1dbf2fe-61f2-4282-a708-cb8610d86d89-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f2448ec8-37a8-4bb4-b1f6-b6c214a3e2b9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f3eb4aab-d423-4c45-8c7f-af2ae348c963-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f43112b1-6b48-441f-8e4f-840aa0f9ca64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f459c795-ba59-4da1-b68e-2d96b99fd68b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f4680aba-1bd0-4773-8e30-b69155e7a220-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f4857124-3a9f-4c2b-a23c-25ce4f8f4070-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f523302d-4dc0-41f2-8959-e7168d3513d8-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f57543db-f6b7-4a85-812f-030e49b863eb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f639ec16-0bb8-496c-90e4-a52a15c36e0f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f6458106-67f5-4ddf-9a52-7e2c8feefcd2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f7644f71-6219-4fd4-800d-194b9cb912b5-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f787aa5e-0632-4729-85c1-13bc72b6225a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f8bc3659-2e13-4efb-90e2-a0f6a11234c9-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f9803ab4-f123-4501-b0c8-1fb4b737d04a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f9a8e2e5-d0c7-4f8c-adc3-18197e7bf36c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/f9f8b268-6883-4eb1-9a32-c2705d2d48cd-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fa5e1afe-5bf9-4c62-90a7-831386b0e4e7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fa6fcb27-f490-49bb-b139-40e761da702a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fb78dd80-c4e3-404b-aba7-c29590305dcf-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fb9b14cd-6a34-4d24-9107-2c9cadc5cf43-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fbc6fcdd-e5fd-44b1-86eb-1ed3993b335f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fce2ea44-d198-408e-a3d1-56ef073f6cd0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fd06faff-734e-4b41-8c6e-298d1428c673-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fd66abed-3928-4b93-a7b1-93be92eaff69-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/fde8c1f9-a78e-4b6d-9ed7-79a97f8fa17c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ff11534f-85b4-4b4a-89bb-2320990f6932-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/result/ffa979ea-ebe7-4c0b-a2a2-7ab1b5a270db-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/template/add_member_template.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/0880b37e-a016-4b23-b8fe-3ca9fce183cb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/0f18b225-13d6-4ced-81ec-ba9fc4aa65fa-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/10368dc7-e3b1-473a-966f-2a0e5ab69515-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/1b926ad0-9cee-4514-b73a-6b1afc7cba42-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/1c6bd6ae-a91c-4007-846a-21a54525cb57-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/1c842c40-a3ed-473f-a688-2546d5e8da14-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/1d536df9-6e29-4b9e-9668-b5b1f7e17318-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/24d3e91d-4931-444c-b64a-e43b4da44622-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/2a14935b-4a1f-4fe1-ae6b-1a9a832a4141-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/337b4ef9-326a-4d35-9b7a-fa6869ccc75f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/34ff8e86-39ce-4c6e-848d-1a61146f0b6a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/3727721c-7b70-40ef-ac09-8a9a19eff911-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/38ea4f37-8a00-4167-a37c-dc10224da494-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/390d13f6-b778-418d-8b71-8fd552081580-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/3b66f097-4363-47b2-94a3-876ab4402a91-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/3baf7105-465d-456f-a92e-8b70d4e80b1f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/3cca12ca-10fa-42de-b042-2be2bc5ee84f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4441573c-0de1-44b4-88a8-3b690efffef5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/449216aa-5e4e-4e3f-ae48-6c30b7300a54-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4658e7c0-794d-4946-ace8-eaf64cf96438-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4921d7eb-34cb-4be0-9ab2-ecc818549755-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/49ba5377-2e3c-46c7-99c3-ed04ee6344cc-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4aebc746-6e2e-4345-9a61-e7a999442ebd-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4c3d2d74-f613-41bf-9e34-8919692d6e16-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4c6021b2-1f28-458e-a9d0-b45f65b2e4c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/4fc55e2c-2b27-412a-acdb-8ae9097face0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/50819a93-69c7-4f1c-a06c-f8e96e62edc2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/51330daa-9ea9-4084-92f7-1f2aad5f76b6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/57a3a37a-6197-4285-b453-cf577edcf310-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/5859868b-6645-4ef6-b7fd-c303b40cf1fa-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/5a16e363-3fa9-4626-8d54-5aec84ce9de6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/5a8a6367-1186-4e14-add8-de6559f3dc05-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/5caea2ba-2fbf-42d7-b671-6598ccef9fa2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/65096a09-36bf-4da6-8005-9cb5509a3e70-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/662a8728-a9f4-4bcc-ad2d-f5bd0500d138-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/6c403118-c81d-4903-a3ef-3f7decc93da3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/6cb4ec10-1e64-4404-bd9c-b19df3c17ca9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/6d31b632-25f6-49f3-b74a-a6c424171209-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/700332ff-00a2-4229-aa81-553cac378229-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/735cbec5-8681-4bf9-83a8-9e7c260102c0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/78487358-a167-45a6-b40e-878d623ffee2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/78ef3569-8766-47e8-9d30-8a5a2624a278-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/7bb3cbde-dc6f-4b32-b811-3b1107fab323-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/7ca92ed5-aee0-4d0e-818a-8fee88d33b18-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/7cbd245f-2b2f-4022-9bae-07d39dcedffa-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/7fb7a7f3-7638-4945-87aa-5af919008a09-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/86759c20-d2ff-4c18-8748-cacd93e4c13d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/882bbeb5-296c-4123-ba90-619df6abd88a-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/8cfd1a9f-7317-41c5-baa4-01a8b61e5d81-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/935ea00d-9f94-4c33-9156-38735a484b3f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/94a283b9-8745-4500-991c-874aac6cb7af-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/9b554002-45cd-43e1-8e51-d49cf1dcf65f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/a5f04a6c-a837-4840-b760-8d084e6548bb-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/a824a0ed-4275-4a28-a11f-be963a2026ca-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/a9f6cd9e-3c60-4b88-b65f-614dd9548312-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/aa7c753c-ed7f-4ebf-8271-3da216a1e921-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/aaceae7a-cb2d-44cf-a20c-f9f1f2765355-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/ab502af1-b579-4f92-9d9e-dcead0c0951c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/adca1c6e-fa29-48b1-9c1c-816e026f3d26-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b0bea7a1-3d4e-452f-87c0-ebbe90ea0400-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b2bee958-2195-4b06-ad2d-00b8357f8f54-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b30edf3c-be21-44d4-8953-09143ca9465d-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b4d8dbd9-d9a1-4932-8191-de01319901f2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b5f9a1c3-4e39-456d-abb2-3b6e4d6fc1e3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b60a9f53-f9af-4862-9673-03d26d098cc5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b6f34b11-5b29-4c49-9139-54168769cd86-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/b9c1763b-a940-4542-a3cb-d6b355bf0f50-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/bd7284c9-7ccb-4dbd-bc40-c855b63e489e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/c05cd024-2166-4ffb-a77c-80f706fab2a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/c06bd956-fb89-4867-ab6f-c4aac8979da7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/c5c51080-814a-44d5-8934-b5dd80eb81d0-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/cae07dfc-58ef-4817-9ab9-32e74dea01e2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/d12adeb9-13ae-493c-9a2a-8571fba02fa2-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/d1951bf2-6126-4521-babd-eff9f39b135e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/d6b4c247-017c-4777-8f82-ad68b03b20f5-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/d7cfcc43-7086-49b2-8423-ddeceb3edf57-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/da71a45f-8c9c-4fb7-bf2e-d3779cf90e68-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/da828ee2-898a-47bc-ad60-bf956fca1e1f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/dab20acd-4987-428d-918d-7d3905cf8292-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/dab2253d-f6e7-4130-98b6-cb0ec329b41e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/ded8297b-12ea-4061-adfa-57e05db3d9cc-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/e1cf947e-2ced-4752-a5da-7366a6840a33-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/e6f2f98a-b3c6-4764-b1b6-12f79f18427e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/efca68a4-f40b-4e4d-8aa3-cdec777114fc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/efd91071-7d15-4cd0-962d-fe229f3af9c7-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/f7a5bf12-8ea8-44f3-be68-ed22af3aff2c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/f82af057-b7bf-41ea-81bc-25a39ca6ce2e-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/fb4c4990-3307-472c-9672-5e2868cd684c-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/result/fe8e8490-8567-4e2a-bb22-2fb122fe37c1-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/testcase_2021_05_26_21_31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron-0.14.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron/renderer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chevron/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/chevron.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/base_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/base_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/utils/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/resource/utils/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/datas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/template/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,6 +504,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_wework_add_member_py.coverage" NAME="py.test in test_wework_add_member.py Coverage Results" MODIFIED="1618752598289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/wework_po_test/test_wework_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_sigleton_test_hungry_id_maker.coverage" NAME="py.test for test_sigleton.test_hungry_id_maker Coverage Results" MODIFIED="1621838660992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_array_test_py.coverage" NAME="py.test in array_test.py Coverage Results" MODIFIED="1621419263074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_depart_empty.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_depart_empty Coverage Results" MODIFIED="1622035829247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_form_opt_TestFormOpt.coverage" NAME="py.test for test_form_opt.TestFormOpt Coverage Results" MODIFIED="1618385363222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_browser_TestBrowser_test_browser.coverage" NAME="py.test for test_browser.TestBrowser.test_browser Coverage Results" MODIFIED="1618990917560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_6th_work_TestAddMember_test_add_member_success.coverage" NAME="py.test for test_6th_work.TestAddMember.test_add_member_success Coverage Results" MODIFIED="1619425642731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
@@ -42,8 +520,9 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_data_driven_TestDemo_test_demo.coverage" NAME="py.test for test_data_driven.TestDemo.test_demo Coverage Results" MODIFIED="1617950222217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_5th_work_TestAddContactMember_test_add_contact_member.coverage" NAME="py.test for test_5th_work.TestAddContactMember.test_add_contact_member Coverage Results" MODIFIED="1619105921450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_js_TestJs_test_js_scroll.coverage" NAME="py.test for test_js.TestJs.test_js_scroll Coverage Results" MODIFIED="1618394824983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_tag_api_TestTagApi.coverage" NAME="py.test for test_tag_api.TestTagApi Coverage Results" MODIFIED="1621947562595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_tag_api_TestTagApi.coverage" NAME="py.test for test_tag_api.TestTagApi Coverage Results" MODIFIED="1622033170542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_wework_po_test_test_wework_case_test_wework_case_TestAddMember_test_add_member.coverage" NAME="py.test for wework_po_test.test_wework_case.test_wework_case.TestAddMember.test_add_member Coverage Results" MODIFIED="1618740121064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_mobile_empty.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_mobile_empty Coverage Results" MODIFIED="1622035806648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_div_TestDiv.coverage" NAME="py.test for test_div.TestDiv Coverage Results" MODIFIED="1618224295766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$mock_mitmproxy_work.coverage" NAME="mock_mitmproxy_work Coverage Results" MODIFIED="1621256398052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_actionchain_TestActionchain.coverage" NAME="py.test for test_actionchain.TestActionchain Coverage Results" MODIFIED="1618380342843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
@@ -61,6 +540,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_data_driven_TestDemo.coverage" NAME="py.test for test_data_driven.TestDemo Coverage Results" MODIFIED="1617950666710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_params_TestParams_test_search.coverage" NAME="py.test for test_params.TestParams.test_search Coverage Results" MODIFIED="1618986159846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$tes_singleton.coverage" NAME="tes_singleton Coverage Results" MODIFIED="1618753201945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi.coverage" NAME="py.test for test_member_api.TestMemberApi Coverage Results" MODIFIED="1622035850314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$json_get.coverage" NAME="json_get Coverage Results" MODIFIED="1621602547765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$jsonpath_prac.coverage" NAME="jsonpath_prac Coverage Results" MODIFIED="1621600781720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_2th_work_TestCalculator_test_add_equal.coverage" NAME="py.test for test_2th_work.TestCalculator.test_add_equal Coverage Results" MODIFIED="1618291634133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
@@ -76,14 +556,18 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_stack_test_test_static.coverage" NAME="py.test for stack_test.test_static Coverage Results" MODIFIED="1621502396042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wework_api_TestWeworkAPI_test_add_tags.coverage" NAME="py.test for test_wework_api.TestWeworkAPI.test_add_tags Coverage Results" MODIFIED="1621583561210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wework_api_TestWeworkAPI_test_get_token.coverage" NAME="py.test for test_wework_api.TestWeworkAPI.test_get_token Coverage Results" MODIFIED="1621579040378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_fail.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_fail Coverage Results" MODIFIED="1622029093265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_http_get_TestHTTPGet_test_get_json_assert.coverage" NAME="py.test for test_http_get.TestHTTPGet.test_get_json_assert Coverage Results" MODIFIED="1621406193498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_3th_work_TestGetCookies_test_get_cookie.coverage" NAME="py.test for test_3th_work.TestGetCookies.test_get_cookie Coverage Results" MODIFIED="1618845761629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_1th_work_TestCalculator.coverage" NAME="py.test in test_1th_work.TestCalculator Coverage Results" MODIFIED="1618222398326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_get_attr.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_get_attr Coverage Results" MODIFIED="1618982335501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_queue_test_test_optimize_queue.coverage" NAME="py.test for queue_test.test_optimize_queue Coverage Results" MODIFIED="1621481041105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_get_cookies_TestGetCookies_test_get_cookie.coverage" NAME="py.test for test_get_cookies.TestGetCookies.test_get_cookie Coverage Results" MODIFIED="1618562526077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resource" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member Coverage Results" MODIFIED="1622027818380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_success.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_success Coverage Results" MODIFIED="1622028892847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_stack_test_test_stack.coverage" NAME="py.test for stack_test.test_stack Coverage Results" MODIFIED="1621501108664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_http_get_TestHTTPGet_test_headers_cookie.coverage" NAME="py.test for test_http_get.TestHTTPGet.test_headers_cookie Coverage Results" MODIFIED="1621409474759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_search.coverage" NAME="py.test for test_member_api.TestMemberApi.test_search Coverage Results" MODIFIED="1622028613496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wework_api_TestWeworkAPI_test_search_tag.coverage" NAME="py.test for test_wework_api.TestWeworkAPI.test_search_tag Coverage Results" MODIFIED="1621582860979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_excp_test_zero_division.coverage" NAME="py.test for test_excp.test_zero_division Coverage Results" MODIFIED="1617984838521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_frame_TestFrame_test_frame.coverage" NAME="py.test for test_frame.TestFrame.test_frame Coverage Results" MODIFIED="1618392937447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
@@ -96,6 +580,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_test_div_py.coverage" NAME="py.test in test_div.py Coverage Results" MODIFIED="1618223280227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wework_case_TestAddMember_test_add_member.coverage" NAME="py.test for test_wework_case.TestAddMember.test_add_member Coverage Results" MODIFIED="1618740055235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/wework_po_test/test_wework_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_array_test_test_demo.coverage" NAME="py.test for array_test.test_demo Coverage Results" MODIFIED="1621419410962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/practice_test" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_name_empty.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_name_empty Coverage Results" MODIFIED="1622035796003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_setup_tear_test_add.coverage" NAME="py.test for test_setup_tear.test_add Coverage Results" MODIFIED="1617887006348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$events.coverage" NAME="events Coverage Results" MODIFIED="1621255000398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/interface_mock" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_xueqiu_open_acc_TestXueqiuOpenAcc_test_xueqiu_open_acc.coverage" NAME="py.test for test_xueqiu_open_acc.TestXueqiuOpenAcc.test_xueqiu_open_acc Coverage Results" MODIFIED="1618997095870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
@@ -123,6 +608,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_frame_TestFrame.coverage" NAME="py.test for test_frame.TestFrame Coverage Results" MODIFIED="1618390085934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_add_member_TestAddMember.coverage" NAME="py.test for test_add_member.TestAddMember Coverage Results" MODIFIED="1618737007050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/wework_po/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_in_log_py.coverage" NAME="py.test in log.py Coverage Results" MODIFIED="1619279593097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resource/utils" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_all_empty.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_all_empty Coverage Results" MODIFIED="1622035786022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_get_cur_price.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_get_cur_price Coverage Results" MODIFIED="1618928043458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_locator_pytest_TestLocatorPytest_test_scroll.coverage" NAME="py.test for test_locator_pytest.TestLocatorPytest.test_scroll Coverage Results" MODIFIED="1618933479765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_appium" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wework_api_TestWeworkAPI_test_del_tag.coverage" NAME="py.test for test_wework_api.TestWeworkAPI.test_del_tag Coverage Results" MODIFIED="1621583954493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
@@ -131,6 +617,7 @@
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_sample_test_answer.coverage" NAME="py.test for test_sample.test_answer Coverage Results" MODIFIED="1617945640449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_tag_api_TestTagApi_test_add_tags.coverage" NAME="py.test for test_tag_api.TestTagApi.test_add_tags Coverage Results" MODIFIED="1621950269655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_tag_api_TestTagApi_test_add_tags_json.coverage" NAME="py.test for test_tag_api.TestTagApi.test_add_tags_json Coverage Results" MODIFIED="1621949723052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
+    <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_member_api_TestMemberApi_test_add_member_all_miss.coverage" NAME="py.test for test_member_api.TestMemberApi.test_add_member_all_miss Coverage Results" MODIFIED="1622035583645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_http_get_TestHTTPGet_test_hamcrest_assert.coverage" NAME="py.test for test_http_get.TestHTTPGet.test_hamcrest_assert Coverage Results" MODIFIED="1621408425801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_wewo_api_po_TestWeworkAPIPO_test_edit_tag.coverage" NAME="py.test for test_wewo_api_po.TestWeworkAPIPO.test_edit_tag Coverage Results" MODIFIED="1621603437790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
     <SUITE FILE_PATH="coverage/hogwarts_shining$py_test_for_test_http_get_TestHTTPGet_test_auth.coverage" NAME="py.test for test_http_get.TestHTTPGet.test_auth Coverage Results" MODIFIED="1621410877581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/test_http_auto" />
@@ -159,22 +646,81 @@
       <file leaf-file-name="tag_api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
+            <state relative-caret-position="156">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_tag_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_tag_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="39" />
               <folding>
-                <element signature="e#89#118#0" expanded="true" />
+                <element signature="e#79#92#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_tag_api.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_tag_api.py">
+      <file leaf-file-name="member_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="114" selection-start-line="114" selection-end-line="115" />
+            <state relative-caret-position="1057">
+              <caret line="108" column="35" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="35" />
               <folding>
-                <element signature="e#79#92#0" expanded="true" />
+                <element signature="e#84#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_member_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4706">
+              <caret line="181" column="43" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
+              <folding>
+                <element signature="e#89#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/we_work_api_test_report/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="base_contact.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/base_contact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#84#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_member_template.mustache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/template/add_member_template.mustache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wework_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#77#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,50 +729,20 @@
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="214" column="18" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="18" />
+            <state relative-caret-position="355">
+              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+              <folding>
+                <element signature="e#93#104#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tags.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/tags.yml">
+      <file leaf-file-name="add_member.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datas/add_member.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="27" column="10" selection-start-line="27" selection-end-line="27" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quote.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/quote.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1374">
-              <caret line="228" column="23" selection-start-line="228" selection-start-column="23" selection-end-line="228" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cookie.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/cookie.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="test_1th_work.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/test_1th_work.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="add_department.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datas/add_department.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="test_2th_work.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homework_test/test_2th_work.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-884">
-              <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="494">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -262,13 +778,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework_test/test_5th_work.py" />
-        <option value="$PROJECT_DIR$/pytest.ini" />
-        <option value="$PROJECT_DIR$/resource/wework_app/app.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/contact_tab_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/person_info_setting_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/person_info_page.py" />
-        <option value="$PROJECT_DIR$/resource/wework_app/base_app_page.py" />
         <option value="$PROJECT_DIR$/resource/utils/cantact_info.py" />
         <option value="$PROJECT_DIR$/resource/wework_app/member_info_input_page.py" />
         <option value="$PROJECT_DIR$/homework_test/test_6th_work.py" />
@@ -304,15 +813,22 @@
         <option value="$PROJECT_DIR$/test_case/practice_test/test_binary_search_tree.py" />
         <option value="$PROJECT_DIR$/test_case/practice_test/test_sigleton.py" />
         <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag.py" />
-        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py" />
         <option value="$PROJECT_DIR$/resource/utils/log.py" />
         <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/base_api.py" />
         <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/base_testcase.py" />
-        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py" />
         <option value="$PROJECT_DIR$/datas/tags.yml" />
-        <option value="$PROJECT_DIR$/homework_test/conftest.py" />
-        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py" />
         <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_tag_api.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/datas/add_member_template.json" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/datas/add_member_template.mustache" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/template/add_member_template.mustache" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/base_contact.py" />
+        <option value="$PROJECT_DIR$/datas/add_member.yml" />
+        <option value="$PROJECT_DIR$/homework_test/conftest.py" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py" />
+        <option value="$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py" />
       </list>
     </option>
   </component>
@@ -340,7 +856,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,45 +884,7 @@
               <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
               <item name="homework_test" type="462c0819:PsiDirectoryNode" />
               <item name="test_wework_api_2th_work" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_wework_api_2th_work" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="contact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_wework_api_2th_work" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="externalcontact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_wework_api_2th_work" type="462c0819:PsiDirectoryNode" />
-              <item name="datas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_wework_api_2th_work" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hogwarts_shining" type="462c0819:PsiDirectoryNode" />
-              <item name="homework_test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_wework_api_2th_work" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
-              <item name="test_tag_api.py" type="8704e2dd:PyFileNode" />
+              <item name="we_work_api_test_report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hogwarts_shining" type="b2602c69:ProjectViewProjectNode" />
@@ -444,6 +921,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,17 +929,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personProc\hogwarts_shining\datas" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\personProc\hogwarts_shining\homework_test\test_wework_api_2th_work\api" />
       <recent name="D:\personProc\hogwarts_shining\test_case\interface_mock" />
       <recent name="D:\personProc\hogwarts_shining\test_case\wework_po_test\test_wework_case" />
       <recent name="D:\personProc\hogwarts_shining\resource\wework" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\personProc\hogwarts_shining\datas" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -476,7 +954,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_tag_api.TestTagApi.test_add_edit_del_flow">
+  <component name="RunManager" selected="Python tests.py.test for test_member_api.TestMemberApi">
     <configuration name="py.test for test_3th_work.TestWeWorkAddMember.test_add_member" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -492,7 +970,7 @@
       <option name="_new_target" value="&quot;test_3th_work.TestWeWorkAddMember.test_add_member&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_tag_api.TestTagApi.test_add_edit_del_flow" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_member_api.TestMemberApi" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,10 +982,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_tag_api.TestTagApi.test_add_edit_del_flow&quot;" />
+      <option name="_new_target" value="&quot;test_member_api.TestMemberApi&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_all_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -519,10 +997,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_tag_api.TestTagApi.test_add_tags&quot;" />
+      <option name="_new_target" value="&quot;test_member_api.TestMemberApi.test_add_member_all_empty&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags_json" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_depart_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -534,10 +1012,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_tag_api.TestTagApi.test_add_tags_json&quot;" />
+      <option name="_new_target" value="&quot;test_member_api.TestMemberApi.test_add_member_depart_empty&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags_order" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_mobile_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -549,10 +1027,10 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_tag_api.TestTagApi.test_add_tags_order&quot;" />
+      <option name="_new_target" value="&quot;test_member_api.TestMemberApi.test_add_member_mobile_empty&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_tag_api.TestTagApi.test_search_tag" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_name_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="hogwarts_shining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -564,23 +1042,23 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_tag_api.TestTagApi.test_search_tag&quot;" />
+      <option name="_new_target" value="&quot;test_member_api.TestMemberApi.test_add_member_name_empty&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_tags" />
-      <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_tags_json" />
-      <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_tags_order" />
-      <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_search_tag" />
-      <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_edit_del_flow" />
+      <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_all_empty" />
+      <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_name_empty" />
+      <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_mobile_empty" />
+      <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_depart_empty" />
+      <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_edit_del_flow" />
-        <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_search_tag" />
-        <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_tags_order" />
-        <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_tags" />
-        <item itemvalue="Python tests.py.test for test_tag_api.TestTagApi.test_add_tags_json" />
+        <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi" />
+        <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_depart_empty" />
+        <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_mobile_empty" />
+        <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_name_empty" />
+        <item itemvalue="Python tests.py.test for test_member_api.TestMemberApi.test_add_member_all_empty" />
       </list>
     </recent_temporary>
   </component>
@@ -598,39 +1076,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags_json - 2021.05.25 at 21h 35m 36s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags_json" configurationId="tests" />
+    <history-entry file="py_test_for_test_tag_api_TestTagApi - 2021.05.26 at 20h 46m 31s.xml">
+      <configuration name="py.test for test_tag_api.TestTagApi" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags - 2021.05.25 at 21h 37m 10s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi - 2021.05.26 at 21h 19m 49s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags - 2021.05.25 at 21h 38m 09s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi - 2021.05.26 at 21h 22m 59s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags - 2021.05.25 at 21h 40m 18s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi_test_add_member_all_miss - 2021.05.26 at 21h 26m 36s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_all_miss" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags - 2021.05.25 at 21h 44m 37s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi_test_add_member_all_empty - 2021.05.26 at 21h 27m 01s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_all_empty" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags_order - 2021.05.25 at 22h 02m 19s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags_order" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi_test_add_member_all_empty - 2021.05.26 at 21h 29m 51s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_all_empty" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags_order - 2021.05.25 at 22h 09m 24s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags_order" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi_test_add_member_name_empty - 2021.05.26 at 21h 29m 59s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_name_empty" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_tags_order - 2021.05.25 at 22h 10m 17s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_tags_order" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi_test_add_member_mobile_empty - 2021.05.26 at 21h 30m 12s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_mobile_empty" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_search_tag - 2021.05.25 at 22h 12m 48s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_search_tag" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi_test_add_member_depart_empty - 2021.05.26 at 21h 30m 34s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi.test_add_member_depart_empty" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_tag_api_TestTagApi_test_add_edit_del_flow - 2021.05.25 at 22h 23m 44s.xml">
-      <configuration name="py.test for test_tag_api.TestTagApi.test_add_edit_del_flow" configurationId="tests" />
+    <history-entry file="py_test_for_test_member_api_TestMemberApi - 2021.05.26 at 21h 31m 02s.xml">
+      <configuration name="py.test for test_member_api.TestMemberApi" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1447" y="-959" width="975" height="1721" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.65027934" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -639,8 +1118,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.20562029" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40438658" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49944136" weight="0.540096" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36536312" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49944136" visible="true" weight="0.540096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39217877" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32960895" />
@@ -700,44 +1179,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_case/interface_mock/quote.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/interface_mock/mitm_addones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/interface_mock/events.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1898">
-          <caret line="76" selection-start-line="76" selection-end-line="82" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/mock_mitmproxy_work.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="85" column="6" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/interface_mock/number_mod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_div.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://D:/softinstall/Python37/Lib/site-packages/iniconfig/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2106">
@@ -801,9 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2314">
           <caret line="91" column="7" selection-start-line="91" selection-start-column="7" selection-end-line="101" selection-end-column="9" />
-          <folding>
-            <element signature="e#89#100#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,13 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1924">
           <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -866,16 +1297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1374">
           <caret line="74" selection-start-line="6" selection-end-line="74" />
-          <folding>
-            <element signature="e#93#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -883,13 +1304,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -907,9 +1321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
           <caret line="119" column="13" lean-forward="true" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="77" />
-          <folding>
-            <element signature="e#86#97#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,26 +1345,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#86#97#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi_2021_05_25_15_54.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-10998">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi_2021_05_25_16_00.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="468">
-          <caret line="78" column="35" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi_2021_05_25_15_54.log" />
+    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi_2021_05_25_16_00.log" />
     <entry file="file://$PROJECT_DIR$/resource/utils/log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -971,13 +1367,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi_2021_05_25_16_11.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="529">
-          <caret line="1861" column="43" lean-forward="true" selection-start-line="1861" selection-start-column="43" selection-end-line="1861" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi_2021_05_25_16_11.log" />
     <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/base_testcase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -985,16 +1375,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datas/quote.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1374">
+        <state relative-caret-position="5928">
           <caret line="228" column="23" selection-start-line="228" selection-start-column="23" selection-end-line="228" selection-end-column="23" />
         </state>
       </provider>
@@ -1008,53 +1391,121 @@
     <entry file="file://$PROJECT_DIR$/datas/test_1th_work.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi.test_add_tags_2021_05_25_20_07.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="494">
-          <caret line="79" column="70" selection-start-line="79" selection-start-column="70" selection-end-line="79" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test_tag_apipy_TestTagApi.test_add_tags_2021_05_25_20_07.log" />
     <entry file="file://$PROJECT_DIR$/datas/tags.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
+        <state relative-caret-position="702">
           <caret line="27" column="10" selection-start-line="27" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="214" column="18" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="69" column="63" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
-          <folding>
-            <element signature="e#89#118#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework_test/test_2th_work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-884">
+        <state relative-caret-position="598">
           <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_3th_work.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chevron/renderer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2618">
+          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/template/add_member_template.mustache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/base_contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#84#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/wework_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#77#148#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_tag_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="114" selection-start-line="114" selection-end-line="115" />
+        <state relative-caret-position="268">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="39" />
           <folding>
             <element signature="e#79#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/externalcontact/tag_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+          <folding>
+            <element signature="e#93#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datas/add_member.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/api/contact/member_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1057">
+          <caret line="108" column="35" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="35" />
+          <folding>
+            <element signature="e#84#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/testcase/test_member_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4706">
+          <caret line="181" column="43" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
+          <folding>
+            <element signature="e#89#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework_test/test_wework_api_2th_work/we_work_api_test_report/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

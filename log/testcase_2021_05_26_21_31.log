@@ -1,0 +1,4856 @@
+2021-05-26 21:31:40,148 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg",
+  "expires_in": 7200
+}
+2021-05-26 21:31:40,151 => base_contact.py[line:29] * INFO : 获取token成功,token=7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg
+2021-05-26 21:31:40,260 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "email_exist",
+  "name": "重复",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "",
+  "gender": "0",
+  "email": "email_exist@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc4f408e69c414bda2",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:40,766 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:40,768 => member_api.py[line:114] * INFO : 删除user_id=email_exist成功
+2021-05-26 21:31:40,840 => base_api.py[line:43] * INFO : {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035901_147_09c322902045c9c5e472a84ef1ae4050], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+2021-05-26 21:31:40,941 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0526",
+  "name": "hog_shim1",
+  "department": [
+    2,
+    1
+  ],
+  "position": "高级测试开发",
+  "mobile": "13444477704",
+  "gender": "1",
+  "email": "shim0526@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vcfbfb3bd57e51c3dc",
+  "alias": "shim01",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址001",
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:42,338 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:42,340 => member_api.py[line:114] * INFO : 删除user_id=shim0526成功
+2021-05-26 21:31:42,746 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0527",
+  "name": "hog_shim2",
+  "department": [
+    2,
+    1
+  ],
+  "position": "资深测试开发",
+  "mobile": "13444477705",
+  "gender": "2",
+  "email": "shim0527@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc897ab8a2075ca409",
+  "alias": "shim02",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址002",
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:42,933 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:42,935 => member_api.py[line:114] * INFO : 删除user_id=shim0527成功
+2021-05-26 21:31:43,037 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "repeat001",
+  "name": "重复",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944021404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc9212887650475c96",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:43,241 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:43,243 => member_api.py[line:114] * INFO : 删除user_id=repeat001成功
+2021-05-26 21:31:43,502 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:31:43,729 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:31:43,983 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:31:44,077 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0526",
+  "name": "hog_shim1",
+  "department": [
+    2,
+    1
+  ],
+  "position": "高级测试开发",
+  "mobile": "13444477704",
+  "gender": "1",
+  "email": "shim0526@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vcfc8c15e4038209d8",
+  "alias": "shim01",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址001",
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:44,327 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:31:44,440 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0527",
+  "name": "hog_shim2",
+  "department": [
+    2,
+    1
+  ],
+  "position": "资深测试开发",
+  "mobile": "13444477705",
+  "gender": "2",
+  "email": "shim0527@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc6e2b7abe83ad8de3",
+  "alias": "shim02",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址002",
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:44,546 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg",
+  "expires_in": 7200
+}
+2021-05-26 21:31:44,553 => wework_api.py[line:34] * INFO : 获取token成功,token=dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg
+2021-05-26 21:31:44,554 => tag_api.py[line:215] * INFO : ----------开始清理数据----------
+2021-05-26 21:31:44,643 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:44,646 => tag_api.py[line:202] * INFO : --------------初始化----------------
+2021-05-26 21:31:44,646 => tag_api.py[line:203] * INFO : []
+2021-05-26 21:31:44,648 => tag_api.py[line:217] * INFO : ----------删除成功--------------
+2021-05-26 21:31:44,772 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+    "group_name": "删除标签组",
+    "create_time": 1622035905,
+    "tag": [
+      {
+        "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+        "name": "你删除我试试",
+        "create_time": 1622035905,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:44,888 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+    "group_name": "编辑标签组",
+    "create_time": 1622035905,
+    "tag": [
+      {
+        "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+        "name": "编辑tag1",
+        "create_time": 1622035905,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:46,013 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+    "group_name": "shimmer",
+    "create_time": 1622035906,
+    "tag": [
+      {
+        "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+        "name": "tag_001",
+        "create_time": 1622035906,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:46,401 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:46,546 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+    "group_name": "shimmer",
+    "create_time": 1622035906,
+    "tag": [
+      {
+        "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+        "name": "tag_002",
+        "create_time": 1622035907,
+        "order": 0
+      }
+    ]
+  }
+}
+2021-05-26 21:31:46,635 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:47,143 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+    "group_name": "盲仔",
+    "create_time": 1622035907,
+    "tag": [
+      {
+        "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+        "name": "tag_001",
+        "create_time": 1622035907,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:47,230 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:47,360 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+    "group_name": "信用",
+    "create_time": 1622035908,
+    "tag": [
+      {
+        "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+        "name": "优秀",
+        "create_time": 1622035908,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:47,738 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:48,773 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+    "group_name": "信用",
+    "create_time": 1622035908,
+    "tag": [
+      {
+        "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+        "name": "差",
+        "create_time": 1622035909,
+        "order": 0
+      }
+    ]
+  }
+}
+2021-05-26 21:31:48,850 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:48,855 => tag_api.py[line:215] * INFO : ----------开始清理数据----------
+2021-05-26 21:31:48,944 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:48,948 => tag_api.py[line:202] * INFO : --------------初始化----------------
+2021-05-26 21:31:48,948 => tag_api.py[line:203] * INFO : [('删除标签组', '你删除我试试'), ('编辑标签组', '编辑tag1'), ('shimmer', 'tag_001'), ('shimmer', 'tag_002'), ('盲仔', 'tag_001'), ('信用', '优秀'), ('信用', '差')]
+2021-05-26 21:31:49,036 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAP2yc_Yc6_W7_zZwxHhaUbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAo-NacEVouqSegh7GmGPv5w",
+          "name": "你删除我试试",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:49,040 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAo-NacEVouqSegh7GmGPv5w
+2021-05-26 21:31:49,196 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:49,272 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8Ao2zVSp_oOj4H6LrsY64g",
+      "group_name": "编辑标签组",
+      "create_time": 1622035905,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwLU2xTUE4tno47E1U6PddA",
+          "name": "编辑tag1",
+          "create_time": 1622035905,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:49,275 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAwLU2xTUE4tno47E1U6PddA
+2021-05-26 21:31:49,439 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:49,534 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAAqOffhrmozTAy9qI0cDmG_A",
+          "name": "tag_001",
+          "create_time": 1622035906,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:49,537 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAqOffhrmozTAy9qI0cDmG_A
+2021-05-26 21:31:49,678 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:49,753 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAwstBoq25AhKz9qdohdgBwA",
+      "group_name": "shimmer",
+      "create_time": 1622035906,
+      "tag": [
+        {
+          "id": "etkb_0EAAATXBGiOyhmySSgjSj86u40w",
+          "name": "tag_002",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:49,755 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAATXBGiOyhmySSgjSj86u40w
+2021-05-26 21:31:49,922 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:49,991 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA3BXCb9RHQAy1638nZC0j3w",
+      "group_name": "盲仔",
+      "create_time": 1622035907,
+      "tag": [
+        {
+          "id": "etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg",
+          "name": "tag_001",
+          "create_time": 1622035907,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:49,994 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAATchlLYw5f9Vr4-ek-uB3gg
+2021-05-26 21:31:50,145 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:50,222 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA",
+          "name": "优秀",
+          "create_time": 1622035908,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:50,224 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAAb4kMPyuYIc2kw2IKAIGIA
+2021-05-26 21:31:50,358 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:50,440 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAeKe--wBSe2908ly_2vBfUA",
+      "group_name": "信用",
+      "create_time": 1622035908,
+      "tag": [
+        {
+          "id": "etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw",
+          "name": "差",
+          "create_time": 1622035909,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:50,442 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAA6RbGG9CMcPa0kdAoJKowlw
+2021-05-26 21:31:53,813 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:53,825 => tag_api.py[line:217] * INFO : ----------删除成功--------------
+2021-05-26 21:31:54,204 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg",
+  "expires_in": 7200
+}
+2021-05-26 21:31:54,210 => base_contact.py[line:29] * INFO : 获取token成功,token=7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg
+2021-05-26 21:31:54,582 => base_api.py[line:43] * INFO : {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035915_147_a4515ee32431f9114df779b38249baae], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+2021-05-26 21:31:54,678 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "delete001",
+  "name": "删除",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944024404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc83ddf9b9ab638f70",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:54,914 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:54,915 => member_api.py[line:114] * INFO : 删除user_id=delete001成功
+2021-05-26 21:31:55,312 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0526",
+  "name": "hog_shim1",
+  "department": [
+    2,
+    1
+  ],
+  "position": "高级测试开发",
+  "mobile": "13444477704",
+  "gender": "1",
+  "email": "shim0526@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vcfc8c15e4038209d8",
+  "alias": "shim01",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址001",
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:55,511 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:55,512 => member_api.py[line:114] * INFO : 删除user_id=shim0526成功
+2021-05-26 21:31:55,597 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0527",
+  "name": "hog_shim2",
+  "department": [
+    2,
+    1
+  ],
+  "position": "资深测试开发",
+  "mobile": "13444477705",
+  "gender": "2",
+  "email": "shim0527@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc6e2b7abe83ad8de3",
+  "alias": "shim02",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址002",
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:55,772 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:55,774 => member_api.py[line:114] * INFO : 删除user_id=shim0527成功
+2021-05-26 21:31:55,877 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "repeat001",
+  "name": "重复",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944021404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vcb60e2f3d19540987",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:31:56,075 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:31:56,077 => member_api.py[line:114] * INFO : 删除user_id=repeat001成功
+2021-05-26 21:31:56,327 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:31:56,585 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:31:56,738 => base_api.py[line:43] * INFO : {
+  "errcode": 60102,
+  "errmsg": "userid existed, hint: [1622035917_147_e5d9d2bcb052a1297a959e43e2a3ce75], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60102"
+}
+2021-05-26 21:31:56,817 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg",
+  "expires_in": 7200
+}
+2021-05-26 21:31:56,821 => wework_api.py[line:34] * INFO : 获取token成功,token=dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg
+2021-05-26 21:31:56,822 => tag_api.py[line:215] * INFO : ----------开始清理数据----------
+2021-05-26 21:31:57,196 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:57,199 => tag_api.py[line:202] * INFO : --------------初始化----------------
+2021-05-26 21:31:57,200 => tag_api.py[line:203] * INFO : []
+2021-05-26 21:31:57,201 => tag_api.py[line:217] * INFO : ----------删除成功--------------
+2021-05-26 21:31:57,321 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAcbOumFRgLjHtG7UabFLX_A",
+    "group_name": "删除标签组",
+    "create_time": 1622035917,
+    "tag": [
+      {
+        "id": "etkb_0EAAAty6QceSYeyej9TaiUGnyTg",
+        "name": "你删除我试试",
+        "create_time": 1622035917,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:57,731 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+    "group_name": "编辑标签组",
+    "create_time": 1622035918,
+    "tag": [
+      {
+        "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+        "name": "编辑tag1",
+        "create_time": 1622035918,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:31:57,811 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAcbOumFRgLjHtG7UabFLX_A",
+      "group_name": "删除标签组",
+      "create_time": 1622035917,
+      "tag": [
+        {
+          "id": "etkb_0EAAAty6QceSYeyej9TaiUGnyTg",
+          "name": "你删除我试试",
+          "create_time": 1622035917,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "编辑tag1",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:57,814 => tag_api.py[line:38] * INFO : fliter=$..*[?(@.group_name=="编辑标签组")].tag[?(@.name=="编辑tag1")].id
+2021-05-26 21:31:57,816 => tag_api.py[line:40] * INFO : +++++++++++++++++++++
+2021-05-26 21:31:57,963 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:58,037 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAcbOumFRgLjHtG7UabFLX_A",
+      "group_name": "删除标签组",
+      "create_time": 1622035917,
+      "tag": [
+        {
+          "id": "etkb_0EAAAty6QceSYeyej9TaiUGnyTg",
+          "name": "你删除我试试",
+          "create_time": 1622035917,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:58,114 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAcbOumFRgLjHtG7UabFLX_A",
+      "group_name": "删除标签组",
+      "create_time": 1622035917,
+      "tag": [
+        {
+          "id": "etkb_0EAAAty6QceSYeyej9TaiUGnyTg",
+          "name": "你删除我试试",
+          "create_time": 1622035917,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:58,487 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAcbOumFRgLjHtG7UabFLX_A",
+      "group_name": "删除标签组",
+      "create_time": 1622035917,
+      "tag": [
+        {
+          "id": "etkb_0EAAAty6QceSYeyej9TaiUGnyTg",
+          "name": "你删除我试试",
+          "create_time": 1622035917,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:58,493 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAty6QceSYeyej9TaiUGnyTg
+2021-05-26 21:31:58,634 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:31:59,075 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:59,457 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:59,462 => tag_api.py[line:215] * INFO : ----------开始清理数据----------
+2021-05-26 21:31:59,736 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:59,739 => tag_api.py[line:202] * INFO : --------------初始化----------------
+2021-05-26 21:31:59,744 => tag_api.py[line:203] * INFO : [('编辑标签组', 'modify_tag001')]
+2021-05-26 21:31:59,835 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAShI_fTPUWQbVNh-LnsoSHQ",
+      "group_name": "编辑标签组",
+      "create_time": 1622035918,
+      "tag": [
+        {
+          "id": "etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w",
+          "name": "modify_tag001",
+          "create_time": 1622035918,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:31:59,839 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAp3sJI7FbnSSj9yXTlMVY3w
+2021-05-26 21:32:00,012 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:00,014 => tag_api.py[line:217] * INFO : ----------删除成功--------------
+2021-05-26 21:32:00,353 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg",
+  "expires_in": 7200
+}
+2021-05-26 21:32:00,358 => base_contact.py[line:29] * INFO : 获取token成功,token=7lYWscKG5mEilJypb9gDiKlCDEimBC--r87uPM8fMDQucXaLYy0juYZe6XXmJ8JJ7UkUWMCKi4WuhKb-FNDF_FJwxg1My_bbLVy4pXk7-e9EbRb9baREZkZh5rxIwzClbUC7OYMygQTWhXzgX83HZ2-cERLipCvbDbyvIKLQ-lJ1AFf_vGGSthgKNgsr6YzmrZWvIF9n7vlCgeXYcLblYg
+2021-05-26 21:32:00,435 => base_api.py[line:43] * INFO : {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035921_148_f6fb13f047e1d84b3fe6eee28dc628d3], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+2021-05-26 21:32:00,575 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "delete001",
+  "name": "删除",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944024404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vce987ab24538fa3f1",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:32:00,823 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:32:00,824 => member_api.py[line:114] * INFO : 删除user_id=delete001成功
+2021-05-26 21:32:01,894 => base_api.py[line:43] * INFO : {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035922_147_22b10d0e32d5175b1d8c21799799b251], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+2021-05-26 21:32:02,156 => base_api.py[line:43] * INFO : {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035922_148_44247ba5ed7224b0233f55d4d77df1dc], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+2021-05-26 21:32:02,565 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "repeat001",
+  "name": "重复",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "13944021404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc72e15e1682bd2847",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:32:02,774 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:32:02,776 => member_api.py[line:114] * INFO : 删除user_id=repeat001成功
+2021-05-26 21:32:03,033 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:32:03,564 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:32:03,850 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-26 21:32:03,941 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "email_exist",
+  "name": "重复",
+  "department": [
+    2,
+    1
+  ],
+  "position": "",
+  "mobile": "",
+  "gender": "0",
+  "email": "email_exist@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc0632a63fa21f060b",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+2021-05-26 21:32:04,352 => base_api.py[line:43] * INFO : {
+  "errcode": 41009,
+  "errmsg": "missing userid, hint: [1622035925_147_3ff6d84dfd3c60b15a893068f27f3468], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=41009"
+}
+2021-05-26 21:32:05,315 => base_api.py[line:43] * INFO : {
+  "errcode": 60112,
+  "errmsg": "invalid name, hint: [1622035925_147_93679a5736efa1053e30466fc2e5b152], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60112"
+}
+2021-05-26 21:32:05,465 => base_api.py[line:43] * INFO : {
+  "errcode": 60129,
+  "errmsg": "missing mobile or email, hint: [1622035926_147_59f8f7069eecf0369529f2589d0048f3], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60129"
+}
+2021-05-26 21:32:05,900 => base_api.py[line:43] * INFO : {
+  "errcode": 40066,
+  "errmsg": "invalid party list, hint: [1622035926_147_aa2c6b5298b3d3ac79bf44f305e1142b], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=40066"
+}
+2021-05-26 21:32:06,035 => base_api.py[line:43] * INFO : {
+  "errcode": 60112,
+  "errmsg": "invalid name, hint: [1622035926_147_c358f3ce44e77fac883e08ceac7ea147], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60112"
+}
+2021-05-26 21:32:06,105 => base_api.py[line:43] * INFO : {
+  "errcode": 40058,
+  "errmsg": "userid exceed min length 1. Invalid input invalid Request Parameter, hint: [1622035926_147_acdf2c246515679e565f3c93a55f3a5b], from ip: , more info at https://open.work.weixin.qq.com/devtool/query?e=40058"
+}
+2021-05-26 21:32:06,182 => base_api.py[line:43] * INFO : {
+  "errcode": 40058,
+  "errmsg": "name exceed min utf8 words 1. Invalid input invalid Request Parameter, hint: [1622035926_147_f26b04cc8e02e75aa455dd9885d4340c], from ip: , more info at https://open.work.weixin.qq.com/devtool/query?e=40058"
+}
+2021-05-26 21:32:06,329 => base_api.py[line:43] * INFO : {
+  "errcode": 60129,
+  "errmsg": "missing mobile or email, hint: [1622035926_147_4f04cebdf4abdffc0bc47c22c054aa4e], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60129"
+}
+2021-05-26 21:32:06,496 => base_api.py[line:43] * INFO : {
+  "errcode": 40066,
+  "errmsg": "invalid party list, hint: [1622035927_147_c72a551fe9ea1222f581fed219801c9f], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=40066"
+}
+2021-05-26 21:32:06,706 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-26 21:32:06,769 => base_api.py[line:43] * INFO : {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1622035927_148_558f6d634573d6533d2e9d31f6316e50], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+2021-05-26 21:32:07,075 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg",
+  "expires_in": 7200
+}
+2021-05-26 21:32:07,082 => wework_api.py[line:34] * INFO : 获取token成功,token=dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg
+2021-05-26 21:32:07,083 => tag_api.py[line:215] * INFO : ----------开始清理数据----------
+2021-05-26 21:32:07,176 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:07,179 => tag_api.py[line:202] * INFO : --------------初始化----------------
+2021-05-26 21:32:07,179 => tag_api.py[line:203] * INFO : []
+2021-05-26 21:32:07,180 => tag_api.py[line:217] * INFO : ----------删除成功--------------
+2021-05-26 21:32:07,305 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+    "group_name": "删除标签组",
+    "create_time": 1622035927,
+    "tag": [
+      {
+        "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+        "name": "你删除我试试",
+        "create_time": 1622035927,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:08,365 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+    "group_name": "编辑标签组",
+    "create_time": 1622035928,
+    "tag": [
+      {
+        "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+        "name": "编辑tag1",
+        "create_time": 1622035928,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:08,369 => test_tag_api.py[line:59] * INFO : gettags={'group_name': 'group1', 'tag': [{'name': 'g1_tag001'}]}
+2021-05-26 21:32:08,370 => test_tag_api.py[line:61] * INFO : json_data={'group_name': 'group1', 'tag': [{'name': 'g1_tag001'}]}
+2021-05-26 21:32:08,371 => tag_api.py[line:128] * INFO : 请求data={'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/externalcontact/add_corp_tag', 'params': {'access_token': 'dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg'}, 'json': {'group_name': 'group1', 'tag': [{'name': 'g1_tag001'}]}}
+2021-05-26 21:32:09,723 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+    "group_name": "group1",
+    "create_time": 1622035930,
+    "tag": [
+      {
+        "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+        "name": "g1_tag001",
+        "create_time": 1622035930,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:09,819 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:09,827 => test_tag_api.py[line:59] * INFO : gettags={'group_name': 'group2', 'tag': [{'name': 'g2_tag003'}]}
+2021-05-26 21:32:09,829 => test_tag_api.py[line:61] * INFO : json_data={'group_name': 'group2', 'tag': [{'name': 'g2_tag003'}]}
+2021-05-26 21:32:09,829 => tag_api.py[line:128] * INFO : 请求data={'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/externalcontact/add_corp_tag', 'params': {'access_token': 'dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg'}, 'json': {'group_name': 'group2', 'tag': [{'name': 'g2_tag003'}]}}
+2021-05-26 21:32:10,262 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+    "group_name": "group2",
+    "create_time": 1622035930,
+    "tag": [
+      {
+        "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+        "name": "g2_tag003",
+        "create_time": 1622035930,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:10,353 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:10,362 => test_tag_api.py[line:59] * INFO : gettags={'group_name': 'group3', 'tag': [{'name': 'g3_tag003'}]}
+2021-05-26 21:32:10,366 => test_tag_api.py[line:61] * INFO : json_data={'group_name': 'group3', 'tag': [{'name': 'g3_tag003'}]}
+2021-05-26 21:32:10,367 => tag_api.py[line:128] * INFO : 请求data={'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/externalcontact/add_corp_tag', 'params': {'access_token': 'dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg'}, 'json': {'group_name': 'group3', 'tag': [{'name': 'g3_tag003'}]}}
+2021-05-26 21:32:11,401 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+    "group_name": "group3",
+    "create_time": 1622035932,
+    "tag": [
+      {
+        "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+        "name": "g3_tag003",
+        "create_time": 1622035932,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:11,790 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:11,798 => test_tag_api.py[line:73] * INFO : gettags=['group_tags4', [{'name': 'g4_tag001'}, {'name': 'g4_tag001'}]]
+2021-05-26 21:32:11,800 => test_tag_api.py[line:75] * INFO : group_name=group_tags4,tag_list=[{'name': 'g4_tag001'}, {'name': 'g4_tag001'}]
+2021-05-26 21:32:11,801 => tag_api.py[line:128] * INFO : 请求data={'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/externalcontact/add_corp_tag', 'params': {'access_token': 'dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg'}, 'json': {'group_name': 'group_tags4', 'tag': [{'name': 'g4_tag001'}, {'name': 'g4_tag001'}]}}
+2021-05-26 21:32:11,928 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+    "group_name": "group_tags4",
+    "create_time": 1622035932,
+    "tag": [
+      {
+        "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+        "name": "g4_tag001",
+        "create_time": 1622035932,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:12,006 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:12,015 => tag_api.py[line:128] * INFO : 请求data={'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/externalcontact/add_corp_tag', 'params': {'access_token': 'dK1C7iZ7W4epV0Hd0UgTbfYyVpnUgRoBjU8265t-KajAJubDwLNX1qyOmUoJ3Avg3dUqE80ozbhE8gPcssku-jr40FQNSEnewrV4_XYAnIhZRfsHWnhutdj7AdzDhhg1yiEPzrlrLg_sUurIsnCQzcldeyK-oZhxEJmTI8POqX4WeYPxmM7nt87RO13DjTgqpGsrNfrIf89iuPXjws1ZHg'}, 'json': {'group_name': 'g_order', 'tag': [{'name': 'order2', 'order': 2}, {'name': 'order3', 'order': 3}, {'name': 'order1', 'order': 1}]}}
+2021-05-26 21:32:12,493 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+    "group_name": "g_order",
+    "create_time": 1622035933,
+    "tag": [
+      {
+        "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+        "name": "order1",
+        "create_time": 1622035933,
+        "order": 1
+      },
+      {
+        "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+        "name": "order2",
+        "create_time": 1622035933,
+        "order": 2
+      },
+      {
+        "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+        "name": "order3",
+        "create_time": 1622035933,
+        "order": 3
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:13,093 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:13,096 => tag_api.py[line:73] * INFO : [('客户等级', '一般', 0), ('客户等级', '重要', 0), ('客户等级', '核心', 0), ('删除标签组', '你删除我试试', 0), ('编辑标签组', '编辑tag1', 0), ('group1', 'g1_tag001', 0), ('group2', 'g2_tag003', 0), ('group3', 'g3_tag003', 0), ('group_tags4', 'g4_tag001', 0), ('g_order', 'order1', 1), ('g_order', 'order2', 2), ('g_order', 'order3', 3)]
+2021-05-26 21:32:13,226 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etkb_0EAAA8E6qTu2UtGSaw9VSvbalww",
+    "group_name": "flow",
+    "create_time": 1622035933,
+    "tag": [
+      {
+        "id": "etkb_0EAAAJ5kmZYraqg9g33jLLzfgrg",
+        "name": "flow_tags",
+        "create_time": 1622035933,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-26 21:32:13,310 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8E6qTu2UtGSaw9VSvbalww",
+      "group_name": "flow",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAJ5kmZYraqg9g33jLLzfgrg",
+          "name": "flow_tags",
+          "create_time": 1622035933,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:13,313 => tag_api.py[line:38] * INFO : fliter=$..*[?(@.group_name=="flow")].tag[?(@.name=="flow_tags")].id
+2021-05-26 21:32:13,317 => tag_api.py[line:40] * INFO : +++++++++++++++++++++
+2021-05-26 21:32:13,465 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:13,538 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8E6qTu2UtGSaw9VSvbalww",
+      "group_name": "flow",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAJ5kmZYraqg9g33jLLzfgrg",
+          "name": "flow_modify",
+          "create_time": 1622035933,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:13,706 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAA8E6qTu2UtGSaw9VSvbalww",
+      "group_name": "flow",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAJ5kmZYraqg9g33jLLzfgrg",
+          "name": "flow_modify",
+          "create_time": 1622035933,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:13,710 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAJ5kmZYraqg9g33jLLzfgrg
+2021-05-26 21:32:14,080 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:14,150 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:14,158 => tag_api.py[line:215] * INFO : ----------开始清理数据----------
+2021-05-26 21:32:15,267 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:15,271 => tag_api.py[line:202] * INFO : --------------初始化----------------
+2021-05-26 21:32:15,271 => tag_api.py[line:203] * INFO : [('删除标签组', '你删除我试试'), ('编辑标签组', '编辑tag1'), ('group1', 'g1_tag001'), ('group2', 'g2_tag003'), ('group3', 'g3_tag003'), ('group_tags4', 'g4_tag001'), ('g_order', 'order1'), ('g_order', 'order2'), ('g_order', 'order3')]
+2021-05-26 21:32:15,344 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAApX7rc3zpwmBjnu4WzybZbA",
+      "group_name": "删除标签组",
+      "create_time": 1622035927,
+      "tag": [
+        {
+          "id": "etkb_0EAAAwECcDgikqM4wiyOIvaU-7w",
+          "name": "你删除我试试",
+          "create_time": 1622035927,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:15,347 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAwECcDgikqM4wiyOIvaU-7w
+2021-05-26 21:32:15,488 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:15,569 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAgPqIInhh-VIHOsbhQpAhRA",
+      "group_name": "编辑标签组",
+      "create_time": 1622035928,
+      "tag": [
+        {
+          "id": "etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ",
+          "name": "编辑tag1",
+          "create_time": 1622035928,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:15,572 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAoVxCjI2gmTkrXiJbOdUfvQ
+2021-05-26 21:32:16,024 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:16,394 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAALyh2qM1ewfg0VCNJG2RvSQ",
+      "group_name": "group1",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAKbws-tow6EN6MmygR9EXug",
+          "name": "g1_tag001",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:16,397 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAKbws-tow6EN6MmygR9EXug
+2021-05-26 21:32:16,860 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:17,240 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAEPGzFmFqZgeV1w8fvGUSKg",
+      "group_name": "group2",
+      "create_time": 1622035930,
+      "tag": [
+        {
+          "id": "etkb_0EAAAin4r968bLiVs3XQPJe-hiQ",
+          "name": "g2_tag003",
+          "create_time": 1622035930,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:17,243 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAin4r968bLiVs3XQPJe-hiQ
+2021-05-26 21:32:17,407 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:18,386 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAGFp9BQ1eIUJz0OV-Yz12ng",
+      "group_name": "group3",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg",
+          "name": "g3_tag003",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:18,389 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAClj-PgSPqGIZ1E8wpLlELg
+2021-05-26 21:32:19,460 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:19,757 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAAK9TvI4cZ09HaLlx5c1bXQw",
+      "group_name": "group_tags4",
+      "create_time": 1622035932,
+      "tag": [
+        {
+          "id": "etkb_0EAAAxupXUoIAa99OQiwQRP2riA",
+          "name": "g4_tag001",
+          "create_time": 1622035932,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:19,759 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAxupXUoIAa99OQiwQRP2riA
+2021-05-26 21:32:20,224 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:20,618 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAMrna_aAxuIbgVJtLebuzYg",
+          "name": "order1",
+          "create_time": 1622035933,
+          "order": 1
+        },
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:20,620 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAMrna_aAxuIbgVJtLebuzYg
+2021-05-26 21:32:20,768 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:21,129 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg",
+          "name": "order2",
+          "create_time": 1622035933,
+          "order": 2
+        },
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:21,132 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAlwEf_fAHCnoR2_nD2mgFlg
+2021-05-26 21:32:21,267 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:22,544 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etkb_0EAAALSeacRGKUY1Vfx_P-8mHXA",
+      "group_name": "客户等级",
+      "create_time": 1621581550,
+      "tag": [
+        {
+          "id": "etkb_0EAAADJP3wbC4NtIKIvC6J3NPkA",
+          "name": "一般",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAAeVrPsgrDsnCcPeH4R3p21Q",
+          "name": "重要",
+          "create_time": 1621581550,
+          "order": 0
+        },
+        {
+          "id": "etkb_0EAAARWGbYnYAHNGbUCRdljh8Jw",
+          "name": "核心",
+          "create_time": 1621581550,
+          "order": 0
+        }
+      ],
+      "order": 0
+    },
+    {
+      "group_id": "etkb_0EAAANMzRAb3rhQea8J1HL-UPSg",
+      "group_name": "g_order",
+      "create_time": 1622035933,
+      "tag": [
+        {
+          "id": "etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ",
+          "name": "order3",
+          "create_time": 1622035933,
+          "order": 3
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-26 21:32:22,548 => tag_api.py[line:159] * INFO : 准备删除的标签tag_id=etkb_0EAAAuXS3Cpl0fDmXiX3QYywEUQ
+2021-05-26 21:32:22,705 => base_api.py[line:43] * INFO : {
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-26 21:32:22,706 => tag_api.py[line:217] * INFO : ----------删除成功--------------

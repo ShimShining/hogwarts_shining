@@ -6,6 +6,7 @@ Describe:客户标签API po封装
 """
 from jsonpath import jsonpath
 from homework_test.test_wework_api_2th_work.api.wework_api import WeworkApi
+import allure
 
 
 class TagApi(WeworkApi):
@@ -25,8 +26,9 @@ class TagApi(WeworkApi):
             },
             "json": {}
         }
-
+        allure.attach(f"查询接口请求数据为=>{data}", attachment_type=allure.attachment_type.JSON)
         r = self.request(data)
+        allure.attach(f"查询接口响应结果为<={r.json()}", attachment_type=allure.attachment_type.JSON)
         return r
 
     def get_tag_id(self, group_name, tag_name):
@@ -88,7 +90,9 @@ class TagApi(WeworkApi):
                 ]
             }
         }
+        allure.attach(f"添加接口请求数据为=>{data}", attachment_type=allure.attachment_type.JSON)
         r = self.request(data)
+        allure.attach(f"添加接口响应结果为<={r.json()}", attachment_type=allure.attachment_type.JSON)
         return r
 
     def add_tags(self, group_name, tag_list=None):
@@ -122,8 +126,9 @@ class TagApi(WeworkApi):
                 }
             }
         self.logger.info(f"请求data={data}")
+        allure.attach(f"添加接口请求数据为=>{data}", attachment_type=allure.attachment_type.JSON)
         r = self.request(data)
-
+        allure.attach(f"添加接口响应结果为<={r.json()}", attachment_type=allure.attachment_type.JSON)
         return r
 
     def edit_tag(self, group_name, tag_name, new_tag_name):
@@ -141,8 +146,11 @@ class TagApi(WeworkApi):
                     "name": new_tag_name
                 }
             }
+            allure.attach(f"修改接口请求数据为=>{data}", attachment_type=allure.attachment_type.JSON)
             r = self.request(data)
+            allure.attach(f"添加接口响应结果为<={r.json()}", attachment_type=allure.attachment_type.JSON)
             return r
+        allure.attach(f"添加接口响应结果为<=None", attachment_type=allure.attachment_type.JSON)
         return None
 
     def del_tag(self, group_name, tag_name):
@@ -164,7 +172,9 @@ class TagApi(WeworkApi):
                 ]
             }
         }
+        allure.attach(f"删除接口请求数据为=>{data}", attachment_type=allure.attachment_type.JSON)
         r = self.request(data)
+        allure.attach(f"删除接口响应结果为<={r.json()}", attachment_type=allure.attachment_type.JSON)
         return r
 
     def get_all_added_tags(self):
@@ -183,7 +193,7 @@ class TagApi(WeworkApi):
                 # 遍历除客户等级的所有标签组
                 for tag in group["tag"]:
                     tags.append((group["group_name"], tag["name"]))
-
+        allure.attach(f"获取所有的添加标签为<={tags}", attachment_type=allure.attachment_type.TEXT)
         return tags
 
     def del_all_added_tags(self):
@@ -212,5 +222,6 @@ class TagApi(WeworkApi):
 
         tag_id_list = [tag["id"] for group in r.json()["tag_group"] for tag in group["tag"]]
         r = self.del_tags(tag_id_list)
+        allure.attach(f"clear环境后的响应结果为<={r.json()}", attachment_type=allure.attachment_type.TEXT)
         return r
 

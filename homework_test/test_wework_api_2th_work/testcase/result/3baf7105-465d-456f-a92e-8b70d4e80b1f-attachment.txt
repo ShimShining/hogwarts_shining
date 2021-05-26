@@ -1,0 +1,40 @@
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "created"
+}
+INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "shim0527",
+  "name": "hog_shim2",
+  "department": [
+    2,
+    1
+  ],
+  "position": "资深测试开发",
+  "mobile": "13444477705",
+  "gender": "2",
+  "email": "shim0527@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc897ab8a2075ca409",
+  "alias": "shim02",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "address": "广东省深圳市ns测试地址002",
+  "thumb_avatar": ""
+}

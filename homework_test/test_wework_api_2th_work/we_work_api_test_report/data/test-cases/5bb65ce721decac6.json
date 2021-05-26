@@ -1,0 +1,459 @@
+{
+  "uid" : "5bb65ce721decac6",
+  "name" : "test_add_tags_json[get_tags_json0]",
+  "fullName" : "homework_test.test_wework_api_2th_work.testcase.test_tag_api.TestTagApi#test_add_tags_json",
+  "historyId" : "89d88f6509698c81faeb8ec2901561fc",
+  "time" : {
+    "start" : 1622035928368,
+    "stop" : 1622035929822,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestTagApi",
+    "time" : {
+      "start" : 1622035926778,
+      "stop" : 1622035928367,
+      "duration" : 1589
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c4fa6de33f04fbc5",
+      "name" : "f787aa5e-0632-4729-85c1-13bc72b6225a-attachment.txt",
+      "source" : "c4fa6de33f04fbc5.txt",
+      "type" : "text/plain",
+      "size" : 318
+    }, {
+      "uid" : "960ac9b168c85546",
+      "name" : "e294bc5d-4cb2-4ab8-9459-72d6fb1430a8-attachment.txt",
+      "source" : "960ac9b168c85546.txt",
+      "type" : "text/plain",
+      "size" : 233
+    }, {
+      "uid" : "a40454954df48787",
+      "name" : "4e693860-264d-4a9d-9261-11f4cab5b7b5-attachment.json",
+      "source" : "a40454954df48787.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "cfd3cf9ea8930ebe",
+      "name" : "dccf1933-f1d3-420a-b4f2-50cc607d6879-attachment.json",
+      "source" : "cfd3cf9ea8930ebe.json",
+      "type" : "application/json",
+      "size" : 505
+    }, {
+      "uid" : "99b3f274a9990d47",
+      "name" : "cb4f90fc-2039-4241-aea1-4cc58fc93030-attachment.txt",
+      "source" : "99b3f274a9990d47.txt",
+      "type" : "text/plain",
+      "size" : 34
+    }, {
+      "uid" : "d5e99eb40155360",
+      "name" : "a33c1eaa-0b00-4f61-a96b-e83a72e58543-attachment.json",
+      "source" : "d5e99eb40155360.json",
+      "type" : "application/json",
+      "size" : 452
+    }, {
+      "uid" : "54c1b7d312232be0",
+      "name" : "73054a21-1421-4226-8896-543a70e73ed4-attachment.json",
+      "source" : "54c1b7d312232be0.json",
+      "type" : "application/json",
+      "size" : 316
+    }, {
+      "uid" : "74703853a8b6095e",
+      "name" : "d4701d16-cc07-4188-8f54-68d935e2c4e5-attachment.json",
+      "source" : "74703853a8b6095e.json",
+      "type" : "application/json",
+      "size" : 444
+    }, {
+      "uid" : "7c08da2a13fbbf58",
+      "name" : "49bae889-e1c0-4956-a81a-4d648ec41172-attachment.json",
+      "source" : "7c08da2a13fbbf58.json",
+      "type" : "application/json",
+      "size" : 308
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1622035899302,
+      "stop" : 1622035899405,
+      "duration" : 103
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "get_tags_json",
+    "time" : {
+      "start" : 1622035928368,
+      "stop" : 1622035928368,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eff930f217dd5eea",
+      "name" : "85a49447-4bd0-49e2-bd1f-f033116d639f-attachment.json",
+      "source" : "eff930f217dd5eea.json",
+      "type" : "application/json",
+      "size" : 434
+    }, {
+      "uid" : "9e9088edeefe406c",
+      "name" : "5325895a-7147-40fd-84fe-8b5b56d9e09f-attachment.json",
+      "source" : "9e9088edeefe406c.json",
+      "type" : "application/json",
+      "size" : 298
+    }, {
+      "uid" : "79a08250fbc5b87a",
+      "name" : "8c304401-adaa-4bcc-aee0-ff8b9f2b2b3f-attachment.json",
+      "source" : "79a08250fbc5b87a.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "a10bb7b5e999882c",
+      "name" : "1d3adae7-4371-4491-b0a7-08e3834bc80a-attachment.json",
+      "source" : "a10bb7b5e999882c.json",
+      "type" : "application/json",
+      "size" : 1211
+    }, {
+      "uid" : "e63844f4d94f39d3",
+      "name" : "6af178e2-835e-458a-bc81-fd9f086a5eb3-attachment.txt",
+      "source" : "e63844f4d94f39d3.txt",
+      "type" : "text/plain",
+      "size" : 135
+    }, {
+      "uid" : "72eed5ca218a4192",
+      "name" : "log",
+      "source" : "72eed5ca218a4192.txt",
+      "type" : "text/plain",
+      "size" : 5335
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestTagApi::0",
+    "time" : {
+      "start" : 1622035934159,
+      "stop" : 1622035942707,
+      "duration" : 8548
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cdddb3f4805a1e14",
+      "name" : "e8676fa1-3f4d-484c-bda4-9f2b60119f65-attachment.json",
+      "source" : "cdddb3f4805a1e14.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "3bbc103cdc0097a1",
+      "name" : "665d5c4e-3006-47d4-9764-b73904f92da0-attachment.json",
+      "source" : "3bbc103cdc0097a1.json",
+      "type" : "application/json",
+      "size" : 2320
+    }, {
+      "uid" : "748bd8d75a550e2e",
+      "name" : "6a4e8a58-4845-4ae1-8ef0-cf578828ef39-attachment.txt",
+      "source" : "748bd8d75a550e2e.txt",
+      "type" : "text/plain",
+      "size" : 284
+    }, {
+      "uid" : "17c2530152d03d66",
+      "name" : "432022b4-2be5-47a2-81d4-267e4e01acc9-attachment.json",
+      "source" : "17c2530152d03d66.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "17335625e2741df",
+      "name" : "eab980e0-fe1c-4cf7-9ea5-2bb4890b2608-attachment.json",
+      "source" : "17335625e2741df.json",
+      "type" : "application/json",
+      "size" : 2320
+    }, {
+      "uid" : "2d11c7f81bb7ec1e",
+      "name" : "f4857124-3a9f-4c2b-a23c-25ce4f8f4070-attachment.json",
+      "source" : "2d11c7f81bb7ec1e.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "f49e7fe1d76b4e49",
+      "name" : "2f901aae-0d15-4fbc-818c-197b138ec28e-attachment.json",
+      "source" : "f49e7fe1d76b4e49.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "f9aff79360096da1",
+      "name" : "25cf5c66-23a4-4980-98cd-3c27cfdc7f48-attachment.json",
+      "source" : "f9aff79360096da1.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "ba7f6a4b8abd5f4c",
+      "name" : "4163fa8a-b1a3-457d-8b2a-63772f1efb42-attachment.json",
+      "source" : "ba7f6a4b8abd5f4c.json",
+      "type" : "application/json",
+      "size" : 2076
+    }, {
+      "uid" : "ddebc2cc84217723",
+      "name" : "192dbb5c-8f92-4014-a4ac-337740ade7da-attachment.json",
+      "source" : "ddebc2cc84217723.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "71bcc7bdb89681ee",
+      "name" : "3b28ca0e-0d10-42b8-9de6-1bcacae91565-attachment.json",
+      "source" : "71bcc7bdb89681ee.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "3ab40ff9b1f23772",
+      "name" : "d0dad3f6-5b46-449c-8b8c-eef6dc191ef0-attachment.json",
+      "source" : "3ab40ff9b1f23772.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "903df53bc84cd965",
+      "name" : "b350b32e-00bd-40ec-a42e-0792a273ceda-attachment.json",
+      "source" : "903df53bc84cd965.json",
+      "type" : "application/json",
+      "size" : 1840
+    }, {
+      "uid" : "2b3b4e0c66b82116",
+      "name" : "125c097f-ee8e-4ce5-9b4f-37c506479001-attachment.json",
+      "source" : "2b3b4e0c66b82116.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "b3de9a8ea7ea3529",
+      "name" : "97ac4911-060c-40e3-83e5-ae158cba0920-attachment.json",
+      "source" : "b3de9a8ea7ea3529.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "3aa033ae9da8b72d",
+      "name" : "a47ccdf6-c66d-4b03-b40c-2e9b00242e02-attachment.json",
+      "source" : "3aa033ae9da8b72d.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "3a065a6141e4452a",
+      "name" : "0c2bec08-5f83-4560-89ec-48017298bd99-attachment.json",
+      "source" : "3a065a6141e4452a.json",
+      "type" : "application/json",
+      "size" : 1614
+    }, {
+      "uid" : "d145488ff49f4ca5",
+      "name" : "13502d6f-ff2b-4aac-9a64-c7e0e5461947-attachment.json",
+      "source" : "d145488ff49f4ca5.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "82beae1f8e77cbd8",
+      "name" : "3d42d644-dfa8-4003-88df-eba9738ac415-attachment.json",
+      "source" : "82beae1f8e77cbd8.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "a747458a4367af7f",
+      "name" : "670eed3e-36d5-424e-b6c4-b4614fe42a7b-attachment.json",
+      "source" : "a747458a4367af7f.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "3f37a9af92564ab0",
+      "name" : "5e0aecfd-ab34-4097-80b1-e3662b5bef96-attachment.json",
+      "source" : "3f37a9af92564ab0.json",
+      "type" : "application/json",
+      "size" : 1388
+    }, {
+      "uid" : "6b7db8a82df8a541",
+      "name" : "60910c2f-b2aa-4747-af2f-5d0e404f63c1-attachment.json",
+      "source" : "6b7db8a82df8a541.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "17d6f32a74b0d13e",
+      "name" : "48ba58ff-c6d4-4063-b0f6-fa910a6ae46e-attachment.json",
+      "source" : "17d6f32a74b0d13e.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "7f4dc962b05c2e0d",
+      "name" : "e7de3397-62f6-4cae-ab48-69f5d58dd7b8-attachment.json",
+      "source" : "7f4dc962b05c2e0d.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "515fe58f8c4a3718",
+      "name" : "22ebc3b8-60fb-4e3a-a948-054e0d2ad09b-attachment.json",
+      "source" : "515fe58f8c4a3718.json",
+      "type" : "application/json",
+      "size" : 1162
+    }, {
+      "uid" : "988d33237d35cb37",
+      "name" : "f8bc3659-2e13-4efb-90e2-a0f6a11234c9-attachment.json",
+      "source" : "988d33237d35cb37.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "1fdf58d20a4b6864",
+      "name" : "fb9b14cd-6a34-4d24-9107-2c9cadc5cf43-attachment.json",
+      "source" : "1fdf58d20a4b6864.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "a4b7a1cbd5bdecf9",
+      "name" : "9fe9c4cf-0bde-49d0-b39c-ef00ed26c915-attachment.json",
+      "source" : "a4b7a1cbd5bdecf9.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "87267eb78fde9b76",
+      "name" : "3658a5f6-dada-4c6e-9b6c-1a19e7a3efd5-attachment.json",
+      "source" : "87267eb78fde9b76.json",
+      "type" : "application/json",
+      "size" : 931
+    }, {
+      "uid" : "68772c12e16a9ab2",
+      "name" : "52ee50a7-00ac-4ac3-8d2b-16dd1ca8709f-attachment.json",
+      "source" : "68772c12e16a9ab2.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "3afd876f3a1d9731",
+      "name" : "c9f65f4c-dda8-4fa7-aad4-2244620f3542-attachment.json",
+      "source" : "3afd876f3a1d9731.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "e64f7531b46ae12e",
+      "name" : "38356f7d-ce2d-4441-adf7-2414320e44b2-attachment.json",
+      "source" : "e64f7531b46ae12e.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "4b957a8820b0d9bb",
+      "name" : "c6a2953c-4b4b-4290-8d19-387cf75a31e1-attachment.json",
+      "source" : "4b957a8820b0d9bb.json",
+      "type" : "application/json",
+      "size" : 830
+    }, {
+      "uid" : "e3b6673000cfea27",
+      "name" : "f639ec16-0bb8-496c-90e4-a52a15c36e0f-attachment.json",
+      "source" : "e3b6673000cfea27.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "9e8218ee20bf482a",
+      "name" : "e78ac30d-f54e-4e07-8c16-c2f61b321dd3-attachment.json",
+      "source" : "9e8218ee20bf482a.json",
+      "type" : "application/json",
+      "size" : 59
+    }, {
+      "uid" : "b6473b41ab18cf83",
+      "name" : "515c28b1-dc73-413e-a00f-09f31907fe23-attachment.json",
+      "source" : "b6473b41ab18cf83.json",
+      "type" : "application/json",
+      "size" : 385
+    }, {
+      "uid" : "c98e512266a186a5",
+      "name" : "762f03b4-a5db-4d31-bd20-a0b3826ace28-attachment.json",
+      "source" : "c98e512266a186a5.json",
+      "type" : "application/json",
+      "size" : 729
+    }, {
+      "uid" : "469f9fa93a47d05a",
+      "name" : "7a9fdc39-4e8f-429f-9956-92fe2f783706-attachment.json",
+      "source" : "469f9fa93a47d05a.json",
+      "type" : "application/json",
+      "size" : 426
+    }, {
+      "uid" : "37b83ff4b0b47e40",
+      "name" : "bd1e2eb5-86d7-4a24-b068-6bb6d7b4c3a4-attachment.json",
+      "source" : "37b83ff4b0b47e40.json",
+      "type" : "application/json",
+      "size" : 59
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 39
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "查询接口"
+  }, {
+    "name" : "feature",
+    "value" : "客户管理-客户标签接口功能"
+  }, {
+    "name" : "parentSuite",
+    "value" : "homework_test.test_wework_api_2th_work.testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_tag_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTagApi"
+  }, {
+    "name" : "host",
+    "value" : "ShimmerShiningHoon"
+  }, {
+    "name" : "thread",
+    "value" : "11376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "homework_test.test_wework_api_2th_work.testcase.test_tag_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_tags_json",
+    "value" : "{'group_name': 'group1', 'tag': [{'name': 'g1_tag001'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bb65ce721decac6.json",
+  "parameterValues" : [ "{'group_name': 'group1', 'tag': [{'name': 'g1_tag001'}]}" ]
+}

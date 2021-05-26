@@ -1,0 +1,281 @@
+[ {
+  "uid" : "c0b630ea91c84ab6",
+  "name" : "test_add_member_success[get_member_data0]",
+  "time" : {
+    "start" : 1622035903739,
+    "stop" : 1622035904080,
+    "duration" : 341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27c6a0dd951a8cac",
+  "name" : "test_add_tags_json[get_tags_json1]",
+  "time" : {
+    "start" : 1622035929826,
+    "stop" : 1622035930357,
+    "duration" : 531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ad757d8837d1975",
+  "name" : "test_add_member_mobile_empty",
+  "time" : {
+    "start" : 1622035926189,
+    "stop" : 1622035926333,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec55bd70faeb5c43",
+  "name" : "test_add_member_name_miss",
+  "time" : {
+    "start" : 1622035924359,
+    "stop" : 1622035925319,
+    "duration" : 960
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbb41bf7becf7a97",
+  "name" : "test_add_member_userid_miss",
+  "time" : {
+    "start" : 1622035923947,
+    "stop" : 1622035924355,
+    "duration" : 408
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbdeed61818772a6",
+  "name" : "test_add_tag[信用-差]",
+  "time" : {
+    "start" : 1622035907747,
+    "stop" : 1622035908854,
+    "duration" : 1107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73eef0f1e6f93811",
+  "name" : "test_add_member_depart_miss",
+  "time" : {
+    "start" : 1622035925472,
+    "stop" : 1622035925904,
+    "duration" : 432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43aa979df1f182d3",
+  "name" : "test_add_member_mobile_miss",
+  "time" : {
+    "start" : 1622035925321,
+    "stop" : 1622035925468,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1dcbff5b381c6fa6",
+  "name" : "test_add_member_success[get_member_data1]",
+  "time" : {
+    "start" : 1622035904085,
+    "stop" : 1622035904443,
+    "duration" : 358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba4137dfcf82047f",
+  "name" : "test_add_tag[信用-优秀]",
+  "time" : {
+    "start" : 1622035907242,
+    "stop" : 1622035907742,
+    "duration" : 500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5717701cb28cf94b",
+  "name" : "test_add_tag[shimmer-tag_001]",
+  "time" : {
+    "start" : 1622035904892,
+    "stop" : 1622035906405,
+    "duration" : 1513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3883a0c93b308ad5",
+  "name" : "test_del_tag[删除标签组-你删除我试试]",
+  "time" : {
+    "start" : 1622035918122,
+    "stop" : 1622035919460,
+    "duration" : 1338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36d2883383453355",
+  "name" : "test_add_tag[盲仔-tag_001]",
+  "time" : {
+    "start" : 1622035906645,
+    "stop" : 1622035907233,
+    "duration" : 588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4711be5953d71ea0",
+  "name" : "test_del_member[delete001]",
+  "time" : {
+    "start" : 1622035926503,
+    "stop" : 1622035926772,
+    "duration" : 269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72745abec4dbccca",
+  "name" : "test_add_tag[shimmer-tag_002]",
+  "time" : {
+    "start" : 1622035906411,
+    "stop" : 1622035906639,
+    "duration" : 228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc9e3fd0585bf780",
+  "name" : "test_add_edit_del_flow[flow-flow_tags-flow_modify]",
+  "time" : {
+    "start" : 1622035933102,
+    "stop" : 1622035934155,
+    "duration" : 1053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bb65ce721decac6",
+  "name" : "test_add_tags_json[get_tags_json0]",
+  "time" : {
+    "start" : 1622035928368,
+    "stop" : 1622035929822,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c357b5c661403188",
+  "name" : "test_add_tags[get_tags0]",
+  "time" : {
+    "start" : 1622035931798,
+    "stop" : 1622035932011,
+    "duration" : 213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fe2a9c3bc21b05",
+  "name" : "test_add_member_name_empty",
+  "time" : {
+    "start" : 1622035926112,
+    "stop" : 1622035926185,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fa0dc4bf4a58ac",
+  "name" : "test_add_member_mobile_miss_email_exist",
+  "time" : {
+    "start" : 1622035923566,
+    "stop" : 1622035923943,
+    "duration" : 377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "287a11c00b62fc27",
+  "name" : "test_add_tags_order[get_tags_order0]",
+  "time" : {
+    "start" : 1622035932016,
+    "stop" : 1622035933098,
+    "duration" : 1082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "228ce7fb65aa538a",
+  "name" : "test_add_tags_json[get_tags_json2]",
+  "time" : {
+    "start" : 1622035930361,
+    "stop" : 1622035931793,
+    "duration" : 1432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3676e2bcb6c9df9",
+  "name" : "test_add_member_name_repeat",
+  "time" : {
+    "start" : 1622035916587,
+    "stop" : 1622035916742,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e1488f7126a6ee5",
+  "name" : "test_edit_tag[编辑标签组-编辑tag1-modify_tag001]",
+  "time" : {
+    "start" : 1622035917734,
+    "stop" : 1622035918040,
+    "duration" : 306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71cbb1c207ee553a",
+  "name" : "test_add_member_all_empty",
+  "time" : {
+    "start" : 1622035926042,
+    "stop" : 1622035926108,
+    "duration" : 66
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f34c7ed639709806",
+  "name" : "test_add_member_all_miss",
+  "time" : {
+    "start" : 1622035925907,
+    "stop" : 1622035926039,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c18caef5025d1e9",
+  "name" : "test_add_member_depart_empty",
+  "time" : {
+    "start" : 1622035926337,
+    "stop" : 1622035926499,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c41025c64649cc4",
+  "name" : "test_search_tag",
+  "time" : {
+    "start" : 1622035918045,
+    "stop" : 1622035918119,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

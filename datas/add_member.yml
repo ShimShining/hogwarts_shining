@@ -1,0 +1,20 @@
+-
+  user_id: shim0526
+  name: hog_shim1
+  mobile: 13444477704
+  department: [1,2]
+  email: shim0526@test.com
+  address: 广东省深圳市ns测试地址001
+  position: 高级测试开发
+  alias: shim01
+  gender: 1
+-
+  user_id: shim0527
+  name: hog_shim2
+  mobile: 13444477705
+  department: [1,2]
+  email: shim0527@test.com
+  address: 广东省深圳市ns测试地址002
+  position: 资深测试开发
+  alias: shim02
+  gender: 2
