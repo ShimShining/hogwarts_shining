@@ -4,3 +4,4 @@ venv/
 *.log
 *result/
 *report/
+*__pycache__/

@@ -12,11 +12,12 @@ from resource.utils.log import Logger
 
 log_filename = os.path.realpath(sys.argv[1]).split("\\")[-1]. \
     replace(".py::", "py_").replace("::", ".") \
-    if sys.argv[1] else None
+    if sys.argv[1] else "api.py兜底日志文件名"
 # log_filename = os.path.basename(__file__)
-print(f"日志主文件路径={log_filename}")
-print(f"Sys.argv参数列表={sys.argv}")
 logger = Logger(log_filename).logger
+logger.info("<== logger 初始化完成,开始日志收集 ==>")
+logger.info(f"Sys.argv参数列表={sys.argv}")
+logger.info(f"日志主文件路径={log_filename}")
 
 
 class Api:
@@ -42,7 +43,7 @@ class Api:
 
         self.logger.info(f"请求参数为==> {json.dumps(request, indent=2, ensure_ascii=False)}")
         r = requests.request(**request)
-        self.logger.info(f"响应参数为==> {json.dumps(r.json(), indent=2, ensure_ascii=False)}")
+        self.logger.info(f"返回响应为==> {json.dumps(r.json(), indent=2, ensure_ascii=False)}")
         return r.json()
 
     def rpc_request(self, request):

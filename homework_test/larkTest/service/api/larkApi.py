@@ -9,20 +9,19 @@ from homework_test.larkTest.service.api.api import Api
 
 
 class LarkApi(Api):
-
     _base_url = ReadConfig.get_lark_api_base_url()
     __token_path = "/auth/v3/tenant_access_token/internal"
 
-    def __init__(self):
-
+    def __init__(self, app_id="cli_a1a5914d54f99013", app_secret="anOniQndOyvmODm3FRN3jd17wfIUOOPx"):
+        # 多个应用如何构造Token?
         super().__init__()
         self.token = None
-        self.app_id = "cli_a1a5914d54f99013"
-        self.app_secret = "anOniQndOyvmODm3FRN3jd17wfIUOOPx"
+        self.app_id = app_id
+        self.app_secret = app_secret
 
     def get_token(self):
 
-        if self.token:
+        if self.token is not None:
             self.logger.info(f"使用已有token={self.token}")
             return self.token
 
@@ -40,8 +39,10 @@ class LarkApi(Api):
         }
         j = self.request(data)
         assert j["code"] == 0
-        self.logger.info(f"第一次获取token成功,token={j['tenant_access_token']}")
-        return j["tenant_access_token"]
+        self.logger.info(f"第1次获取token成功,token={j['tenant_access_token']}")
+        # todo 没有对self.token赋值 导致每次请求都重新获取,改成赋值后,如果token失效呢?怎么处理
+        self.token = j["tenant_access_token"]
+        return self.token
 
     def lark_request(self, request):
 
@@ -53,5 +54,5 @@ class LarkApi(Api):
             self.logger.info(f"headers添加成功")
 
         j = self.request(request)
+        assert j['code'] == 0
         return j
-
