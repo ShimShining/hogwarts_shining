@@ -21,6 +21,8 @@ class TestCalendar:
 
     def test_get_calendar_lists(self):
 
+        summary = "Lark接口日历自动化" + str(int(time.time()))
+        c = self.calendar.create(summary, permissions='public')
         calendar_lists = self.calendar.get_lists()
         assert len(calendar_lists) > 0
 
@@ -62,6 +64,9 @@ class TestCalendar:
 
     def test_get_one_calendar(self):
 
-        pass
+        summary = "Lark日历AT获取1条" + str(int(time.time()))
+        self.calendar.create(summary, permissions='public')
+        j = self.calendar.get(summary)
+        assert j["data"]["summary"] == summary
 
 

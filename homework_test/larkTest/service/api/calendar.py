@@ -74,9 +74,17 @@ class Calendar(LarkApi):
         self.logger.info(f"删除id={calender_id}的日历成功.")
         return j
 
-    def get(self, *args):
+    def get(self, summary, **kwargs):
 
-        pass
+        calender_id = self.get_calendar_id_by_summary(summary)[0]
+        data = {
+            "method": "GET",
+            "url": self._base_url + self.__base_path + f"/{calender_id}",
+        }
+
+        j = self.lark_request(data)
+        self.logger.info(f"获取id={calender_id}的日历成功.")
+        return j
 
     def subscribe(self):
 
