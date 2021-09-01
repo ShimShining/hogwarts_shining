@@ -60,6 +60,7 @@ class TestMemberApi:
 
     @allure.story("添加接口")
     @pytest.mark.run(order=2)
+    # todo 异常场景用例可以使用数据驱动
     def test_add_member_name_repeat(self):
         data = {
                 "userid": "repeat001",
