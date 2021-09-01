@@ -1,4 +1,0 @@
-INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
-  "errcode": 40066,
-  "errmsg": "invalid party list, hint: [1622035861_147_404dd06fdfba2f29bec5973c764f4589], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=40066"
-}

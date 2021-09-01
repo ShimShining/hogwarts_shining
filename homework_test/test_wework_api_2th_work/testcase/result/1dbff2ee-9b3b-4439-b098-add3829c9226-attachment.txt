@@ -1,0 +1,120 @@
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "DKNNbdlwQQIrfG52pRSYGYVZmM8LF8xhv-ETAgs2YzAZ-w13OpFMPPt2kpxevgvWguyStiWtPAZLv0Jt1ZHRSm9-F2K6GuK60JyStcKPhIZowuzpNBFvibfIIKKs6d3nt1u9Fb43g73cnf7uc-6fYmp7oi8vbRUixNf0IUKpruD3N7jp9oIAxXFm7QOkBHctfERPZkokFiaut4xTugmbIQ",
+  "expires_in": 7200
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_contact.py:29 获取token成功,token=DKNNbdlwQQIrfG52pRSYGYVZmM8LF8xhv-ETAgs2YzAZ-w13OpFMPPt2kpxevgvWguyStiWtPAZLv0Jt1ZHRSm9-F2K6GuK60JyStcKPhIZowuzpNBFvibfIIKKs6d3nt1u9Fb43g73cnf7uc-6fYmp7oi8vbRUixNf0IUKpruD3N7jp9oIAxXFm7QOkBHctfERPZkokFiaut4xTugmbIQ
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "email_exist",
+  "name": "重复",
+  "department": [
+    1,
+    2
+  ],
+  "position": "",
+  "mobile": "",
+  "gender": "0",
+  "email": "email_exist@test.com",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc0632a63fa21f060b",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:member_api.py:114 删除user_id=email_exist成功
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1630491035_197_4711eb6df116390c4aceff1ed3e780da], from ip: 113.116.69.87, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1630491035_197_5c60265beefd6294a4a492a420bff004], from ip: 113.116.69.87, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 60111,
+  "errmsg": "userid not found, hint: [1630491035_197_b1a5afffac5a125191b282d14cbcf48b], from ip: 113.116.69.87, more info at https://open.work.weixin.qq.com/devtool/query?e=60111",
+  "department": [],
+  "order": [],
+  "is_leader_in_dept": []
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "ok",
+  "userid": "repeat001",
+  "name": "重复",
+  "department": [
+    1,
+    2
+  ],
+  "position": "",
+  "mobile": "13944021404",
+  "gender": "0",
+  "email": "",
+  "avatar": "",
+  "status": 4,
+  "isleader": 0,
+  "extattr": {
+    "attrs": []
+  },
+  "telephone": "",
+  "enable": 1,
+  "hide_mobile": 0,
+  "order": [
+    0,
+    0
+  ],
+  "main_department": 1,
+  "qr_code": "https://open.work.weixin.qq.com/wwopen/userQRCode?vcode=vc2b4bddd3fa92569f",
+  "alias": "",
+  "is_leader_in_dept": [
+    0,
+    0
+  ],
+  "thumb_avatar": ""
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:member_api.py:114 删除user_id=repeat001成功
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "created"
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 0,
+  "errmsg": "created"
+}
+INFO     test_member_apipy_TestMemberApi.test_add_member_userid_miss:base_api.py:42 {
+  "errcode": 41009,
+  "errmsg": "missing userid, hint: [1630491036_161_b0616a467b2d381d3724de8b3066e7bc], from ip: 113.116.69.87, more info at https://open.work.weixin.qq.com/devtool/query?e=41009"
+}

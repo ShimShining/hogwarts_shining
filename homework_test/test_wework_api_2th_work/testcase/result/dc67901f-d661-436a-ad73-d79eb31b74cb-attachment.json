@@ -1,0 +1,1 @@
+删除成员接口请求数据为=>{'url': 'https://qyapi.weixin.qq.com/cgi-bin/user/delete', 'method': 'get', 'params': {'access_token': 'DKNNbdlwQQIrfG52pRSYGYVZmM8LF8xhv-ETAgs2YzAZ-w13OpFMPPt2kpxevgvWguyStiWtPAZLv0Jt1ZHRSm9-F2K6GuK60JyStcKPhIZowuzpNBFvibfIIKKs6d3nt1u9Fb43g73cnf7uc-6fYmp7oi8vbRUixNf0IUKpruD3N7jp9oIAxXFm7QOkBHctfERPZkokFiaut4xTugmbIQ', 'userid': 'email_exist'}}
