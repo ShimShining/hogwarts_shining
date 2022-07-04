@@ -6,7 +6,7 @@ Describe:企业微信通讯录界面封装
 """
 from time import sleep
 import random
-from test_case.base import MPath, Common, Base
+from testcase.base import MPath, Common, Base
 from selenium import webdriver
 
 
