@@ -1,4 +1,0 @@
-INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
-  "errcode": 60102,
-  "errmsg": "userid existed, hint: [1622035858_147_03d63004dfc0f6272bbade8fedb4abdc], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60102"
-}

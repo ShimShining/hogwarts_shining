@@ -7,7 +7,7 @@ Describe:login 封装
 from selenium import webdriver
 import yaml
 from resource.wework import WeWorkContactsPage
-from test_case.base import Common, Base
+from testcase.base import Common, Base
 
 
 class WeworkLogin:

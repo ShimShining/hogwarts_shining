@@ -1,4 +1,0 @@
-INFO     test_member_apipy_TestMemberApi:base_api.py:43 {
-  "errcode": 60112,
-  "errmsg": "invalid name, hint: [1622035861_147_79d3d7f3e184a156192a99ffac45fab0], from ip: 113.116.140.163, more info at https://open.work.weixin.qq.com/devtool/query?e=60112"
-}
