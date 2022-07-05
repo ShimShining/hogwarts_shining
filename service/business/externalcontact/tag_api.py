@@ -5,11 +5,11 @@ Date: 2021/5/24
 Describe:客户标签API po封装
 """
 from jsonpath import jsonpath
-from aha_test.test_wework_api.api.wework_api import WeworkApi
 import allure
+from service.business.business_api import BusinessApi
 
 
-class TagApi(WeworkApi):
+class TagApi(BusinessApi):
 
     __add_path = "/externalcontact/add_corp_tag"
     __edit_path = "/externalcontact/edit_corp_tag"

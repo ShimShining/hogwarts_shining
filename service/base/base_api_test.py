@@ -6,7 +6,7 @@ Describe:基础测试类
 """
 
 
-class BaseTestCase:
+class BaseApiTest:
 
     def login(self):
 

@@ -7,8 +7,8 @@ Describe:
 
 
 import pytest
-from aha_test.test_wework_api.api.externalcontact.tag_api import TagApi
 import allure
+from service.business.externalcontact.tag_api import TagApi
 
 
 @allure.feature("客户管理-客户标签接口功能")

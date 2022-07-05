@@ -5,7 +5,7 @@ Date: 2021/5/23
 Describe:通讯录接口封装
 """
 import allure
-from aha_test.test_wework_api.api.contact.base_contact import CommonContact
+from service.business.contact.common_contact import CommonContact
 
 
 class MemberApi(CommonContact):
