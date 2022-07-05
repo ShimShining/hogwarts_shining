@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Author : 'Shining'
-Date: 2021/4/24
-Describe:日志输出
+Author : shining
+Date: 2022/7/5
+Describe: 通用日志模块封装
 """
 import datetime
 import logging
@@ -47,3 +47,4 @@ class Logger:
 if '__main__' == __name__:
     testLogger = Logger("TestLogger")
     testLogger.fun()
+

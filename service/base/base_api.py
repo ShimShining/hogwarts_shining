@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Author : 'Shining'
-Date: 2021/5/23
-Describe:api 自动化基类
+Author : shining
+Date: 2022/7/5
+Describe: base api request
 """
 import json
 import requests
 import os
 import sys
-from resource.utils.log import Logger
+
+from units.log import Logger
 
 log_filename = os.path.realpath(sys.argv[1]).split("\\")[-1]. \
     replace(".py::", "py_").replace("::", ".") \
@@ -23,7 +24,7 @@ class BaseApi:
 
     def __init__(self):
 
-        self.logger = logger
+        self.log = logger
 
     def request(self, request: dict):
 
@@ -50,6 +51,10 @@ class BaseApi:
 
         pass
 
+    def wss_request(self, request):
+
+        pass
+
     # @staticmethod
     # def log_info(msg):
     #
@@ -59,4 +64,6 @@ class BaseApi:
     # def log_error(err_msg):
     #
     #     logger.error(err_msg)
+
+
 

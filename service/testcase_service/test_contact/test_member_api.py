@@ -5,9 +5,8 @@ Date: 2021/5/24
 Describe:添加成员API case
 """
 import pytest
-
-from aha_test.test_wework_api.api.contact.member_api import MemberApi
 import allure
+from service.business.contact.member_api import MemberApi
 
 
 @allure.feature("添加成员模块")

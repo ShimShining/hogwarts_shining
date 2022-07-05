@@ -5,10 +5,10 @@ Date: 2021/5/26
 Describe:通讯录基础封装
 """
 import allure
-from aha_test.test_wework_api.api.wework_api import WeworkApi
+from service.business.business_api import BusinessApi
 
 
-class CommonContact(WeworkApi):
+class CommonContact(BusinessApi):
 
     def get_token(self):
         data = {

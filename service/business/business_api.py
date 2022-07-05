@@ -4,11 +4,12 @@ Author : 'Shining'
 Date: 2021/5/23
 Describe:
 """
-from aha_test.test_wework_api.api.base_api import BaseApi
 import allure
 
+from service.base.base_api import BaseApi
 
-class WeworkApi(BaseApi):
+
+class BusinessApi(BaseApi):
 
     token = None
     base_url = "https://qyapi.weixin.qq.com/cgi-bin"
